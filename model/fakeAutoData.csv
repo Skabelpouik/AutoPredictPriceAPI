@@ -1,0 +1,206 @@
+,version,energie,transmission,portes,puissance,prix,ans,kilometrage,marque
+0,alfa-romero giulia,essence,manuelle,2,111,13495.0,8.0,49474,alfa-romero 
+1,alfa-romero stelvio,essence,manuelle,2,111,16500.0,7.0,132109,alfa-romero 
+2,alfa-romero Quadrifoglio,essence,manuelle,2,154,16500.0,3.0,81097,alfa-romero 
+3,audi 100 ls,essence,manuelle,4,102,13950.0,13.0,324792,audi 
+4,audi 100ls,essence,manuelle,4,115,17450.0,9.0,144573,audi 
+5,audi fox,essence,manuelle,2,110,15250.0,13.0,389891,audi 
+6,audi 100ls,essence,manuelle,4,110,17710.0,11.0,180075,audi 
+7,audi 5000,essence,manuelle,4,110,18920.0,10.0,49380,audi 
+8,audi 4000,essence,automatique,4,140,23875.0,10.0,296208,audi 
+9,audi 5000s (diesel),essence,automatique,2,160,17859.167,11.0,253734,audi 
+10,bmw 320i,essence,manuelle,2,101,16430.0,6.0,119714,bmw 
+11,bmw 320i,essence,manuelle,4,101,16925.0,5.0,100565,bmw 
+12,bmw x1,essence,manuelle,2,121,20970.0,5.0,61975,bmw 
+13,bmw x3,essence,manuelle,4,121,21105.0,5.0,138829,bmw 
+14,bmw z4,essence,manuelle,4,121,24565.0,6.0,94562,bmw 
+15,bmw x4,essence,manuelle,4,182,30760.0,7.0,202253,bmw 
+16,bmw x5,essence,manuelle,2,182,41315.0,6.0,104685,bmw 
+17,bmw x3,essence,manuelle,4,182,36880.0,7.0,102509,bmw 
+18,chevrolet impala,essence,manuelle,2,48,5151.0,9.0,38366,chevrolet 
+19,chevrolet monte carlo,essence,manuelle,2,70,6295.0,10.0,157639,chevrolet 
+20,chevrolet vega 2300,essence,manuelle,4,70,6575.0,7.0,35261,chevrolet 
+21,dodge rampage,essence,manuelle,2,68,5572.0,7.0,209896,dodge 
+22,dodge challenger se,essence,manuelle,2,68,6377.0,8.0,116378,dodge 
+23,dodge d200,essence,automatique,2,102,7957.0,7.0,134679,dodge 
+24,dodge monaco (sw),essence,manuelle,4,68,6229.0,7.0,205543,dodge 
+25,dodge colt hardtop,essence,manuelle,4,68,6692.0,7.0,98232,dodge 
+26,dodge colt (sw),essence,manuelle,4,68,7609.0,7.0,32712,dodge 
+27,dodge coronet custom,essence,automatique,2,102,8558.0,7.0,205766,dodge 
+28,dodge dart custom,essence,manuelle,4,88,8921.0,4.0,72588,dodge 
+29,dodge coronet custom (sw),essence,automatique,2,145,12964.0,13.0,59199,dodge 
+30,honda civic,essence,manuelle,2,58,6479.0,9.0,196354,honda 
+31,honda civic cvcc,essence,manuelle,2,76,6855.0,10.0,289976,honda 
+32,honda civic,essence,manuelle,2,60,5399.0,7.0,60202,honda 
+33,honda accord cvcc,essence,manuelle,2,76,6529.0,6.0,55929,honda 
+34,honda civic cvcc,essence,manuelle,2,76,7129.0,6.0,106141,honda 
+35,honda accord lx,essence,manuelle,4,76,7295.0,8.0,195217,honda 
+36,honda civic 1500 gl,essence,manuelle,4,76,7295.0,9.0,111368,honda 
+37,honda accord,essence,manuelle,2,86,7895.0,9.0,222206,honda 
+38,honda civic 1300,essence,manuelle,2,86,9095.0,10.0,237552,honda 
+39,honda prelude,essence,manuelle,4,86,8845.0,8.0,100607,honda 
+40,honda accord,essence,manuelle,4,86,10295.0,9.0,20280,honda 
+41,honda civic,essence,manuelle,4,101,12945.0,9.0,180572,honda 
+42,honda civic (auto),essence,manuelle,2,100,10345.0,9.0,105420,honda 
+43,isuzu MU-X,essence,manuelle,4,78,6785.0,12.0,312444,isuzu 
+44,isuzu D-Max ,essence,manuelle,2,70,8916.5,10.0,277067,isuzu 
+45,isuzu D-Max V-Cross,essence,manuelle,4,70,8916.5,10.0,206800,isuzu 
+46,isuzu D-Max ,essence,manuelle,2,90,11048.0,7.0,169439,isuzu 
+47,jaguar xj,essence,manuelle,4,176,32250.0,7.0,11372,jaguar 
+48,jaguar xf,essence,manuelle,4,176,35550.0,7.0,55416,jaguar 
+49,jaguar xk,essence,manuelle,2,262,36000.0,11.0,279540,jaguar 
+50,maxda rx3,essence,manuelle,2,68,5195.0,12.0,106518,maxda 
+51,maxda glc deluxe,essence,manuelle,2,68,6095.0,12.0,298521,maxda 
+52,mazda rx2 coupe,essence,manuelle,2,68,6795.0,11.0,256142,mazda 
+53,mazda rx-4,essence,manuelle,4,68,6695.0,8.0,16446,mazda 
+54,mazda glc deluxe,essence,manuelle,4,68,7395.0,8.0,65177,mazda 
+55,mazda 626,essence,manuelle,2,101,10945.0,4.0,40727,mazda 
+56,mazda glc,essence,manuelle,2,101,11845.0,4.0,43268,mazda 
+57,mazda rx-7 gs,essence,manuelle,2,101,13645.0,5.0,170754,mazda 
+58,mazda glc 4,essence,manuelle,2,135,15645.0,5.0,91336,mazda 
+59,mazda 626,essence,manuelle,2,84,8845.0,8.0,198912,mazda 
+60,mazda glc custom l,essence,manuelle,4,84,8495.0,8.0,97508,mazda 
+61,mazda glc custom,essence,manuelle,2,84,10595.0,7.0,144468,mazda 
+62,mazda rx-4,essence,manuelle,4,84,10245.0,8.0,221252,mazda 
+63,mazda glc deluxe,diesel,manuelle,4,64,10795.0,7.0,119872,mazda 
+64,mazda 626,essence,manuelle,4,84,11245.0,7.0,106597,mazda 
+65,mazda glc,essence,manuelle,4,120,18280.0,9.0,239970,mazda 
+66,mazda rx-7 gs,diesel,manuelle,4,72,18344.0,9.0,73947,mazda 
+67,buick electra 225 custom,diesel,automatique,4,123,25552.0,11.0,241519,buick 
+68,buick century luxus (sw),diesel,automatique,4,123,28248.0,11.0,75539,buick 
+69,buick century,diesel,automatique,2,123,28176.0,7.0,185975,buick 
+70,buick skyhawk,diesel,automatique,4,123,31600.0,7.0,24608,buick 
+71,buick opel isuzu deluxe,essence,manuelle,4,155,34184.0,7.0,154107,buick 
+72,buick skylark,essence,manuelle,2,155,35056.0,10.0,182346,buick 
+73,buick century special,essence,manuelle,4,184,40960.0,3.0,9458,buick 
+74,buick regal sport coupe (turbo),essence,manuelle,2,184,45400.0,2.0,66785,buick 
+75,mercury cougar,essence,automatique,2,175,16503.0,5.0,85150,mercury 
+76,mitsubishi mirage,essence,manuelle,2,68,5389.0,8.0,61214,mitsubishi 
+77,mitsubishi lancer,essence,manuelle,2,68,6189.0,7.0,143331,mitsubishi 
+78,mitsubishi outlander,essence,manuelle,2,68,6669.0,8.0,94082,mitsubishi 
+79,mitsubishi g4,essence,automatique,2,102,7689.0,8.0,169616,mitsubishi 
+80,mitsubishi mirage g4,essence,automatique,2,116,9959.0,7.0,182234,mitsubishi 
+81,mitsubishi g4,essence,manuelle,2,88,8499.0,7.0,61813,mitsubishi 
+82,mitsubishi outlander,essence,automatique,2,145,12629.0,13.0,169426,mitsubishi 
+83,mitsubishi g4,essence,automatique,2,145,14869.0,13.0,81947,mitsubishi 
+84,mitsubishi mirage g4,essence,automatique,2,145,14489.0,13.0,32649,mitsubishi 
+85,mitsubishi montero,essence,manuelle,4,88,6989.0,8.0,124222,mitsubishi 
+86,mitsubishi pajero,essence,manuelle,4,88,8189.0,8.0,52062,mitsubishi 
+87,mitsubishi outlander,essence,automatique,4,116,9279.0,8.0,214492,mitsubishi 
+88,mitsubishi mirage g4,essence,manuelle,4,116,9279.0,8.0,172725,mitsubishi 
+89,Nissan versa,essence,manuelle,2,69,5499.0,7.0,77491,Nissan 
+90,nissan gt-r,diesel,manuelle,2,55,7099.0,7.0,55299,nissan 
+91,nissan rogue,essence,manuelle,2,69,6649.0,7.0,139552,nissan 
+92,nissan latio,essence,manuelle,4,69,6849.0,7.0,189083,nissan 
+93,nissan titan,essence,manuelle,4,69,7349.0,8.0,54738,nissan 
+94,nissan leaf,essence,manuelle,2,69,7299.0,8.0,211648,nissan 
+95,nissan juke,essence,manuelle,2,69,7799.0,2.0,47638,nissan 
+96,nissan latio,essence,manuelle,4,69,7499.0,7.0,144408,nissan 
+97,nissan note,essence,manuelle,4,69,7999.0,9.0,165892,nissan 
+98,nissan clipper,essence,manuelle,2,69,8249.0,9.0,26251,nissan 
+99,nissan rogue,essence,manuelle,4,97,8949.0,11.0,182374,nissan 
+100,nissan nv200,essence,manuelle,4,97,9549.0,11.0,125234,nissan 
+101,nissan dayz,essence,manuelle,4,152,13499.0,6.0,85856,nissan 
+102,nissan fuga,essence,manuelle,4,152,14399.0,11.0,120551,nissan 
+103,nissan otti,essence,manuelle,4,152,13499.0,11.0,48405,nissan 
+104,nissan teana,essence,manuelle,2,160,17199.0,5.0,131691,nissan 
+105,nissan kicks,essence,automatique,2,200,19699.0,6.0,53782,nissan 
+106,nissan clipper,essence,manuelle,2,160,18399.0,2.0,52392,nissan 
+107,peugeot 504,essence,manuelle,4,97,11900.0,11.0,264542,peugeot 
+108,peugeot 304,diesel,automatique,4,95,13200.0,11.0,25010,peugeot 
+109,peugeot 504 (sw),essence,manuelle,4,97,12440.0,13.0,222156,peugeot 
+110,peugeot 504,diesel,automatique,4,95,13860.0,13.0,339475,peugeot 
+111,peugeot 504,essence,manuelle,4,95,15580.0,12.0,195981,peugeot 
+112,peugeot 604sl,diesel,automatique,4,95,16900.0,11.0,290886,peugeot 
+113,peugeot 504,essence,manuelle,4,95,16695.0,13.0,74819,peugeot 
+114,peugeot 505s turbo diesel,diesel,automatique,4,95,17075.0,12.0,195382,peugeot 
+115,peugeot 504,essence,manuelle,4,97,16630.0,12.0,232639,peugeot 
+116,peugeot 504,diesel,automatique,4,95,17950.0,12.0,98591,peugeot 
+117,peugeot 604sl,essence,automatique,4,142,18150.0,4.0,131622,peugeot 
+118,plymouth fury iii,essence,manuelle,2,68,5572.0,7.0,24723,plymouth 
+119,plymouth cricket,essence,automatique,2,102,7957.0,8.0,171903,plymouth 
+120,plymouth fury iii,essence,manuelle,4,68,6229.0,8.0,225226,plymouth 
+121,plymouth satellite custom (sw),essence,manuelle,4,68,6692.0,4.0,93933,plymouth 
+122,plymouth fury gran sedan,essence,manuelle,4,68,7609.0,4.0,12270,plymouth 
+123,plymouth valiant,essence,manuelle,4,88,8921.0,5.0,122434,plymouth 
+124,plymouth duster,essence,automatique,2,145,12764.0,13.0,110750,plymouth 
+125,porsche macan,essence,manuelle,2,143,22018.0,3.0,94955,porsche 
+126,porcshce panamera,essence,manuelle,2,207,32528.0,10.0,129384,porcshce 
+127,porsche cayenne,essence,manuelle,2,207,34028.0,9.0,200737,porsche 
+128,porsche boxter,essence,manuelle,2,207,37028.0,10.0,123239,porsche 
+129,porsche cayenne,essence,manuelle,2,288,31400.5,6.0,112801,porsche 
+130,renault 12tl,essence,manuelle,4,90,9295.0,9.0,187691,renault 
+131,renault 5 gtl,essence,manuelle,2,90,9895.0,3.0,55859,renault 
+132,saab 99e,essence,manuelle,2,110,11850.0,11.0,136335,saab 
+133,saab 99le,essence,manuelle,4,110,12170.0,10.0,185593,saab 
+134,saab 99le,essence,manuelle,2,110,15040.0,10.0,149212,saab 
+135,saab 99gle,essence,manuelle,4,110,15510.0,11.0,337552,saab 
+136,saab 99gle,essence,automatique,2,160,18150.0,11.0,155302,saab 
+137,saab 99e,essence,automatique,4,160,18620.0,11.0,182447,saab 
+138,subaru,essence,manuelle,2,69,5118.0,3.0,49940,subaru
+139,subaru dl,essence,manuelle,2,73,7053.0,6.0,108547,subaru 
+140,subaru dl,essence,manuelle,2,73,7603.0,11.0,192336,subaru 
+141,subaru,essence,manuelle,4,82,7126.0,5.0,89443,subaru
+142,subaru brz,essence,manuelle,4,82,7775.0,6.0,170155,subaru 
+143,subaru baja,essence,manuelle,4,94,9960.0,5.0,162849,subaru 
+144,subaru r1,essence,manuelle,4,82,9233.0,4.0,45412,subaru 
+145,subaru r2,essence,automatique,4,111,11259.0,3.0,86198,subaru 
+146,subaru trezia,essence,manuelle,4,82,7463.0,10.0,224940,subaru 
+147,subaru tribeca,essence,manuelle,4,94,10198.0,10.0,264680,subaru 
+148,subaru dl,essence,manuelle,4,82,8013.0,2.0,74453,subaru 
+149,subaru dl,essence,automatique,4,111,11694.0,2.0,71862,subaru 
+150,toyota corona mark ii,essence,manuelle,2,62,5348.0,9.0,190821,toyota 
+151,toyota corona,essence,manuelle,2,62,6338.0,9.0,60798,toyota 
+152,toyota corolla 1200,essence,manuelle,4,62,6488.0,10.0,277942,toyota 
+153,toyota corona hardtop,essence,manuelle,4,62,6918.0,7.0,124798,toyota 
+154,toyota corolla 1600 (sw),essence,manuelle,4,62,7898.0,8.0,236938,toyota 
+155,toyota carina,essence,manuelle,4,62,8778.0,8.0,235773,toyota 
+156,toyota mark ii,essence,manuelle,4,70,6938.0,14.0,191496,toyota 
+157,toyota corolla 1200,essence,manuelle,4,70,7198.0,13.0,384781,toyota 
+158,toyota corona,diesel,manuelle,4,56,7898.0,13.0,208820,toyota 
+159,toyota corolla,diesel,manuelle,4,56,7788.0,14.0,198138,toyota 
+160,toyota corona,essence,manuelle,4,70,7738.0,13.0,386719,toyota 
+161,toyota corolla,essence,manuelle,4,70,8358.0,14.0,77440,toyota 
+162,toyota mark ii,essence,manuelle,4,70,9258.0,13.0,322572,toyota 
+163,toyota corolla liftback,essence,manuelle,2,70,8058.0,9.0,156058,toyota 
+164,toyota corona,essence,manuelle,2,70,8238.0,9.0,70897,toyota 
+165,toyota celica gt liftback,essence,manuelle,2,112,9298.0,9.0,153738,toyota 
+166,toyota corolla tercel,essence,manuelle,2,112,9538.0,9.0,54433,toyota 
+167,toyota corona liftback,essence,manuelle,2,116,8449.0,4.0,20079,toyota 
+168,toyota corolla,essence,manuelle,2,116,9639.0,4.0,84559,toyota 
+169,toyota starlet,essence,manuelle,2,116,9989.0,4.0,87700,toyota 
+170,toyota tercel,essence,manuelle,2,116,11199.0,4.0,56986,toyota 
+171,toyota corolla,essence,manuelle,2,116,11549.0,4.0,119565,toyota 
+172,toyota cressida,essence,manuelle,2,116,17669.0,3.0,52971,toyota 
+173,toyota corolla,essence,manuelle,4,92,8948.0,5.0,86518,toyota 
+174,toyota celica gt,diesel,automatique,4,73,10698.0,5.0,154670,toyota 
+175,toyota corona,essence,manuelle,4,92,9988.0,6.0,71280,toyota 
+176,toyota corolla,essence,manuelle,4,92,10898.0,5.0,150291,toyota 
+177,toyota mark ii,essence,manuelle,4,92,11248.0,6.0,166148,toyota 
+178,toyota corolla liftback,essence,manuelle,2,161,16558.0,9.0,136725,toyota 
+179,toyota corona,essence,manuelle,2,161,15998.0,10.0,187141,toyota 
+180,toyota starlet,essence,manuelle,4,156,15690.0,13.0,224201,toyota 
+181,toyouta tercel,essence,manuelle,4,156,15750.0,12.0,29003,toyouta 
+182,vokswagen rabbit,diesel,manuelle,2,52,7775.0,11.0,235315,vokswagen 
+183,volkswagen 1131 deluxe sedan,essence,manuelle,2,85,7975.0,12.0,276254,volkswagen 
+184,volkswagen model 111,diesel,manuelle,4,52,7995.0,12.0,125221,volkswagen 
+185,volkswagen type 3,essence,manuelle,4,85,8195.0,12.0,171674,volkswagen 
+186,volkswagen 411 (sw),essence,manuelle,4,85,8495.0,12.0,358463,volkswagen 
+187,volkswagen super beetle,diesel,automatique,4,68,9495.0,12.0,309431,volkswagen 
+188,volkswagen dasher,essence,manuelle,4,100,9995.0,11.0,74734,volkswagen 
+189,vw dasher,essence,manuelle,2,90,11595.0,3.0,62202,vw 
+190,vw rabbit,essence,manuelle,2,90,9980.0,3.0,96408,vw 
+191,volkswagen rabbit,essence,manuelle,4,110,13295.0,8.0,73765,volkswagen 
+192,volkswagen rabbit custom,diesel,automatique,4,68,13845.0,7.0,178124,volkswagen 
+193,volkswagen dasher,essence,manuelle,4,88,12290.0,13.0,283081,volkswagen 
+194,volvo 145e (sw),essence,manuelle,4,114,12940.0,4.0,33198,volvo 
+195,volvo 144ea,essence,manuelle,4,114,13415.0,5.0,106066,volvo 
+196,volvo 244dl,essence,manuelle,4,114,15985.0,5.0,40987,volvo 
+197,volvo 245,essence,manuelle,4,114,16515.0,4.0,36657,volvo 
+198,volvo 264gl,essence,automatique,4,162,18420.0,4.0,41648,volvo 
+199,volvo diesel,essence,automatique,4,162,18950.0,5.0,87322,volvo 
+200,volvo 145e (sw),essence,manuelle,4,114,16845.0,4.0,98011,volvo 
+201,volvo 144ea,essence,automatique,4,160,19045.0,5.0,91363,volvo 
+202,volvo 244dl,essence,manuelle,4,134,21485.0,5.0,167957,volvo 
+203,volvo 246,diesel,automatique,4,106,22470.0,4.0,4310,volvo 
+204,volvo 264gl,essence,automatique,4,114,22625.0,4.0,132888,volvo 
