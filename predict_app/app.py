@@ -19,7 +19,7 @@ class Home(Resource):
 api.add_resource(Home, '/')
 
 if __name__ == '__main__':
-    modelfile = 'predict_app/models/voiture_model_LR.pkl'    
+    modelfile = 'predict_app/models/voiture_model_fake_LR.pkl'    
     model = p.load(open(modelfile, 'rb'))
     #pipeline = load("predict_app/models/text_classification.joblib")
     app.run(debug=True)
