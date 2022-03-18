@@ -1,15 +1,24 @@
 from flask import Flask, request, jsonify
-from flask_restful import Api, Resource
+from flask_restful import Api, Resource, fields, marshal_with
 import numpy as np
 import pickle as p
 from joblib import load
 
-app = Flask(__name__)
+app = Flask(__name__) # Flask app instance initiated
 
-api = Api(app)
+api = Api(app) # Flask restful wraps Flask app around it.
+
+awesome_response_schema = dict(
+    prediction=fields.String(default='')
+) #  Restful way of creating APIs through Flask Restful
 
 class Home(Resource):
+    @marshal_with(awesome_response_schema)  # marshalling
     def get(self):
+        """
+        Prédit le prix d'une voiture d'occasion
+        Retourne le montant de la prédiction
+        """
         # Récupération de la requête au format JSON
         j_data = request.get_json()
         # Résultat de la prédiction d'une ligne du fichier reçu en requête stocké dans un numpyarray
