@@ -1,8 +1,10 @@
 marque,version,annee,kilometrage,energie,emission_C02,consommation_mixte,transmission,portes,puissance_fiscale,places,lieu,prix
-Volkswagen,Tiguan 2.0 TDI 150 DSG7 4Motion Black R-Line,2019,24000,Diesel,133,null,Automatique,4,8,5,09400,29500
+Renault,Modus 1.5 dCi 80 Confort Dynamique,2004,156000,Diesel,122,4.6,Manuelle,4,5,5,81300,3700
+Renault,Mégane IV Berline TCe 140 EDC FAP Business,2019,4700,Essence,125,5.5,Automatique,4,7,5,85800,18500
+Renault,Clio E-Tech 140 - 21N Intens,2022,2000,Hybride,null,null,Automatique,4,5,5,83400,21700
+Toyota,Edition 1.8 hybrid 122ch,2022,10,Hybride,null,null,Automatique,4,5,null,null,27470
 Renault,Laguna 1.9 DTI RTE,1999,320000,Diesel,null,5.5,Manuelle,4,6,5,28400,2000
 Citroën,2 CV 6 Special,1986,96700,Essence,null,null,Manuelle,4,3,5,31250,12000
-TOYOTA,Edition 1.8 hybrid 122ch,2022,10,Hybride,null,null,Automatique,4,5,null,null,27470
 Volkswagen,Coccinelle Cabriolet 2.0 TDI 150 BMT Club,2015,92600,Diesel,118,4.6,Manuelle,2,8,4,91830,18100
 Renault,Scenic 1.9 dCi 130 Exception,2008,173300,Diesel,159,6.0,Manuelle,4,8,5,63200,4000
 BMW,320d 177ch Confort,2008,212500,Diesel,128,4.8,Manuelle,4,9,5,60126,6800
@@ -79,7 +81,6 @@ Audi,A4 1.6i A,1996,135000,Essence,null,null,Automatique,4,10,5,94110,1500
 Mercedes,Classe C Break 200 CDI Elégance,2007,330000,Diesel,171,6.5,Manuelle,4,7,5,62220,4100
 Ford,C-MAX 1.6 TDCI 95 FAP Business,2013,100000,Diesel,117,4.5,Manuelle,4,5,5,24350,8500
 Mercedes,GLA 200 d 7-G DCT Sensation,2018,57400,Diesel,152,5.9,Automatique,4,7,5,59155,27000
-Suzuki,S-Cross 1.4 Boosterjet Allgrip Hybrid Privilège,2020,9500,Essence,null,null,Manuelle,4,7,5,17450,18200
 Cadillac,CTS 3.2 V6 A,2003,126500,Essence,276,11.7,Automatique,4,15,5,52100,6000
 Citroën,Axel 1.1 Base,1972,90000,Essence,null,null,Manuelle,2,6,5,42150,7000
 BMW,318d 150 ch BVA8 M Sport,2018,47500,Diesel,116,4.4,Automatique,4,8,5,65000,24900
@@ -102,31 +103,79 @@ Citroën,C3 Picasso BlueHDi 100 Attraction,2015,43000,Diesel,101,3.9,Manuelle,4,
 Mercedes,SL280 A,1982,102000,Essence,null,null,Automatique,2,16,2,92330,33000
 Auto,330 d x Pack A,2001,196000,Diesel,232,8.7,Automatique,4,12,5,76440,6500
 Peugeot,null,1997,20000,Essence,null,null,Automatique,null,null,null,81210,15000
+Citroën,C3 Aircross BlueHDi 100 S&S BVM6 Shine,2019,34000,Diesel,null,null,Manuelle,4,5,5,18110,16700
+Renault,Kadjar TCe 140 FAP Zen,2020,14000,Essence,null,null,Manuelle,4,7,5,45170,17600
+Citroën,DS4 BlueHDi 180 S&S EAT6 Executive,2018,78880,Diesel,113,4.3,Automatique,4,9,5,32100,17650
+Mini,Mini Cabriolet Cooper 136 ch,2017,34500,Essence,114,4.9,Manuelle,2,7,4,06600,20500
+Citroën,C4 Coupé 1.6i 16V 110 VTS,2006,180000,Essence,169,7.1,Manuelle,2,7,5,69100,4700
+Renault,Talisman Estate dCi 160 Energy EDC Initiale Paris,2016,123576,Diesel,120,4.6,Automatique,4,8,5,75019,14000
+Hyundai,Tucson 1.7 CRDi 115 2WD Creative,2016,80000,Diesel,119,4.6,Manuelle,4,6,5,33360,15600
+Mercedes,Classe GLC 300 d 9G-Tronic 4Matic AMG Line,2019,67000,Diesel,null,null,Automatique,4,14,5,42000,51000
+Opel,Mokka 1.7 CDTI - 130 ch FAP 4x2 ecoFLEX Start&Stop Cosmo,2013,118216,Diesel,120,4.5,Manuelle,4,7,5,04200,8900
+Alfa,Stelvio 2.2 210 ch Q4 AT8 Sport Edition,2018,53500,Diesel,127,4.8,Automatique,4,11,5,04160,36000
+Citroën,C4 BlueHDi 130 S&S EAT8 Shine Pack,2020,1757,Diesel,null,null,Automatique,4,7,5,62320,25990
+Mercedes,CLK 270 CDI Elégance A,2004,191000,Diesel,183,6.9,Automatique,2,10,4,13013,7000
+Volkswagen,Golf 2.0 TSI 270 R 4Motion DSG6,2011,117300,Essence,195,8.4,Semi automatique,4,17,5,30000,19900
+Peugeot,3008 2.0 HDi 16V 150ch FAP Féline,2010,150000,Diesel,149,5.7,Manuelle,4,8,5,77430,7900
+Subaru,Forester 2.0D,2015,120000,Diesel,148,null,Manuelle,4,8,5,39000,12000
+OPEL,Rakord,1976,27000,Diesel,null,null,Manuelle,4,null,4,40100,3000
+Volkswagen,Touran 2.0 TDI 190 BMT DSG6 5pl Carat,2018,93000,Diesel,122,4.7,Automatique,4,10,5,30000,20500
+Citroën,2 CV 6 Special,1986,16000,Essence,null,null,Manuelle,4,3,5,74380,14000
+Peugeot,607 2.2 HDi Pack,2002,176000,Diesel,178,6.7,Manuelle,4,8,5,11510,3390
+Trafic,Trafic Combi L2 dCi 125 Energy Zen,2018,95000,Diesel,145,5.6,Manuelle,4,7,8,33310,16500
+Opel,Corsa 1.3 CDTI - 95 ch FAP Color Edition,2013,197000,Diesel,115,4.4,Manuelle,2,5,5,59280,5500
+Citroën,C3 SOCIETE BLUEHDI 75 S&S 79G CONFORT,2016,46000,Diesel,79,3.0,Manuelle,4,3,2,17100,6800
+Toyota,Land Cruiser 3.0 D4-D VX Gentleman Farmer,2001,141000,Diesel,253,9.5,Manuelle,2,11,5,16100,16500
+Renault,Clio dCi 75 Energy Business,2016,35000,Diesel,85,3.3,Manuelle,4,4,5,97231,10500
+Audi,80 1.9 Tbo Di,1994,9000,Diesel,null,null,Manuelle,4,5,5,97170,1000
+Mercedes,C Coupé Sport 220 CDI Sport Edition,2005,202000,Diesel,167,6.3,Manuelle,2,9,4,11370,3500
+Toyota,Yaris 70 VVT-i 20eme anniversaire,2019,6728,Essence,104,4.7,Manuelle,4,4,5,76600,13900
+Toyota,Land Cruiser 190 D-4D Légende A,2014,94740,Diesel,213,8.1,Automatique,4,12,5,03500,38000
+Renault,Clio Estate TCe 75 E6C Limited,2019,18500,Essence,113,5.0,Manuelle,4,4,5,24200,10590
+Renault,Clio 1.2 16v Extrême,2004,99000,Essence,139,5.9,Manuelle,2,5,5,34130,3500
+Nissan,Qashqai 1.6 dCi 130 All-Mode 4x4-i Tekna,2018,65000,Diesel,133,5.1,Manuelle,4,7,5,13120,18500
+Peugeot,208 1.6 BlueHDi 100ch BVM5 Active,2016,107000,Diesel,90,3.5,Manuelle,4,5,5,63000,9200
+Ford,Fiesta 1.4i Senso,2004,172000,Essence,153,6.4,Manuelle,4,5,5,63000,2600
+Citroën,DS7 Crossback PureTech 225 EAT8 Grand Chic,2019,22000,Essence,135,5.9,Automatique,4,13,5,06250,37500
+Fiat,500X 1.4 MultiAir 140 ch DCT Club,2017,47500,Essence,133,5.7,Automatique,4,7,5,28310,14300
+Peugeot,3008 Hybrid 225 e-EAT8 GT,2021,13000,Hybride,32,null,Automatique,4,10,5,38240,40200
+Jeep,Renegade 1.6 I MultiJet S&S 120 ch Limited,2015,146000,Diesel,115,4.4,Manuelle,4,6,5,04100,11900
+Volvo,V60 D2 120 ch Stop&Start Geartronic 6 Business,2017,117000,Diesel,114,4.3,Automatique,4,6,5,vendeur,14900
+Renault,Grand Scénic dCi 130 Energy Bose Edition 5 pl,2015,94000,Diesel,114,4.4,Manuelle,4,7,7,13500,14000
 Peugeot,308 BlueHDi 130ch S&S EAT8 Allure,2020,12000,Diesel,94,3.6,Automatique,4,6,5,68000,24500
 AUTRES,JS50,2018,15200,Diesel,null,null,Manuelle,2,null,2,91540,10000
 Dacia,Duster Blue dCi 115 4x2 Prestige +,2021,1790,Diesel,null,null,Manuelle,4,6,5,16600,21600
+Volkswagen,Golf 1.4 TSI 122 Confortline DSG7,2009,138830,Essence,138,6.0,Semi automatique,2,7,5,94130,7500
+Renault,Twingo 1.2 16v Kiss Cool,2005,75500,Essence,138,5.8,Manuelle,2,5,4,83390,3490
+Citroën,C4 Picasso HDi 110 FAP Rossignol,2012,125250,Diesel,135,5.3,Manuelle,4,6,5,64530,7000
+Renault,Mégane Scénic 1.6e Aida A,2000,137000,Essence,null,9.1,Automatique,4,7,5,78390,1999
 Citroën,C3 1.4i 16v Exclusive,2008,201000,Essence,148,6.2,Manuelle,4,5,5,37000,4500
+Volkswagen,Golf Plus 1.9 TDI 105 Confort,2007,167000,Diesel,143,5.6,Manuelle,4,6,5,39200,4700
+Peugeot,207 SW 1.6 HDi 92ch FAP BLUE LION Active,2012,119000,Diesel,110,4.2,Manuelle,4,5,5,81200,4800
+Skoda,Fabia 1.2 TSI 90 ch Greentec Ambition,2016,71000,Essence,107,4.7,Manuelle,4,5,5,13100,10500
+Ford,Fiesta 1.0 80 S&S Titanium,2013,145000,Essence,99,4.3,Manuelle,2,4,5,17440,4900
 Mercedes,Classe C 180 d Sportline,2015,159700,Diesel,106,4.1,Manuelle,4,6,5,57460,15300
+BMW,Z3 1.9i,2000,198000,Essence,null,7.9,Manuelle,2,7,2,14280,8000
+Jeep,Wrangler 2.8 CRD 200 Sport,2014,44000,Diesel,187,7.1,Manuelle,2,12,4,68500,34900
 Mini,Mini Cooper SD 170 ch BVA6 Finition John Cooper Works,2015,134000,Diesel,107,4.1,Automatique,2,9,4,77200,14000
+Audi,Q3 2.0 TDI 177 ch Quattro Ambiente S tronic 7,2012,187000,Diesel,156,5.9,Semi automatique,4,10,5,25000,13500
 Peugeot,208 PureTech 82ch S&S BVM5 6.2 Evap Signature,2019,7500,Essence,108,4.7,Manuelle,4,4,5,83700,13000
 Nissan,Qashqai+2 1.6 dCi 130 FAP All-Mode Stop/Start 360,2013,166,Diesel,139,5.3,Manuelle,4,7,7,31390,9200
 BMW,X1 sDrive 18d 143 ch Business,2011,203000,Diesel,136,5.2,Manuelle,4,8,5,69270,9400
 Hyundai,Tucson 1.7 CRDi 115 2WD Business,2017,50000,Diesel,119,4.6,Manuelle,4,6,5,13720,17500
 Fiat,500C 1.2 8V 69 ch Lounge Dualogic,2012,72500,Essence,118,5.1,Semi automatique,2,4,4,44450,8000
+Opel,Astra Twintop 1.9 CDTI - 150 FAP 111,2010,125980,Diesel,159,6.0,Manuelle,2,9,4,59790,5900
 Audi,A4 1.9 TDI - 130 Pack,2001,293000,Diesel,149,5.5,Manuelle,4,7,5,33600,1500
 Audi,A3 1.6i Attraction,1999,180700,Essence,182,7.6,Manuelle,2,7,5,64800,1900
-Toyota,Land Cruiser 3.0 D4-D VX Gentleman Farmer,2001,141000,Diesel,253,9.5,Manuelle,2,11,5,16100,16500
-Opel,Mokka 1.7 CDTI - 130 ch FAP 4x2 ecoFLEX Start&Stop Cosmo,2013,118216,Diesel,120,4.5,Manuelle,4,7,5,04200,8900
-Citroën,C3 Aircross BlueHDi 100 S&S BVM6 Shine,2019,34000,Diesel,null,null,Manuelle,4,5,5,18110,16700
-Mini,Mini Cabriolet Cooper 136 ch,2017,34500,Essence,114,4.9,Manuelle,2,7,4,06600,20500
-Renault,Kadjar TCe 140 FAP Zen,2020,14000,Essence,null,null,Manuelle,4,7,5,45170,17600
-Citroën,DS4 BlueHDi 180 S&S EAT6 Executive,2018,78880,Diesel,113,4.3,Automatique,4,9,5,32100,17650
+Citroën,DS7 Crossback PureTech 180 EAT8 Business,2019,15000,Essence,119,5.2,Automatique,4,9,5,92140,36300
 Audi,A6 Avant 2.5 TDI V6 - 180 Pack Plus Quattro Tiptronic A,2003,366459,Diesel,230,8.5,Automatique,4,12,5,83470,1500
-Skoda,Fabia Combi 1.6 TDI 105 CR Elegance 2,2013,209000,Diesel,109,4.2,Manuelle,4,5,5,06400,3500
 Peugeot,108 VTi 72ch BVM5 Access,2019,41000,Essence,93,4.1,Manuelle,4,4,4,77850,8500
+Volkswagen,Golf 1.5 TSI 150 EVO DSG7 Confortline,2020,52320,Essence,109,5.1,Automatique,4,8,5,56170,24500
 Citroën,C3 BlueHDi 100 S&S BVM6 Shine,2021,4000,Diesel,null,null,Manuelle,4,5,5,14680,18700
 Audi,Q2 1.0 TFSI 116 ch S tronic 7,2017,43000,Essence,117,5.1,Semi automatique,4,6,5,74000,22900
 Fiat,500C 1.0 70 ch Hybride BSG S/S Dolcevita Spiaggina,2021,800,Essence,null,null,Manuelle,2,4,4,68740,18500
+Dacia,Sandero 1.5 dCi 90 FAP Stepway Ambiance,2015,120000,Diesel,105,4.0,Manuelle,4,5,5,01300,7600
+Citroën,Xsara Picasso 1.8i 16V,2003,177000,Essence,184,7.7,Manuelle,4,7,5,33600,2990
 Renault,Scenic dCi 110 Energy Business,2018,154000,Diesel,100,3.9,Manuelle,4,5,5,41140,10890
 LEXUS,NX 300h 4WD Luxe,2018,45900,Hybride,130,5.9,Automatique,4,8,5,44500,32990
 BMW,114d 95 ch Business,2016,124000,Diesel,95,3.6,Manuelle,4,5,5,51330,11500
@@ -148,6 +197,7 @@ Chrysler,PT Cruiser 2.4 Limited A,2004,112000,Essence,258,10.8,Automatique,2,10,
 Peugeot,3008 1.6 HDi 16V 110ch FAP Confort Pack,2009,174898,Diesel,137,5.1,Manuelle,4,6,5,vendeur,5600
 Lexus,RX300 3.0i V6 Pack A,2001,278000,Essence,311,13.0,Automatique,4,15,5,17200,5900
 Citroën,DS3 PureTech 110 BVA So Chic,2019,8100,Essence,119,5.2,Automatique,2,6,2,74970,17950
+Mercedes,CLK 240 Elégance A,2002,921230,Essence,238,9.9,Automatique,2,11,4,06270,4900
 Ford,B-MAX 1.0 EcoBoost 125 S&S Business,2016,73000,Essence,114,4.9,Manuelle,4,6,5,59510,10500
 Citroën,C4 Aircross HDi 150 Confort,2012,null,Diesel,141,5.4,Manuelle,4,8,5,67210,6500
 Audi,A5 Sportback 2.0 TDI 143 S line,2013,124000,Diesel,119,4.5,Manuelle,4,7,4,38490,15490
@@ -156,14 +206,12 @@ Peugeot,2008 PureTech 110ch S&S BVM6 Allure,2019,22000,Essence,104,4.8,Manuelle,
 Renault,Clio TCe 120 Energy Edition One,2017,38000,Essence,118,5.3,Manuelle,4,6,5,94500,13500
 Hyundai,i30 1.4 CRDi 90 Blue Drive Pack Inventive,2012,135000,Diesel,105,4.0,Manuelle,4,5,5,95210,8100
 Renault,Clio 1.2 Campus,2005,198500,Essence,143,6.0,Manuelle,2,4,5,38000,1900
-Mercedes,C Coupé Sport 220 CDI,2005,202000,Diesel,174,6.6,Manuelle,2,9,4,11370,4000
 Kia,Venga 1.4 CRDi 90 ch Active,2010,127000,Diesel,124,4.7,Manuelle,4,5,5,06200,6500
 Nissan,Qashqai 1.6 dCi 130 Stop/Start Acenta,2015,133580,Diesel,115,4.4,Manuelle,4,7,5,64300,12000
 Peugeot,207 1.6 HDi 16v 90ch Exécutive,2006,262000,Diesel,120,4.5,Manuelle,4,5,5,77250,3490
 Peugeot,308 1.6 THP 140ch Féline A,2008,100200,Essence,188,7.9,Automatique,4,9,5,95000,6500
 Dacia,Sandero TCe 90 - 22 Confort,2022,60,Essence,null,null,Manuelle,4,5,5,27940,14900
 Citroën,C5 Aircross PureTech 130 S&S EAT8 Business,2020,20000,Essence,null,null,Automatique,4,7,5,72230,26500
-Renault,Modus 1.6 16V 110 Exception Euro 5 A,2011,38000,Essence,179,7.7,Automatique,4,7,5,50380,5600
 Nissan,NP300 NAVARA 2.3 DCI 160 KING CAB N-CONNECTA,2016,123000,Diesel,169,null,Manuelle,4,8,4,21500,20500
 Citroën,C4 Picasso BlueHDi 150 S&S Business,2014,197000,Diesel,107,4.1,Manuelle,4,7,5,81500,8490
 Mini,Mini 1.6i - 115 Cooper,2006,119500,Essence,166,6.9,Manuelle,2,7,4,78400,6800
@@ -181,7 +229,6 @@ Mercedes,Classe A 180 d 8G-DCT AMG Line,2018,24000,Diesel,null,null,Automatique,
 Dacia,Duster Blue dCi 115 4x2 Confort,2019,53000,Diesel,null,null,Manuelle,4,6,5,56240,15900
 Opel,Corsa 1.3 CDTI Cosmo,2004,246000,Diesel,127,4.7,Manuelle,4,4,5,40260,1200
 Volkswagen,Golf 1.6 TDI 115 BlueMotion Technology FAP DSG7 Confortline Business,2017,82500,Diesel,102,3.9,Semi automatique,4,6,5,78310,14850
-Fiat,Panda 1.2 8V Emotion,2005,79000,Essence,129,5.5,Manuelle,4,4,4,34130,3750
 Peugeot,207 1.6e 16v 110ch Sport Pack,2006,166000,Essence,166,7.0,Manuelle,2,7,5,01200,3690
 Citroën,Xsara Picasso 2.0 HDi 90 SX,2002,226000,Diesel,147,5.5,Manuelle,4,5,5,60530,1150
 Peugeot,3008 BlueHDi 180ch S&S EAT8 GT,2019,60300,Diesel,null,null,Automatique,4,9,5,85600,28600
@@ -191,7 +238,6 @@ Volkswagen,Golf 1.5 TSI 130 EVO BVM6 Connect,2019,24500,Essence,117,5.0,Manuelle
 Mini,Mini Paceman 184 ch ALL4 Cooper S Pack Red Hot Chili A,2013,104000,Essence,180,7.7,Automatique,2,11,4,06600,14500
 Dacia,Logan MCV 1.6 16V 105 Bioéthanol 7 places Lauréate,2010,163000,Autres,178,7.6,Manuelle,4,7,7,01170,4500
 Audi,A6 Avant V6 3.0 TDI DPF 240 Quattro Sport Plus Edition Tiptronic A,2010,274000,Diesel,189,7.1,Automatique,4,15,5,42000,12900
-Peugeot,206 1.6i 16V Griffe,2003,140600,Essence,153,6.4,Manuelle,2,7,5,38000,2900
 Peugeot,3008 Hybrid 300 e-EAT8 GT,2020,30000,Hybride,null,null,Automatique,4,11,5,86300,37500
 Ford,EcoSport 1.0 EcoBoost 125ch S&S BVM6 ST-Line Noir/Jaune,2020,19570,Essence,114,5.0,Manuelle,4,7,5,52130,16900
 Renault,Latitude dCi 150 FAP Business,2011,189000,Diesel,140,5.3,Manuelle,4,8,5,03310,6000
@@ -213,6 +259,7 @@ Citroën,NEMO HDI 75 FAP BUSINESS,2012,145000,Diesel,124,4.7,Manuelle,4,5,2,1320
 Renault,Captur dCi 90 Energy Business,2014,116000,Diesel,95,3.7,Manuelle,4,4,5,33570,8700
 JAGUAR,null,1991,187000,null,null,null,Automatique,4,null,5,77310,4900
 Renault,Mégane IV Estate dCi 110 Energy Business EDC,2018,126000,Diesel,95,3.7,Automatique,4,5,5,33570,11300
+Renault,Kadjar dCi 110 Energy Intens EDC,2018,62950,Diesel,103,3.9,Automatique,4,5,5,44340,17500
 Ford,Focus 1.8 TDCi 115 Titanium,2008,97500,Diesel,137,5.2,Manuelle,4,6,5,94500,4150
 Jaguar,X-Type 2.2 D Executive,2007,235000,Diesel,159,6.0,Manuelle,4,9,5,38850,5000
 Mercedes,Classe C Coupé 250 d 4Matic 9G-Tronic,2017,61000,Diesel,122,4.6,Automatique,2,11,4,57000,33500
@@ -220,10 +267,8 @@ Alfa,Spider 2.0 JTS Distinctive,2003,148000,Essence,220,9.2,Manuelle,2,11,2,8645
 Volkswagen,Golf 1.9 TDI - 90 A,2000,203000,Diesel,172,6.3,Automatique,2,6,5,57690,900
 Kia,PROCEED 1.6 CRDi 136 ch ISG DCT7 GT Line,2020,39000,Diesel,null,null,Automatique,4,7,5,17460,26500
 Volkswagen,Scirocco 1.4 TSI 160,2010,90000,Essence,154,6.6,Manuelle,2,9,4,31140,9900
-Mini,Mini 1.6i - 115 Cooper,2003,145500,Essence,166,6.9,Manuelle,2,7,4,74700,4500
 Renault,Laguna 2.2 dT RXT,1998,216938,Diesel,null,null,Manuelle,4,6,5,26500,450
 Citroën,Spacetourer M BlueHDi 120 S&S BVM6 Business,2021,13700,Diesel,167,null,Manuelle,4,6,8,30220,30000
-Toyota,Land Cruiser 190 D-4D Légende A,2014,94740,Diesel,213,8.1,Automatique,4,12,5,03500,38000
 VOLKSWAGEN,Volkswagen Passat BREAK 1.9 TDI 100,2001,347000,Diesel,146,5.4,Manuelle,4,null,5,67200,990
 Alfa,Giulietta 1.6 JTDm 105 ch S&S Distinctive,2014,152000,Diesel,114,4.4,Manuelle,4,5,5,14130,6000
 Citroën,DS5 HDi 160 So Chic,2012,93010,Diesel,128,5.1,Manuelle,4,9,5,vendeur,11950
@@ -251,7 +296,6 @@ Citroën,C4 PureTech 130 S&S EAT8 Shine,2021,1400,Essence,null,null,Automatique,
 Peugeot,406 Break 2.0 Hdi - 110 Confort,2004,235000,Diesel,149,5.7,Manuelle,4,6,5,01120,4100
 Fiat,500X 1.3 MultiJet 95 ch City Cross,2019,41500,Diesel,107,4.1,Manuelle,4,5,5,41150,14500
 Dacia,Sandero ECO-G 100 - 22 Stepway Confort,2021,2500,GPL ou GNL,null,null,Manuelle,4,5,5,62118,15790
-Peugeot,607 2.2 HDi Pack,2002,176000,Diesel,178,6.7,Manuelle,4,8,5,11510,3390
 Renault,Mégane IV Berline dCi 110 Energy Intens,2015,89000,Diesel,95,3.7,Manuelle,4,5,5,45000,13550
 BMW,118i 136 ch DKG7 Edition Sport,2021,8500,Essence,null,null,Automatique,4,7,5,79000,33000
 Peugeot,307 SW 1.6 HDi 16V 110ch FAP BLUE LION Navteq on board,2008,234500,Diesel,134,5.1,Manuelle,4,6,5,73290,1950
@@ -339,7 +383,7 @@ Citroën,C4 Cactus PureTech 110 S&S BVM6 Shine,2016,83600,Essence,104,4.6,Manuel
 Dacia,Sandero TCe 90 E6C Stepway,2018,18500,Essence,125,5.5,Manuelle,4,5,5,57700,9900
 Volkswagen,Polo 1.0 TSI 115 S&S DSG7 Copper Line,2019,49000,Essence,104,4.9,Automatique,4,6,5,07200,19900
 Renault,Scénic 1.6i 16V Privilège,2016,47000,Essence,173,7.3,Manuelle,4,7,5,78220,14000
-BMW,X4 M40i 354ch BVA8,2019,29000,Essence,177,7.8,Automatique,4,25,5,67700,85000
+BMW,X4 M40i 354ch BVA8,2019,29000,Essence,177,7.8,Automatique,4,25,5,67700,80000
 VOLKSWAGEN,1.0 OXFORD 45 ch,1986,31000,Essence,null,null,Manuelle,2,null,5,77510,5000
 Renault,Mégane Break 1.9 D Authentique,2012,199306,Diesel,178,6.7,Manuelle,4,5,5,38590,3950
 Renault,Clio 1.2 16V 75 Confort Dynamique,2006,185000,Essence,139,5.9,Manuelle,2,5,5,38000,2300
@@ -348,7 +392,6 @@ Opel,Mokka 1.4 Turbo - 140 ch 4x4 Start&Stop Cosmo,2014,96600,Essence,149,6.4,Ma
 Citroën,C4 1.6i 16V 110 Collection,2007,140879,Essence,169,7.1,Manuelle,4,7,5,38090,2000
 Peugeot,Bipper Tepee 1.4 Ess 75ch Access,2012,49600,Essence,152,6.6,Manuelle,4,5,5,06800,8000
 Volkswagen,T-Roc 1.6 TDI 115 Start/Stop BVM6 Carat,2019,38000,Diesel,109,4.4,Manuelle,4,6,5,78112,23000
-Renault,Clio III dCi 70 115g eco2 Authentique,2009,174486,Diesel,115,4.3,Manuelle,4,4,5,86800,4500
 Dacia,Logan 1.4,2006,165000,Essence,164,6.8,Manuelle,4,5,5,49300,1000
 Toyota,Yaris Hybride 100h Dynamic,2020,23753,Hybride,84,3.6,Automatique,4,3,5,vendeur,16500
 Kia,CEED 1.4 T-GDi 140 ch ISG DCT7 GT Line,2020,6800,Essence,125,5.5,Automatique,4,7,5,76600,23900
@@ -367,16 +410,11 @@ Peugeot,106 1.0i XN,1992,158000,Essence,null,null,Manuelle,2,4,5,07340,700
 Citroën,C3 1.4 HDi,2003,240000,Diesel,115,4.4,Manuelle,4,4,5,17000,3500
 Ford,Focus 1.0 EcoBoost 125 S&S ST Line,2019,30800,Essence,96,4.3,Manuelle,4,6,5,90000,17990
 Mercedes,GLA 250 e 8G-DCT AMG Line,2021,14700,Hybride,null,null,Automatique,4,8,5,74140,48490
-Citroën,C4 Coupé 1.6i 16V 110 VTS,2006,180000,Essence,169,7.1,Manuelle,2,7,5,69100,4700
-Renault,Talisman Estate dCi 160 Energy EDC Initiale Paris,2016,123576,Diesel,120,4.6,Automatique,4,8,5,75019,14000
-Mercedes,Classe GLC 300 d 9G-Tronic 4Matic AMG Line,2019,67000,Diesel,null,null,Automatique,4,14,5,42000,51000
-Alfa,Stelvio 2.2 210 ch Q4 AT8 Sport Edition,2018,53500,Diesel,127,4.8,Automatique,4,11,5,04160,36000
 Alfa,GT 1.9 JTD M-JET 150 Distinctive,2007,90000,Diesel,165,6.2,Manuelle,2,9,5,64000,9850
 Ford,Kuga 2.0 TDCi 140 DPF 4x2 Titanium,2010,256000,Diesel,156,5.9,Manuelle,4,8,5,62390,7990
-Renault,Kadjar TCe 140 FAP EDC Wave,2019,30500,Essence,133,5.8,Automatique,4,7,5,42100,20600
+Renault,Kadjar TCe 140 FAP EDC Wave,2019,32000,Essence,133,5.8,Automatique,4,7,5,42100,20600
 Volkswagen,Caravelle 1.9 TDI 104 Long 9pl,2006,208000,Diesel,203,7.5,Manuelle,4,7,9,01000,13000
 Volkswagen,Polo TDI 80 Confort,2006,220650,Diesel,119,4.4,Manuelle,2,5,5,01000,2300
-AUDI,Q5 2.0 TDI 170 DPF Quattro S Line,2012,162000,Diesel,163,6.2,Manuelle,4,10,5,30100,15500
 Toyota,Land Cruiser 3.0 TD GX,2000,222800,Diesel,null,13.2,Manuelle,2,10,5,02480,15000
 Nissan,Juke DIG-T 117 DCT7 N-Connecta,2020,5085,Essence,113,4.9,Automatique,4,6,5,60800,22500
 Volkswagen,T-Roc 1.5 TSI 150 EVO Start/Stop DSG7 Carat Exclusive,2019,45000,Essence,null,null,Automatique,4,8,5,93230,25500
@@ -395,14 +433,6 @@ Renault,Twingo II 1.2 LEV 16v 75 eco2 Dynamique,2012,32500,Essence,105,4.5,Manue
 Peugeot,208 1.2 PureTech 82ch S&S ETG5 Active,2016,71000,Essence,97,4.2,Semi automatique,4,4,5,13600,9500
 Renault,Kangoo 1.5 dCi 70 Confort Expression,2006,237000,Diesel,147,5.5,Manuelle,4,5,5,45340,2900
 Volkswagen,Passat 2.0 16S TDI 140 Carat,2005,115000,Diesel,153,5.8,Manuelle,4,8,5,24100,8000
-Mercedes,CLK 270 CDI Elégance A,2004,191000,Diesel,183,6.9,Automatique,2,10,4,13013,7000
-Volkswagen,Golf 2.0 TSI 270 R 4Motion DSG6,2011,117300,Essence,195,8.4,Semi automatique,4,17,5,30000,19900
-Citroën,C4 BlueHDi 130 S&S EAT8 Shine Pack,2020,1757,Diesel,null,null,Automatique,4,7,5,62320,25990
-Peugeot,3008 2.0 HDi 16V 150ch FAP Féline,2010,150000,Diesel,149,5.7,Manuelle,4,8,5,77430,7900
-OPEL,Rakord,1976,27000,Diesel,null,null,Manuelle,4,null,4,40100,3000
-Subaru,Forester 2.0D,2015,120000,Diesel,148,null,Manuelle,4,8,5,39000,12000
-Volkswagen,Touran 2.0 TDI 190 BMT DSG6 5pl Carat,2018,93000,Diesel,122,4.7,Automatique,4,10,5,30000,20500
-Citroën,2 CV 6 Special,1986,16000,Essence,null,null,Manuelle,4,3,5,74380,14000
 BMW,Coupé 320d 177ch Sport,2008,247,Diesel,131,4.9,Manuelle,2,10,5,34160,7900
 Renault,CLIO SOCIETE DCI 75 ENERGY AIR,2018,73000,Diesel,85,3.3,Manuelle,4,4,2,93100,6250
 Volvo,XC40 T3 156 ch,2019,15714,Essence,144,6.2,Manuelle,4,9,5,59300,33500
@@ -459,7 +489,6 @@ Jaguar,S-Type 3.0i V6 A,2000,175000,Essence,null,null,Automatique,4,17,5,95600,4
 Citroën,C5 Aircross BlueHDi 130 S&S BVM6 Business,2021,7000,Diesel,null,null,Manuelle,4,7,5,25700,26500
 BMW,320d xDrive 184 ch Sport,2013,150000,Diesel,128,4.9,Manuelle,4,10,5,60300,15643
 Toyota,Yaris Hybride 100h Collection Jaune,2017,26600,Hybride,82,3.6,Automatique,4,3,5,03260,14800
-Fiat,500X 1.4 MultiAir 140 ch DCT Club,2017,47500,Essence,133,5.7,Automatique,4,7,5,28310,16500
 Peugeot,308 CC 1.6 THP 16V 156ch Sport Pack A,2010,114000,Essence,179,7.7,Automatique,2,9,4,06000,7990
 Suzuki,Vitara 1.6 DDiS Allgrip Pack,2015,116000,Diesel,111,4.2,Manuelle,4,6,5,77370,11500
 Chevrolet,Corvette Coupé A,1978,15479,Essence,null,12.1,Automatique,2,30,5,14370,29900
@@ -471,7 +500,6 @@ Fiat,Freemont 2.0 16V Multijet 170 ch 4x2 Black Code,2014,115000,Diesel,169,6.4,
 Land-Rover,Defender 90 Station Wagon E,2010,195600,Diesel,266,10.0,Manuelle,2,10,4,07260,25300
 Renault,Modus 1.2 16v 75 eco2 Modus.Com Euro 5,2012,56000,Essence,138,5.9,Manuelle,4,5,5,25260,5500
 Volkswagen,Golf 1.2 TSI 85 BlueMotion Technology Trendline,2014,36000,Essence,113,4.9,Manuelle,4,5,5,97419,12000
-Peugeot,3008 Hybrid 225 e-EAT8 GT,2021,12000,Hybride,32,null,Automatique,4,10,5,38240,40900
 Peugeot,207 1.4 HDi 70ch Urban,2010,120000,Diesel,120,4.5,Manuelle,4,4,5,01160,5199
 Kia,Stonic 1.0 T-GDI 120 ch ISG Active Business,2019,9500,Essence,null,null,Manuelle,4,6,5,06130,17900
 Mercedes,Classe E 320 CDI Elégance A,2006,198000,Diesel,194,7.3,Automatique,4,14,5,89100,4250
@@ -506,7 +534,6 @@ Peugeot,3008 BlueHDi 180ch S&S EAT8 GT Line,2020,16000,Diesel,null,null,Automati
 Peugeot,208 PureTech 82ch S&S BVM5 Signature,2019,14200,Essence,108,4.7,Manuelle,4,4,5,74200,12500
 Opel,Grandland X 1.5 Diesel 130 ch BVA8 Elite,2020,6700,Diesel,98,4.1,Automatique,4,7,5,25310,28100
 Volvo,V60 D3 163 ch Xénium Geartronic A,2011,157000,Diesel,162,6.1,Automatique,4,9,5,74100,10990
-Trafic,Trafic Combi L2 dCi 125 Energy Zen,2018,95000,Diesel,145,5.6,Manuelle,4,7,8,33310,16500
 DODGE,ES SEDAN V6 2.5,1997,133500,Essence,null,9,Automatique,4,null,5,vendeur,2900
 Dacia,Lodgy Blue dCi 115 5 places 15 ans,2021,5500,Diesel,null,null,Manuelle,4,6,5,71570,17500
 Peugeot,308 1.2 PureTech 110ch S&S BVM5 Style,2017,84508,Essence,105,4.0,Manuelle,4,5,5,79230,12300
@@ -518,19 +545,15 @@ Alfa,166 2.4 JTD 175 Distinctive Sportronic A,2004,236500,Diesel,235,8.9,Automat
 CITROëN,null,2021,6200,Essence,null,null,Manuelle,4,null,null,33240,16000
 Mercedes,Classe CLA 220 d 7-G DCT 4Matic Sensation,2017,68000,Diesel,123,4.8,Automatique,4,9,5,66420,27500
 Citroën,C3 Aircross PureTech 110 S&S  BVM5 Shine Business,2017,25000,Essence,112,4.9,Manuelle,4,6,5,01640,14950
-Ford,Fiesta 1.4 TDCi Ambiente,2006,102000,Diesel,114,4.3,Manuelle,4,4,5,17300,4600
 Dacia,Logan MCV 1.5 dCi 70 5 places Ambiance,2008,326000,Diesel,140,5.3,Manuelle,4,5,5,04000,2490
-Peugeot,308 1.2 PureTech 130ch S&S BVM6 Allure,2017,61500,Essence,104,4.5,Manuelle,4,6,5,69300,15700
 Volkswagen,Golf Sportsvan 1.0 TSI 110 BMT DSG7 Carat,2018,75500,Essence,113,5.0,Semi automatique,4,6,5,86450,15800
 Audi,A3 1.6 TDI 105 Ambiente,2014,130000,Diesel,99,3.8,Manuelle,2,5,5,75017,10000
-Opel,Astra 1.7 CDTI - 80 Elegance,2005,208263,Diesel,132,4.9,Manuelle,4,5,5,10400,1000
 Peugeot,206 1.4i XR Présence,2001,125,Essence,162,6.6,Manuelle,4,5,4,91470,5000
 Renault,Clio dCi 75 Energy Business,2018,70000,Diesel,85,3.3,Manuelle,4,4,5,08800,10400
 Peugeot,208 1.0 PureTech 68ch BVM5 Access,2015,10800,Essence,99,4.3,Manuelle,4,4,5,59770,9980
 Citroën,DS4 e-HDi 110 Airdream Chic BMP6,2012,163328,Diesel,110,null,Semi automatique,4,6,5,02110,8000
 Peugeot,208 1.2 VTi 82ch BVM5 Active,2012,100900,Essence,104,4.5,Manuelle,2,4,5,69150,6690
 Fiat,500 1.2 8V 69 ch Lounge,2012,73500,Essence,119,null,Manuelle,2,4,4,69150,6990
-Voiture,null,null,null,null,null,null,null,null,null,null,null,null
 Dacia,Sandero TCe 90 - 22 Stepway Confort,2022,1500,Essence,null,null,Manuelle,4,5,5,14000,13600
 Peugeot,207 1.6 HDi 16v 90ch Urban,2007,185000,Diesel,120,4.5,Manuelle,4,5,5,vendeur,3999
 Renault,Koleos 2.0 dCi 150 FAP Bose Edition Euro 5,2013,139160,Diesel,148,5.7,Manuelle,4,8,5,45120,7000
@@ -543,13 +566,10 @@ Opel,Agila 1.0 - 65 ch ecoFLEX Enjoy,2010,45700,Essence,119,5.1,Manuelle,4,4,5,3
 Fiat,500 1.2 69 ch Lounge,2016,30500,Essence,115,4.9,Manuelle,2,4,4,34970,9600
 Citroën,DS7 Crossback BlueHDi 180 EAT8 Executive,2020,15500,Diesel,115,4.4,Automatique,4,9,5,33320,39490
 Dacia,Duster dCi 110 4x2 Prestige,2018,28690,Diesel,115,4.4,Manuelle,4,6,5,75020,16000
-Voiture,null,null,null,null,null,null,null,null,null,null,null,null
 Dacia,Duster 1.5 dCi 110 4x4 Ambiance,2012,65500,Diesel,137,5.3,Manuelle,4,6,5,20000,11900
 Fiat,500 1.2 8V 69 ch by Diesel,2010,72600,Essence,119,5.1,Manuelle,2,4,4,64150,6200
 Kia,CEED 1.0 T-GDi 120 ch ISG BVM6 Active,2020,18800,Essence,null,null,Manuelle,4,6,5,45000,18290
 Citroën,C3 PureTech 83 S&S BVM5 Feel Pack,2021,1950,Essence,null,null,Manuelle,4,4,5,35580,16500
-Kia,Venga 1.4 90 ch Active,2014,85500,Essence,140,6.0,Manuelle,4,5,5,59200,9000
-Renault,Captur dCi 110 Energy Initiale Paris,2018,22500,Diesel,98,3.7,Manuelle,4,5,5,57000,16500
 Peugeot,2008 PureTech 82ch BVM5 Style,2019,38000,Essence,112,5.0,Manuelle,4,4,5,85440,12900
 Audi,S3 Sportback 2.0 TFSI 265 Quattro,2009,86400,Essence,201,8.5,Manuelle,4,17,5,59500,20500
 Kia,Stonic 1.6 CRDi 110 ch Active,2018,120000,Diesel,109,4.2,Manuelle,4,6,5,76780,13500
@@ -573,7 +593,6 @@ Opel,Astra Sports Tourer 1.5 Diesel 122 ch BVM6 Edition Business,2019,18500,Dies
 Peugeot,208 1.2 PureTech 110ch S&S BVM5 GT Line,2017,40000,Essence,99,4.3,Manuelle,2,5,5,31290,12000
 Mercedes,Classe E 250 CDI BlueEfficiency Avantgarde Executive A,2009,359893,Diesel,154,5.8,Automatique,4,11,5,56300,9800
 BMW,645Ci Cab Steptronic A,2004,79000,Essence,279,11.5,Automatique,2,24,4,60270,23850
-Renault,Clio dCi 75 Energy Business,2016,35000,Diesel,85,3.3,Manuelle,4,4,5,97231,10500
 Renault,Clio Estate 1.5 dCi 85 eco2 Dynamique,2009,223227,Diesel,117,4.4,Manuelle,4,5,5,vendeur,2400
 Peugeot,207 CC 1.6 HDi 112ch FAP BLUE LION Sport,2011,175500,Diesel,125,4.8,Manuelle,2,6,4,94310,4990
 Renault,Kangoo 1.5 dCi 105 eco2 Expression,2008,200000,Diesel,146,5.5,Manuelle,4,6,5,38000,4200
@@ -587,9 +606,1860 @@ Audi,A3 2.0 TDI 184 Quattro Ambiente S tronic 6,2013,120000,Diesel,124,4.7,Semi 
 BMW,X1 sDrive 18i 140 ch DKG7 Lounge,2018,21200,Essence,133,5.8,Automatique,4,7,5,13127,26900
 Peugeot,RCZ 2.0 HDi FAP 160ch,2013,87600,Diesel,130,5.0,Manuelle,2,9,4,40180,13500
 Mercedes,Classe A 200 7G-DCT AMG Line,2018,27000,Essence,118,5.2,Automatique,4,8,5,83000,33000
-FORD,S-MAX 2.0 TDCi 140 FAP Titanium - 7 Pl,2014,140000,Diesel,139,5.3,Manuelle,4,8,7,33310,9700
 Ford,Kuga 2.0 TDCi 150 S&S 4x2 Titanium,2015,130000,Diesel,122,4.7,Manuelle,4,8,5,15250,12800
 Mercedes,Classe CLS 350 d A,2015,177200,Diesel,142,5.5,Automatique,4,15,4,31530,23199
 Dacia,Sandero TCe 90 Advance,2018,42000,Essence,115,5.1,Manuelle,4,5,5,33480,9990
 Nissan,Qashqai 1.6 dCi 130 Xtronic Tekna,2016,61500,Diesel,128,4.9,Automatique,4,7,5,01300,16900
 BMW,Z4 2.5i,2003,156000,Essence,216,8.9,Manuelle,2,12,2,59152,10990
+Kia,CEED 1.0 T-GDi 120 ch ISG BVM6 Active,2019,57000,Essence,118,5.2,Manuelle,4,6,5,35310,15740
+Nissan,Qashqai 1.6 dCi 130 FAP All-Mode Stop/Start 360,2013,136000,Diesel,135,5.1,Manuelle,4,7,5,13010,10900
+Seat,Ibiza 1.6 TDI 90 FAP Style,2010,143461,Diesel,109,4.2,Manuelle,4,5,5,01420,4800
+Ford,Fusion 1.4 TDCi 68 Plus,2009,225000,Diesel,120,4.6,Manuelle,4,4,5,35540,2500
+CITROëN,ds so chic,2015,70500,Essence,104,4.5,Manuelle,2,null,5,38410,11900
+Seat,Exeo 2.0 TDI 143 ch Style,2009,248000,Diesel,139,5.3,Manuelle,4,8,5,18340,4500
+Maserati,Granturismo S 4.7 V8 A,2009,146000,Essence,354,15.2,Automatique,2,36,4,vendeur,44900
+Skoda,Fabia Combi 1.6 TDI 90 CR Ambition,2011,126500,Diesel,109,4.2,Manuelle,4,5,5,06140,5800
+Citroen,DS3 e-HDi 90 So Chic,2014,97400,Diesel,90,3.5,Manuelle,2,4,5,78650,8790
+Volkswagen,Tiguan 2.0 TDI 150 DSG7 Carat,2016,140000,Diesel,123,null,Automatique,4,8,5,93320,16490
+Renault,Mégane 1.6 16V Confort Authentique,2003,210400,Essence,163,6.8,Manuelle,4,7,5,72230,2100
+Fiat,Freemont 2.0 16V Multijet 140 ch 4x2 Freemont,2011,145200,Diesel,169,6.4,Manuelle,4,8,7,13730,9500
+Audi,SQ5 V6 3.0 BiTDI 326 Quattro Tiptronic 8,2016,88000,Diesel,174,6.6,Automatique,4,21,5,67480,34900
+Mitsubishi,Lancer Sportback 2.0 DI-D Instyle,2009,182000,Diesel,173,6.5,Manuelle,4,8,5,vendeur,5000
+Mitsubishi,Lancer Sportback 2.0 DI-D Instyle,2009,182000,Diesel,173,6.5,Manuelle,4,8,5,vendeur,5500
+Renault,Mégane 1.6i 16V Fidji,1999,186000,Essence,165,7.0,Manuelle,4,7,5,83700,1250
+Nissan,Qashqai 1.6 dCi 130 Tekna+,2018,29000,Diesel,116,4.4,Manuelle,4,7,5,85190,21700
+Opel,Mokka 1.4 Turbo - 140 ch 4x2 Start&Stop Cosmo Pack,2016,83000,Essence,145,6.3,Manuelle,4,8,5,51430,11300
+Voiture,null,null,null,null,null,null,null,null,null,null,null,null
+Citroën,BERLINGO M BLUEHDI 100 CLUB,2019,123000,Diesel,112,4.3,Manuelle,4,5,2,54740,12200
+Toyota,RAV4 115 D-4D VX,2005,190650,Diesel,190,7.1,Manuelle,4,8,5,92500,5010
+Renault,CLIO SOCIETE 1.9 D RC,2006,280000,Diesel,null,null,Manuelle,2,7,2,43200,650
+Renault,Mégane IV Berline Blue dCi 115 EDC - 20 SL Edition One,2021,23791,Diesel,null,null,Automatique,4,6,5,60230,21500
+Citroën,C3 Pluriel 1.4i,2018,49600,Essence,163,6.8,Manuelle,2,5,4,42130,10800
+Lada,Niva 1.7i 81ch GPL,2011,73000,GPL ou GNL,190,9.5,Manuelle,2,6,4,57250,9000
+Chevrolet,Orlando 2.0 VCDi 130 S&S LT+,2013,141000,Diesel,139,5.3,Manuelle,4,7,7,34500,8500
+Citroën,Axel 1.1 Base,1963,52000,Essence,null,null,Manuelle,2,6,5,91320,9000
+Toyota,Aygo 1.4 D Confort,2008,123000,Diesel,109,4.1,Manuelle,2,3,4,77115,4200
+Renault,Grand Scénic III dCi 130 FAP eco2 Bose Energy 5 pl,2012,181000,Diesel,114,4.4,Manuelle,4,7,5,33270,6790
+Peugeot,206+ 1.4 HDi 70ch FAP BLUE LION Urban Move,2012,93000,Diesel,104,4.0,Manuelle,4,4,5,33270,5590
+Mitsubishi,Outlander 2.0I 200 PHEV 4WD Instyle,2014,124000,Hybride,44,1.9,Automatique,4,5,5,38270,17000
+Seat,Alhambra 1.9 TDI 115 Grand Via,2002,302000,Diesel,null,6.6,Manuelle,4,7,7,49450,2900
+Suzuki,Vitara 1.6 VVT Allgrip Pack,2016,70496,Essence,130,5.6,Manuelle,4,6,5,58310,13000
+Mercedes,Classe E 280 CDI Avantgarde A,2007,205000,Diesel,199,7.5,Automatique,4,12,5,59570,6800
+particulier,Cayenne 3.6 V6 Tiptronic S A,2009,150000,Essence,310,12.9,Automatique,4,21,5,67000,16900
+Renault,Clio Blue dCi 115 Intens,2020,31000,Diesel,null,null,Manuelle,4,6,5,59195,19700
+Peugeot,306 2.0i Griffe A,1995,225000,Essence,null,null,Automatique,4,10,5,72300,1000
+BMW,118d 143 ch Confort A,2011,124000,Diesel,145,5.5,Automatique,2,8,4,79240,15000
+Peugeot,406 Coupé 2.2 HDI,2002,327057,Diesel,168,6.4,Manuelle,2,8,4,82000,1600
+BMW,Active Tourer 218d 150 ch Business A,2016,68000,Diesel,109,4.1,Automatique,4,7,5,80110,17500
+Peugeot,3008 Puretech 130ch S&S EAT8 Crossway,2019,54000,Essence,109,4.9,Automatique,4,7,5,60200,26000
+Volvo,XC40 T2 129 ch Momentum Business,2021,1300,Essence,null,null,Manuelle,4,7,5,60000,27000
+Abarth,595 1.4 Turbo 16V T-Jet 160 ch Competizione A,2015,129000,Essence,150,6.5,Semi automatique,2,9,4,38760,15000
+Citroën,C5 Aircross BlueHDi 130 S&S BVM6 Business,2020,25000,Diesel,106,4.2,Manuelle,4,6,5,56380,26099
+Kia,Sportage 2.0 CRDi 136 ISG 4x2 GT Line,2017,74500,Diesel,127,4.8,Manuelle,4,7,5,34230,17500
+Volkswagen,Golf 1.6 TDI 105 FAP CR BlueMotion 99gr Trendline,2011,159300,Diesel,99,3.8,Manuelle,4,5,5,92400,7200
+Porsche,Cayenne 3.0D V6 262 ch Tiptronic A,2016,184000,Diesel,179,6.8,Automatique,4,16,5,54135,35500
+BMW,Cab 330d Luxe A,2007,149000,Diesel,181,6.9,Automatique,2,14,4,13160,13500
+Peugeot,308 1.6 VTi 120ch Active,2012,112000,Essence,147,6.4,Manuelle,4,7,5,31210,9000
+Ford,Ka+ 1.2 85 ch S&S Active,2018,57000,Essence,129,5.7,Manuelle,4,5,5,97438,8800
+Volvo,V40 Cross Country D2 120 ch Geartronic 6 Cross Country Business,2017,84000,Diesel,104,3.9,Automatique,4,6,5,97438,14500
+Renault,Mégane IV Berline dCi 110 Energy EDC Intens,2017,50300,Diesel,95,3.7,Automatique,4,5,5,80450,16000
+Toyota,Land Cruiser 165 D-4D VX A,2005,337000,Diesel,240,9.0,Automatique,2,11,5,38300,13500
+Peugeot,308 CC 2.0 HDi 16V 140ch FAP Féline,2009,127000,Diesel,155,5.9,Manuelle,2,8,4,27190,7900
+Seat,Ateca 1.5 TSI 150 ch ACT Start/Stop DSG7 Xcellence,2019,25000,Essence,null,null,Semi automatique,4,8,5,75019,27000
+Volkswagen,Multivan 2.5 TDI 174 FAP Carat Tiptronic (7pl),2008,233000,Diesel,257,9.7,Automatique,4,12,7,42122,18000
+Citroën,DS3 VTi 120 Airdream So Chic,2011,80860,Essence,136,5.9,Manuelle,2,7,5,34070,8490
+Volkswagen,New Beetle 1.6i 102 ch,2009,156500,Essence,180,7.5,Manuelle,2,7,5,77090,4800
+Volkswagen,Polo 1.0 TSI 95 BM BlueMotion,2016,69300,Essence,98,4.2,Manuelle,4,5,5,82700,11000
+Mini,Mini Countryman D 143 ch Cooper S,2012,139935,Diesel,119,4.5,Manuelle,4,7,5,69380,10500
+Fiat,500 1.2 8V 69 ch Lounge,2014,58200,Essence,119,5.1,Manuelle,2,4,4,80000,6900
+Audi,Q5 2.0 TDI 170 DPF Quattro Ambiente,2010,146700,Diesel,175,6.7,Manuelle,4,10,5,77410,15990
+MG,MG F 1.8i Héritage,1958,2000,Essence,null,7.6,Manuelle,2,9,2,69009,35000
+Renault,Mégane III Coupé dCi 85 eco2,2010,196300,Diesel,115,4.4,Manuelle,2,5,5,79160,5000
+Nissan,Evalia 1.5 dCi 110 Connect Edition 7pl,2015,120000,Diesel,136,5.2,Manuelle,4,6,7,95130,9800
+Toyota,Aygo 1.0 VVT-i Confort,2009,148500,Essence,108,4.6,Manuelle,2,4,2,vendeur,1990
+Toyota,Yaris Hybride 100h Chic,2018,10515,Hybride,82,3.6,Automatique,4,3,5,74200,15490
+Toyota,Yaris Hybride 100h France,2018,10515,Hybride,84,null,Automatique,4,3,5,74200,15490
+Citroën,C3 1.4i Collection,2009,150000,Essence,145,6.1,Manuelle,4,5,5,83170,3800
+Renault,Clio III 1.2 16V 75 Alizé,2013,126000,Essence,130,5.6,Manuelle,4,5,5,83170,5000
+Citroën,DS3 Crossback PureTech 130 S&S EAT8 Business,2019,22130,Essence,109,4.8,Automatique,4,6,5,03290,24590
+Mini,Mini Countryman 231 ch BVA8 John Cooper Works,2017,55000,Essence,158,6.9,Automatique,4,14,5,78340,25500
+Peugeot,5008 1.6 THP 156ch BVA6 Premium Pack 5pl A,2010,111000,Essence,183,7.9,Automatique,4,9,5,74160,7500
+Chrysler,Grand Voyager 2.8 CRD By Cyrillus A,2011,167000,Diesel,233,8.8,Automatique,4,11,7,86340,12000
+Mercedes,Classe C Break 200 CDI BlueEfficiency Avantgarde Euro V A,2010,189500,Diesel,153,5.8,Automatique,4,8,5,07200,7900
+Citroën,C4 PureTech 130 S&S EAT8 Feel,2021,2000,Essence,null,null,Automatique,4,7,5,35150,28400
+Renault,Zoe Edition One Charge Rapide Gamme 2017,2016,63000,Electrique,null,null,Automatique,4,1,5,06620,6700
+Peugeot,3008 Puretech 130ch S&S EAT8 Crossway,2019,29000,Essence,109,4.9,Automatique,4,7,5,76600,25500
+Peugeot,1007 1.4 HDi Sporty,2007,156000,Diesel,124,4.7,Manuelle,2,4,5,01000,2900
+Fiat,500 1.2 8V 69 ch S&S 500,2009,125000,Essence,113,4.8,Manuelle,2,4,4,13007,4590
+Peugeot,2008 1.2 PureTech 82ch BVM5 Access,2015,140000,Essence,114,4.9,Manuelle,4,4,5,34590,7299
+Renault,Captur dCi 90 Energy Business,2018,30000,Diesel,95,null,Manuelle,4,4,5,34590,12499
+Peugeot,807 2.0 HDi 16v 136 FAP Confort,2007,281000,Diesel,188,7.1,Manuelle,4,9,5,31200,2990
+Peugeot,108 VTi 72ch S&S BVM5 Style,2020,9500,Essence,null,null,Manuelle,4,4,4,78500,9500
+Renault,Espace 2.2 dT 2001,1999,280000,Diesel,null,7.5,Manuelle,4,7,5,51100,600
+Renault,Twingo 1.2 Génération GPL,2006,178100,GPL ou GNL,122,7.5,Manuelle,2,4,4,33260,2950
+Renault,Scenic III dCi 110 FAP eco2 Authentique Euro 5 2011,2012,229000,Diesel,127,4.9,Manuelle,4,6,5,34990,3400
+Citroën,XM D12 Tbo Exclusive A,1993,412000,Diesel,null,6.4,Automatique,4,6,5,70000,2850
+Suzuki,Vitara 1.6i JLX,1994,140000,Essence,null,null,Manuelle,2,9,5,69610,4000
+Chrysler,Voyager SE,1994,263100,Essence,null,null,Manuelle,4,11,5,91310,1290
+Peugeot,207 1.6 HDi 16v 110ch Exécutive Pack,2007,132000,Diesel,129,4.9,Manuelle,4,6,5,06110,3200
+Mercedes,S400 CDI A,2001,250000,Diesel,253,9.6,Automatique,4,17,5,74950,3000
+Peugeot,2008 BlueHDi 110 S&S BVM6 Roadtrip,2021,2050,Diesel,null,null,Manuelle,4,6,5,25430,26500
+Volvo,XC90 D5 AWD AdBlue 235 ch Geartronic 7pl Inscription Luxe,2018,56400,Diesel,158,6.0,Automatique,4,14,7,07320,48500
+Opel,Corsa 1.2 Turbo 100 ch BVM6 Elegance,2021,4500,Essence,null,null,Manuelle,4,5,5,57155,17600
+Kia,Picanto 1.0 LX,2008,null,Essence,118,4.9,Manuelle,4,4,5,71460,680
+Dacia,Duster dCi 110 4x4 Black Touch,2017,67000,Diesel,123,4.7,Manuelle,4,6,5,63100,16000
+golf,Golf 2.0 TDI 150 FAP DSG7 Carat,2013,87000,Diesel,114,4.4,Automatique,4,8,5,91310,18850
+Citroën,DS3 PureTech 82 BVM Chic,2015,46000,Essence,104,4.5,Manuelle,2,4,5,27370,11000
+Renault,Clio Estate III dCi 85 eco2 Dynamique,2009,190000,Diesel,115,4.3,Manuelle,4,5,5,80290,4300
+Volkswagen,T-Roc 1.5 TSI 150 EVO Start/Stop DSG7 Carat,2020,21000,Essence,null,null,Automatique,4,8,5,20232,28000
+BMW,Gran Tourer 220d 190 ch M Sport A,2017,96000,Diesel,124,4.7,Automatique,4,10,7,38550,23000
+Renault,Super 5 C,1986,118000,Essence,null,null,Manuelle,2,4,5,92350,1690
+Mercedes,Classe CLA 200 d 7-G DCT Business Edition,2019,36000,Diesel,100,3.8,Automatique,4,7,5,57950,26000
+Renault,Captur TCe 120 Intens EDC,2013,68000,Essence,125,5.4,Automatique,4,6,5,37500,14000
+Citroën,C4 HDi 110 FAP Exclusive,2011,178000,Diesel,119,4.6,Manuelle,4,6,5,34150,5600
+Renault,Twingo III SCe 65 - 20 Life,2020,2100,Essence,null,null,Manuelle,4,4,4,10380,11000
+Opel,Insignia Sports Tourer 2.0 CDTI - 160 FAP EcoFLEX Start/Stop Cosmo,2012,170900,Diesel,119,4.5,Manuelle,4,8,5,24110,9000
+Renault,Clio TCe 140 - 21 Intens,2021,3000,Essence,null,null,Manuelle,4,7,5,78970,19990
+Peugeot,208 BlueHDi 100ch S&S BVM5 Signature,2019,45000,Diesel,86,3.2,Manuelle,4,5,5,53370,12990
+Jaguar,XE 2.0 D - 180 ch BVA Prestige,2017,64000,Diesel,109,4.2,Automatique,4,9,5,53370,22990
+Peugeot,308 2.0 BlueHDi 150ch S&S BVM6 Allure,2016,44000,Diesel,97,3.6,Manuelle,4,7,5,77165,16900
+Infiniti,Q50 2.2d,2016,56000,Diesel,114,4.3,Manuelle,4,9,5,77820,16000
+Renault,Scenic 1.5 dCi 105 Carminat,2007,182000,Diesel,138,5.2,Manuelle,4,6,5,26000,2700
+Nissan,X-TRAIL 1.6 dCi 130 7pl Connect Edition Xtronic A,2015,92000,Diesel,135,5.1,Automatique,4,7,7,vendeur,15490
+MINI,3 portes,2008,171250,Essence,null,null,Manuelle,2,null,4,34350,4200
+BMW,323i Worldline A,1997,202000,Essence,null,null,Automatique,2,14,5,34350,5300
+Peugeot,3008 1.6 THP 16V 156ch Allure,2011,192500,Essence,167,7.1,Manuelle,4,9,5,85590,5300
+Mercedes,Classe CLS 320 CDI A,2005,185000,Diesel,200,7.6,Automatique,4,14,4,15270,7000
+Mercedes,Classe CLA 220 d  7-G DCT4Matic Fascination,2017,55000,Diesel,123,4.8,Automatique,4,9,5,31800,27900
+Alfa,Giulia 2.2 150 ch AT8 Business,2017,38000,Diesel,109,4.2,Automatique,4,7,5,37140,19700
+Audi,A3 Sportback 2.0 TDI 150 Advanced S tronic 6,2016,103000,Diesel,119,4.5,Semi automatique,4,8,5,13010,18650
+Renault,Clio IV dCi 90 eco2 Intens,2015,56800,Diesel,95,3.6,Manuelle,4,4,5,38090,11100
+Peugeot,308 SW 1.6 THP 205ch S&S BVM6 GT,2015,78400,Essence,134,5.8,Manuelle,4,11,5,31000,16900
+Renault,Koleos dCi 130 4x2 Energy Intens,2017,91200,Diesel,120,4.6,Manuelle,4,7,5,60500,17200
+Fiat,Tipo 5 Portes 1.6 MultiJet 120 ch S&S Easy,2018,89000,Diesel,115,4.1,Manuelle,4,6,5,04170,10000
+Opel,Corsa 1.2 Twinport City,2006,170000,Essence,151,6.3,Manuelle,2,5,5,38440,3000
+Alfa,MiTo 1.4 T-Jet 155 Distinctive,2008,190000,Essence,153,6.5,Manuelle,2,9,4,38440,6000
+Renault,Mégane III dCi 110 FAP Energy eco2 Akaju,2014,122500,Diesel,97,3.7,Manuelle,4,5,5,03140,8200
+Peugeot,308 PureTech 110ch S&S BVM6 Tech Edition,2019,46000,Essence,102,4.6,Manuelle,4,5,5,59000,19500
+Renault,Captur TCe 140 EDC - 21 Intens,2021,1500,Essence,null,null,Automatique,4,7,5,17420,24550
+Peugeot,207 1.6 VTi 16V 120ch Féline,2008,57000,Essence,145,6.1,Manuelle,4,7,5,77250,6490
+Infiniti,Q30 1.6t 122 Premium Tech,2017,50450,Essence,138,6.0,Manuelle,4,7,5,76300,18000
+Fiat,500 0.9 85 ch TwinAir S/S 500-120th,2019,780,Essence,108,4.7,Manuelle,2,4,4,13800,11500
+BMW,X3 xDrive20d 190ch BVA8 Business Design,2018,34500,Diesel,137,5.1,Automatique,4,11,5,74240,45200
+Opel,Corsa 1.2 Turbo 100 ch BVM6 Ultimate,2021,2500,Essence,null,null,Manuelle,4,5,5,25310,19700
+Dacia,Duster Blue dCi 115 4x2 15 ans,2021,5000,Diesel,null,null,Manuelle,4,6,5,01440,19400
+BMW,X5 3.0d 235ch A,2008,120000,Diesel,214,8.1,Automatique,4,15,5,02800,17000
+Renault,Clio Blue dCi 115 Business,2020,26500,Diesel,95,3.6,Manuelle,4,5,5,36270,15000
+Peugeot,308 CC 2.0 HDi 163ch FAP Féline,2011,120000,Diesel,149,5.7,Manuelle,2,9,4,11160,8990
+Nissan,Juke 1.6e DIG-T 190 Acenta,2011,104000,Essence,159,6.9,Manuelle,4,11,5,30160,8500
+Ford,Grand C-MAX 1.6 TDCI 115 FAP Titanium,2014,135000,Diesel,124,4.7,Manuelle,4,6,5,77000,8300
+Dacia,Sandero 1.5 dCi 70 eco2 Stepway,2010,166000,Diesel,140,5.3,Manuelle,4,5,5,06100,3700
+Dacia,Duster Blue dCi 115 4x2 Prestige,2022,2000,Diesel,null,null,Manuelle,4,6,5,62800,19800
+BMW,118d 143 ch Première,2007,220000,Diesel,119,4.5,Manuelle,4,7,5,93430,4600
+Ford,Fiesta 1.4 TDCi 70 FAP Ambiente,2011,168000,Diesel,104,4.0,Manuelle,2,4,5,77570,4600
+Citroën,DS5 BlueHDi 150 S&S BVM6 Executive,2015,142000,Diesel,110,4.3,Manuelle,4,7,5,78550,11000
+Citroën,C4 Cactus PureTech 110 S&S BVM6 Feel,2020,26900,Essence,104,4.6,Manuelle,4,5,5,06500,15000
+Seat,Ibiza 1.0 EcoTSI 95 ch S/S BVM5 Xcellence,2018,33850,Essence,106,4.7,Manuelle,4,5,5,21300,13500
+Mercedes,Classe GLC 250 9G-Tronic 4Matic,2018,19250,Essence,172,7.5,Automatique,4,12,5,57400,41000
+Volkswagen,Golf 1.6i,1998,220000,Essence,166,6.9,Manuelle,4,7,5,74160,3000
+Volkswagen,Golf 1.6 TDI 105 FAP CR Confortline,2010,151000,Diesel,119,4.5,Manuelle,4,5,5,49270,7850
+Renault,Laguna Coupé 2.0 dCi 150 Monaco GP,2012,126300,Diesel,126,4.8,Manuelle,2,8,4,34440,8900
+Opel,Mokka X 1.4 Turbo - 140 ch 4x2 BVA6 Elite,2017,24100,Essence,149,6.5,Automatique,4,8,5,75019,16300
+Mercedes,E270 CDI Classic A,2000,377000,Diesel,189,7.2,Automatique,4,10,5,41120,1200
+Peugeot,3008 HYbrid4 2.0 HDi 163ch FAP BMP6 + Electric 37ch,2013,142000,Hybride,99,3.8,Semi automatique,4,8,5,67800,9000
+Dacia,Sandero TCe 90 Confort,2021,4000,Essence,127,null,Manuelle,4,5,5,78610,15000
+Volkswagen,Golf 1.4 TSI 125 MultiFuel E85 Confortline,2016,80000,Autres,116,5.2,Manuelle,4,6,5,56400,17000
+Renault,Mégane IV Estate Blue dCi 115 EDC Business,2019,159000,Diesel,108,4.1,Automatique,4,6,5,33170,13500
+BMW,Coupé 428i 245 ch Luxury A,2013,13500,Essence,149,6.4,Automatique,2,14,4,75016,27800
+Citroën,C5 Tourer HDi 160 Exclusive,2014,123000,Diesel,133,5.1,Manuelle,4,9,5,09300,11500
+Renault,Grand Modus TCE 100 eco2 Dynamique,2008,64280,Essence,140,5.9,Manuelle,4,6,5,78630,6990
+Citroën,C3 Aircross BlueHDi 120 S&S EAT6 Shine,2019,30000,Diesel,null,null,Automatique,4,6,5,54200,18000
+Citroën,C5 e-HDi 115 Attraction BMP6,2015,127000,Diesel,111,4.3,Semi automatique,4,6,5,95200,11000
+Citroën,C5 e-HDi 115 Confort BMP6,2015,127000,Diesel,111,4.3,Automatique,4,6,5,95200,11000
+Audi,A5 V6 3.0 TDI 245 Ambiente Quattro,2013,154000,Diesel,151,5.8,Manuelle,2,14,4,02830,15590
+Mercedes,Classe GLC 220 d 9G-Tronic 4Matic Avantgarde Line,2021,1000,Diesel,155,null,Automatique,4,11,5,54750,45990
+Audi,TT Coupé 1.8 TFSI 160,2011,85500,Essence,149,6.4,Manuelle,2,9,4,13009,18000
+Citroën,DS5 Hybrid 4x4 ETG6 Sport Chic,2018,33000,Hybride,103,3.9,Semi automatique,4,8,5,32190,24500
+Mercedes,GLA 200 7G-DCT AMG Line,2020,13850,Essence,null,null,Automatique,4,9,5,88200,44000
+Renault,Grand Scénic dCi 130 Energy FAP eco2 Bose Edition 5 pl,2014,118000,Diesel,114,4.4,Manuelle,4,7,5,05000,10000
+Renault,Modus 1.4 16V Confort Dynamique,2004,66000,Essence,161,6.7,Manuelle,4,6,5,78100,4200
+Peugeot,3008 1.2 Puretech 130ch S&S BVM6 Access,2016,50500,Essence,117,5.2,Manuelle,4,7,5,22110,17000
+Citroën,C3 VTi 95 Airdream Exclusive,2010,139000,Essence,134,5.8,Manuelle,4,5,5,92800,4950
+Peugeot,2008 1.6 BlueHDi 100ch S&S BVM5 Féline Titane,2015,87000,Diesel,95,3.6,Manuelle,4,5,5,74400,9800
+Volvo,XC40 D4 AWD AdBlue 190 ch Geartronic 8 Business,2018,65000,Diesel,null,null,Automatique,4,10,5,59299,35000
+Audi,A4 Avant 2.0 TDI 150 S Line,2014,225000,Diesel,124,4.7,Manuelle,4,8,5,33310,11990
+Volkswagen,Touran 1.6 TDI 105 FAP Carat,2011,148000,Diesel,134,5.1,Manuelle,4,6,5,85000,8500
+Honda,HR-V 1.5  i-VTEC Exclusive Navi,2017,53500,Essence,134,5.7,Manuelle,4,7,5,27610,17300
+Toyota,C-HR Hybride 122h Design,2019,43000,Hybride,86,3.8,Automatique,4,4,5,62129,20500
+Renault,Kangoo 1.5 DCI - 65 Expression,2001,80000,Diesel,146,5.5,Manuelle,4,5,5,06130,3200
+Renault,Clio Estate IV dCi 90 Energy eco2 Business 83g,2014,156000,Diesel,83,3.2,Manuelle,4,4,5,42330,5900
+Audi,Q2 35 TFSI COD 150 S tronic 7 S Line,2019,63200,Essence,116,5.3,Semi automatique,4,8,5,21160,26500
+Renault,Scénic 1.6i 16V Fidji,2000,260000,Essence,173,7.3,Manuelle,4,7,5,97490,2200
+Peugeot,2008 1.6 BlueHDi 120ch S&S BVM6 Allure,2016,70100,Diesel,96,3.7,Manuelle,4,6,5,52340,13000
+Land-Rover,Freelander 2.0 Td4 HSE,2003,185755,Diesel,205,7.6,Manuelle,4,8,5,59252,5000
+Volkswagen,Golf GTI,1999,120000,Essence,null,7.9,Manuelle,2,9,5,77115,7500
+Mercedes,Classe CLA Shooting Brake 250 7-G DCT A 4Matic Launch Edition,2017,76000,Essence,158,6.9,Automatique,4,12,5,95420,29800
+Nissan,Note 1.2 - DIG-S 98 Acenta,2016,40000,Essence,99,4.3,Manuelle,4,5,5,97434,10900
+Citroën,C3 HDi 70 Attraction,2014,80000,Diesel,99,3.8,Manuelle,4,4,5,31700,6700
+PEUGEOT,208 1.2 PureTech 82ch BVM5 Active,2014,130000,Essence,104,4.5,Manuelle,2,4,5,13100,7500
+Ford,EcoSport 1.0 EcoBoost 125 Trend,2017,33940,Essence,125,5.4,Manuelle,4,7,5,39570,12800
+Suzuki,Swift 1.2 Dualjet Hybrid SHVS Allgrip Pack,2018,36000,Essence,101,4.4,Manuelle,4,4,5,13150,12400
+Peugeot,3008 1.6 e-HDi 112ch FAP BMP6 BLUE LION Active,2011,160000,Diesel,117,null,Semi automatique,4,6,5,33550,7200
+Mercedes,ML 270 CDI A,2002,422110,Diesel,241,9.1,Automatique,4,11,5,78600,3800
+Peugeot,Partner Tepee 1.6 HDi FAP 112ch Active,2012,180000,Diesel,139,5.3,Manuelle,4,6,5,75018,9500
+Renault,Kangoo 1.4i RNE,1998,198900,Essence,null,7.5,Manuelle,2,7,5,58120,2000
+BMW,Z4 Roadster 2.5si 218ch,null,null,Essence,199,8.3,Manuelle,2,14,2,88700,23990
+Toyota,Corolla Hybride 122h Active,2020,19700,Hybride,76,3.3,Automatique,4,4,5,34120,24000
+Jeep,Renegade 1.6 I MultiJet S&S 120 ch Limited,2014,158800,Diesel,115,4.4,Manuelle,4,6,5,86170,11690
+Toyota,Aygo 1.0 VVT-i x,2018,500,Essence,95,4.1,Manuelle,4,4,4,92700,9500
+BMW,120i Confort Steptronic A,2005,171000,Essence,190,7.9,Automatique,4,9,5,13090,8300
+Nissan,X-Trail 2.2 dCi Confort,2004,265000,Diesel,222,9.3,Manuelle,4,9,5,44150,1500
+Renault,Laguna 2.2 DT RXE,1998,230000,Diesel,189,7.1,Manuelle,4,7,5,77100,800
+Volkswagen,Polo TDI 70,2008,150000,Diesel,119,4.5,Manuelle,4,4,5,01210,3600
+Ford,Kuga 2.0 TDCi 136 DPF 4x2 Titanium,2010,161000,Diesel,159,6.1,Manuelle,4,8,5,40210,8000
+BMW,Gran Turismo 318d 150 ch BVA8 M Sport,2016,190000,Diesel,119,4.5,Automatique,4,8,5,33260,15000
+Renault,Clio TCe 130 EDC FAP Intens,2020,5000,Essence,null,null,Automatique,4,7,5,53000,21000
+BMW,Coupé 420d xDrive 190 ch M Sport A,2016,35000,Diesel,125,4.7,Automatique,2,10,4,81000,32000
+Citroën,C4 Picasso BlueHDi 150 S&S Intensive,2016,125000,Diesel,107,4.1,Manuelle,4,7,5,33112,12000
+Ford,Fiesta 1.0 EcoBoost 100 ch S&S BVM6 Titanium,2018,52000,Essence,105,4.8,Manuelle,4,5,5,31300,10990
+Dacia,Logan 1.5 dCi 70 Ambiance,2006,248000,Diesel,125,4.7,Manuelle,4,4,5,86000,2300
+Citroën,C4 HDi 110 Collection,2007,260000,Diesel,128,4.8,Manuelle,4,6,5,09100,700
+Citroën,Visa 1.0 Base,1982,93632,Essence,null,null,Manuelle,4,3,5,91230,1500
+BMW,320i,1984,54000,Essence,null,null,Manuelle,2,10,5,45600,15980
+Peugeot,3008 BlueHDi 130ch S&S EAT8 GT,2021,4300,Diesel,null,null,Automatique,4,7,5,57000,35500
+Mercedes,Classe A 180 CDI Avantgarde,2005,236000,Diesel,137,5.2,Manuelle,4,6,5,06500,2000
+Audi,SQ5 V6 3.0 BiTDI Plus 340 Quattro Tiptronic 8,2016,72000,Diesel,177,6.7,Automatique,4,23,5,62590,42000
+Audi,A3 Sportback 1.2 TFSI 105 Ambiente,2012,69300,Essence,127,5.5,Manuelle,4,6,5,45700,13000
+Dacia,Sandero ECO-G 100 - 22 Essentiel,2021,4800,GPL ou GNL,null,null,Manuelle,4,5,5,56610,15300
+Dacia,Sandero TCe 90 E6 Stepway Prestige,2016,71500,Essence,115,5.1,Manuelle,4,5,5,32420,8700
+Renault,Scenic dCi 130 Energy Bose Edition,2016,110000,Diesel,114,4.4,Manuelle,4,7,5,33230,10900
+Volkswagen,Golf 1.4 Hybrid Rechargeable OPF 204 DSG6 Style 1st,2020,11200,Hybride,null,null,Automatique,4,8,5,57525,28100
+Volkswagen,Touran 1.6 TDI 105 FAP BlueMotion Carat,2011,104000,Diesel,121,4.6,Manuelle,4,6,5,78700,12000
+Renault,Vel Satis 2.2 dCi 150 Expression,2003,170000,Diesel,188,7.1,Manuelle,4,9,5,92220,1000
+Jaguar,XJ8 3.5 V8 A,2003,63500,Essence,null,10.7,Automatique,4,18,4,62152,17000
+Seat,Leon 2.0 TDI 150 DSG7 Xcellence,2021,2450,Diesel,97,null,Automatique,4,8,5,66750,32000
+Fiat,Panda MY 1.2 8V 69 ch MyLife,2011,16131,Essence,110,4.9,Manuelle,4,4,4,21000,4000
+Renault,Clio dCi 75 E6C Business,2018,90000,Diesel,104,4.0,Manuelle,4,4,5,11480,8999
+Mercedes,Classe C 220 CDI Avantgarde,2007,150000,Diesel,160,6.1,Manuelle,4,10,5,67000,7000
+Mercedes,Classe GLC 220 d 9G-Tronic 4Matic AMG Line,2019,20600,Diesel,null,null,Automatique,4,11,5,34520,50000
+Audi,TT Coupé 2.0 TFSI 200 S line S-Tronic A,2007,156900,Essence,183,7.7,Automatique,2,12,4,77410,13990
+Honda,CR-V Hybrid 2.0 i-MMD 2WD Comfort,2019,30000,Hybride,120,5.3,Automatique,4,7,5,59390,30400
+Citroën,C3 Aircross BlueHDi 110 S&S BVM6 Shine,2021,11000,Diesel,null,null,Manuelle,4,6,5,25490,20000
+Renault,Twingo III 0.9 TCe 90 Energy Limited 2017,2018,34000,Essence,99,4.3,Manuelle,4,4,4,30240,9500
+Peugeot,3008 Hybrid4 300 e-EAT8 Allure,2021,13500,Hybride,null,null,Automatique,4,11,5,54240,39900
+Renault,Captur TCe 120 Energy Initiale Paris,2018,44000,Essence,125,5.5,Manuelle,4,6,5,06600,12500
+Audi,Q3 35 TFSI 150 ch Design Luxe,2019,45000,Essence,null,null,Manuelle,4,8,5,45000,33500
+Suzuki,SX4 2.0 DDiS Série Spéciale Xplore,2012,172000,Diesel,139,5.3,Manuelle,4,7,5,vendeur,5600
+Peugeot,2008 1.2 PureTech 110ch S&S BVM5 Allure,2018,23700,Essence,103,4.4,Manuelle,4,5,5,95210,15750
+Citroën,C3 1.4i Exclusive,2004,160000,Essence,145,6.1,Manuelle,4,5,5,69003,2500
+BMW,X5 xDrive30d 258 ch M Sport A,2017,99000,Diesel,158,6.0,Automatique,4,16,5,71260,37000
+Citroën,ZX 1.8i Aura,1993,122000,Essence,null,null,Manuelle,4,7,5,69008,1000
+Peugeot,208 PureTech 68ch BVM5 Active,2019,65000,Essence,105,4.6,Manuelle,4,4,5,33000,11900
+Citroën,C4 HDi 92 airDream,2008,270000,Diesel,120,4.7,Manuelle,4,5,5,27450,2100
+BMW,X4 xDrive20d 190ch xLine A,2018,31000,Diesel,136,5.2,Automatique,4,10,5,86320,40000
+Volkswagen,Tiguan 2.0 TDI 110 FAP BlueMotion Technology,2014,164000,Diesel,138,5.3,Manuelle,4,6,5,85180,11990
+Renault,Zoe R110 Intens,2020,16000,Electrique,null,null,Automatique,4,1,5,34810,14500
+Volkswagen,Polo 1.4 TSI 150 ACT BMT BlueGT,2015,87500,Essence,110,4.8,Manuelle,2,7,5,31810,13100
+Toyota,C-HR Pro Hybride 122h Dynamic,2019,9800,Hybride,86,3.8,Automatique,4,4,5,02290,23000
+Citroën,Grand C4 Picasso HDi 110 FAP BMP6,2007,172000,Diesel,150,5.7,Automatique,4,6,7,86380,3000
+Renault,Clio Estate IV TCe 90 Energy eco2 Intens,2014,104500,Essence,105,4.5,Manuelle,4,5,5,38160,7500
+Renault,Mégane Coupé  1.9 DCI Dynamique,2002,137500,Diesel,139,5.2,Manuelle,2,6,4,84130,3000
+Mercedes,C180 Elégance A,1995,121000,Essence,null,null,Automatique,4,11,5,73000,4500
+Dodge,Nitro 2.8 CRD 177 4x4 SXT A,2008,156000,Diesel,250,9.4,Automatique,4,12,5,49260,11000
+Mini,Mini Countryman 143 ch ALL4 Cooper SD A,2015,52780,Diesel,156,5.9,Automatique,4,8,5,33000,20000
+Renault,Scenic 1.5 dCi 105 Authentique,2007,235000,Diesel,138,5.2,Manuelle,4,6,5,91430,2300
+Citroën,2 CV 6 Charleston,1977,60000,Essence,null,null,Manuelle,4,3,5,11100,11000
+Peugeot,307 CC 2.0e 16V 141ch Navteq on Board A,2007,124500,Essence,199,8.4,Automatique,2,9,4,83510,5990
+Opel,Zafira 1.9 CDTI - 120 ch FAP Cosmo Pack,2007,69000,Diesel,159,6.0,Manuelle,4,7,7,01120,6500
+Lexus,IS 300h Luxe,2018,33500,Hybride,101,4.3,Automatique,4,9,5,77580,27000
+Citroën,C4 PureTech 130 S&S EAT8 Shine Pack,2021,3400,Essence,null,null,Automatique,4,7,5,25230,27500
+Peugeot,308 SW 1.6 e-HDi 112ch FAP Access,2013,117000,Diesel,114,4.4,Manuelle,4,6,5,77500,7490
+Citroën,C4 Cactus BlueHDi 100 Business,2015,112000,Diesel,95,3.6,Manuelle,4,5,5,97240,8500
+Renault,Twingo III 1.0 SCe 70 eco2 Limited,2015,38000,Essence,105,4.5,Manuelle,4,4,4,66000,7200
+BMW,X1 sDrive 18d 143 ch Business,2014,99000,Diesel,128,4.9,Manuelle,4,8,5,40500,13500
+Citroën,C4 Picasso HDi 110 FAP Millenium BMP6,2011,113500,Diesel,137,5.2,Automatique,4,6,5,86100,7000
+Audi,A4 2.5 V6 TDI Quattro Pack,2001,250000,Diesel,211,7.8,Manuelle,4,10,5,01340,800
+Renault,Mégane II CC 1.6 16V Authentique Proactive A,2007,65000,Essence,187,7.8,Automatique,2,7,4,34000,1500
+Citroën,DS4 THP 200 Sport Chic,2012,160000,Essence,149,6.4,Manuelle,4,11,5,01170,7900
+alfa,147 1.9 JTD - 115 Impression,2005,263000,Diesel,155,5.8,Manuelle,2,7,5,24750,450
+Ford,Mustang Fastback V8 5.0 421 GT,2013,55000,Essence,299,13.5,Manuelle,2,33,4,14500,79500
+BMW,X1 sDrive 18d 143 ch Lounge Plus,2014,99000,Diesel,128,4.9,Manuelle,4,8,5,40500,13500
+Renault,Scenic dCi 110 Energy FAP eco2 Bose Edition,2014,103000,Diesel,105,4.1,Manuelle,4,5,5,02800,10500
+Peugeot,1007 1.4 HDi Dolce,2006,75000,Diesel,124,4.4,Manuelle,2,4,4,91390,4200
+Peugeot,208 PureTech 82ch S&S BVM5 Signature,2019,25000,Essence,108,4.7,Manuelle,4,4,5,19160,13800
+Austin,MINI MOKE BACHE,1986,39000,Essence,null,null,Manuelle,2,6,null,83300,19800
+Mercedes,C43 AMG Sport,1999,134000,Essence,280,11.7,Automatique,4,22,5,74470,18000
+Peugeot,308 SW BlueHDi 130ch S&S BVM6 Allure,2016,73480,Diesel,null,null,Manuelle,4,7,5,55100,12850
+Peugeot,2008 1.6 e-HDi 115ch FAP BVM6 Féline Cuivre,2014,141000,Diesel,105,4.0,Manuelle,4,6,5,31300,9200
+Volkswagen,Golf Plus 1.6 TDI 105 FAP BlueMotion Confortline,2010,172000,Diesel,114,4.3,Manuelle,4,5,5,82300,5700
+Suzuki,Samurai 1.3i Luxe,1997,43000,Essence,null,null,Manuelle,2,7,4,31550,7000
+Land-Rover,Range Rover Sport Mark VI TDV6 3.0L HSE A,2011,140000,Diesel,243,9.2,Automatique,4,16,5,33700,21850
+Mercedes,Classe CLS 350 d 4Matic A,2013,107300,Diesel,166,6.2,Automatique,4,16,4,49250,23500
+Volkswagen,Golf 2.0 TSI 210 GTI,2010,101300,Essence,170,7.3,Manuelle,2,13,5,67110,15000
+Jeep,Wrangler 2.8 CRD 200 MOAB,2013,100687,Diesel,187,7.1,Manuelle,2,12,4,40600,31600
+Fiat,Panda 1.4 16V Sport,2007,148000,Essence,154,6.5,Manuelle,4,6,4,04140,4400
+Citroën,BX Evasion 1.9 D TD,1990,195000,Diesel,null,null,Manuelle,4,6,5,71270,500
+Mercedes,C 200 CDI - 115 Avantgarde,2003,283500,Diesel,167,6.3,Manuelle,4,7,5,83160,2500
+Citroën,C3 Aircross PureTech 130 S&S EAT6 C-Series,2020,8300,Essence,null,null,Automatique,4,7,5,38110,21000
+Subaru,Legacy Boxer Diesel 2.0D,2008,160000,Diesel,148,5.6,Manuelle,4,8,5,91470,5200
+Porsche,911 Cabriolet Carrera,1988,132500,Essence,null,null,Manuelle,2,17,4,91450,72500
+Volkswagen,T-Roc 2.0 TDI 150 Start/Stop DSG7 4Motion Carat Exclusive,2018,47000,Diesel,null,null,Automatique,4,8,5,80300,27442
+Renault,Koleos dCi 175 4x2 X-tronic Energy Initiale Paris,2018,41000,Diesel,146,5.5,Automatique,4,10,5,57700,27400
+Porsche,Cayenne 3.6 V6 Tiptronic S A,2007,134000,Essence,310,12.9,Automatique,4,21,5,83510,17400
+Volkswagen,Polo 1.4i,1997,125500,Essence,null,6.3,Manuelle,2,6,5,74160,1700
+Renault,Mégane Estate III 1.6 dCi 130 FAP Energy eco2 Bose,2015,140000,Diesel,104,4.0,Manuelle,4,6,5,57420,8500
+Renault,Captur dCi 110 Energy Intens,2015,126500,Diesel,98,3.7,Manuelle,4,5,5,19320,9500
+Ferrari,599 GTB V12 6.0 620ch Fiorano F1,2009,79700,Essence,401,null,Automatique,2,58,2,59230,95000
+BMW,Touring 320i 150ch Confort,2007,170000,Essence,182,7.6,Manuelle,4,9,5,59230,6990
+Nissan,Terrano 2.7 TDI Canon,1999,139000,Diesel,null,9.8,Manuelle,2,10,5,07470,3000
+Audi,A1 1.2 TFSI 86 Ambition,2011,112000,Essence,118,5.1,Manuelle,2,5,4,92260,9700
+BMW,Touring 520d,2001,300000,Diesel,163,6.1,Manuelle,4,7,5,62000,1700
+Mercedes,Classe A 200 CDI Avantgarde,2010,197400,Diesel,138,5.3,Manuelle,4,8,5,69220,4500
+Renault,Twingo II 1.2 LEV 16v 75 eco2 Privilège,2012,89800,Essence,105,4.5,Manuelle,2,4,4,19600,5200
+Volvo,V60 D4 181 ch Stop&Start Momentum Geartronic A,2014,178000,Diesel,112,4.3,Automatique,4,9,5,,null
+Peugeot,206 1.4e 75ch Génération,2008,69700,Essence,152,6.4,Manuelle,4,5,5,94310,4500
+BMW,Touring 523i A,1998,231000,Essence,256,10.7,Automatique,4,12,5,80600,4000
+Volvo,V60 D4 181 ch Stop&Start Xénium Geartronic A,2014,178000,Diesel,112,4.3,Automatique,4,9,5,44200,14800
+Fiat,Multipla 1.9 Multijet 120 Class,2007,281000,Diesel,173,6.4,Manuelle,4,7,6,78610,1700
+Lexus,LS 400 A,1998,190000,Essence,null,null,Automatique,4,23,5,07220,6500
+Peugeot,407 1.6 HDi 16V 110ch FAP Confort Pack,2007,185000,Diesel,140,5.3,Manuelle,4,6,5,74960,3500
+BMW,118d 150 ch Business,2016,127000,Diesel,104,4.0,Manuelle,4,7,5,77500,14700
+Mercedes,ML 400 CDI Luxury A,2003,238600,Diesel,288,10.9,Automatique,4,18,5,91580,6500
+Nissan,X-TRAIL 1.6 dCi 130 7pl All-Mode 4x4-i Tekna,2015,47000,Diesel,143,5.4,Manuelle,4,7,7,78650,17590
+OPEL,Tigra cab 1.8 16V - 125 Ecotec RedTop,2005,139000,Essence,179,7.5,Manuelle,2,8,2,88000,2700
+Audi,A5 Sportback V6 3.0 TDI 245 Ambiente Quattro S tronic,2012,90000,Diesel,149,5.7,Automatique,4,14,4,13007,21500
+Citroën,DS3 Cabriolet e-HDi 90 Be Chic,2014,171200,Diesel,95,3.6,Manuelle,2,4,5,69008,6950
+Hyundai,Coupé 2.0i Pack Luxe,2007,159900,Essence,193,8.0,Manuelle,2,9,4,01710,5900
+Fiat,500L 1.4 95 ch S/S 120th,2019,21500,Essence,129,6.2,Manuelle,4,5,5,44600,14990
+Opel,Meriva 1.7 CDTI - 100 Cosmo,2009,146000,Diesel,139,5.2,Manuelle,4,6,5,88100,2990
+Kia,Sportage 1.7 CRDi 141 ISG 4x2 DCT7 Active,2017,72400,Diesel,129,4.9,Automatique,4,7,5,21000,18200
+Suzuki,Swift 1.2 VVT So'City,2016,36000,Essence,116,5.0,Manuelle,4,5,5,64110,10000
+Citroën,ZX 1.4i Reflex,1992,200000,Essence,null,7.6,Manuelle,4,7,5,28000,1700
+Mercedes,CLK 220 CDI Avantgarde,2005,195000,Diesel,172,6.5,Manuelle,2,9,4,30100,4500
+Volkswagen,T-Cross 1.0 TSI 115 Start/Stop BVM6 Carat,2020,15000,Essence,106,null,Manuelle,4,6,5,39140,21000
+Mercedes,Classe A 180 d 7G-DCT AMG Line,2019,24100,Diesel,null,null,Automatique,4,6,5,vendeur,31200
+Volkswagen,Eos 2.0 16S TDI 140 FAP Carat,2008,182262,Diesel,156,6.0,Manuelle,2,8,4,74500,6000
+BMW,X5 3.0 d A,2003,342000,Diesel,259,9.7,Automatique,4,13,5,04700,4200
+Renault,Super 5 GTS,1988,1000,Essence,null,null,Manuelle,2,6,5,31200,20000
+Mini,Mini Countryman D 112 ch Cooper,2014,76600,Diesel,111,4.2,Manuelle,4,6,5,20290,12500
+Peugeot,106 1.4 D XND,1993,242077,Diesel,null,null,Manuelle,4,4,5,70000,500
+Peugeot,107 1.0e 12V 68ch BLUE LION Trendy,2010,80872,Essence,106,4.5,Manuelle,2,4,4,83136,3300
+Toyota,C-HR Hybride 122h Collection,2018,10600,Hybride,87,3.9,Automatique,4,4,5,61000,23500
+BMW,X1 sDrive 18d 143 ch Business,2013,235000,Diesel,128,4.9,Manuelle,4,8,5,82370,13500
+Peugeot,508 1.6 BlueHDi 120ch S&S BVM6 Access,2016,130000,Diesel,99,3.8,Manuelle,4,6,5,36370,9000
+Opel,Mokka X 1.6 CDTI - 136 ch 4x2 BVA6 Color Edition,2017,67461,Diesel,132,5.0,Automatique,4,7,5,69004,17500
+Ford,Ka+ 1.2 85 ch S&S Active,2018,42000,Essence,129,5.7,Manuelle,4,5,5,85270,9200
+Audi,A4 Cabriolet 2.4i V6,2002,158000,Essence,235,9.8,Manuelle,2,11,4,74140,7190
+Citroën,Xsara Picasso 2.0 HDi 90,2002,390000,Diesel,147,5.5,Manuelle,4,5,5,44380,900
+Volkswagen,Touran 2.0 TDI 140 FAP BlueMotion Carat DSG6,2012,180000,Diesel,135,5.2,Automatique,4,8,7,40700,12000
+BMW,Gran Coupé 418d 143 ch Business A,2015,110321,Diesel,122,4.6,Automatique,4,7,5,95500,17150
+Renault,Captur TCe 120 Energy Initiale Paris,2018,12000,Essence,125,5.5,Manuelle,4,6,5,34190,14500
+Fiat,Tipo 1.4 95 ch,2018,48167,Essence,133,5.7,Manuelle,4,5,5,62210,10490
+Mini,Mini 1.6i - 170 Cooper S,2006,78000,Essence,207,8.6,Manuelle,2,11,4,06100,8500
+Toyota,Yaris 1.3 - 87 VVT-i,2007,106000,Essence,141,6.0,Manuelle,4,5,5,01000,4800
+Skoda,Fabia 1.2 12V 60 Pep's,2009,99990,Essence,140,5.9,Manuelle,4,4,5,01000,5450
+Peugeot,107 1.0e 12V 68ch BLUE LION Trendy,2008,85100,Essence,108,4.6,Manuelle,2,4,4,01000,4490
+Citroën,C4 PureTech 130 S&S EAT8 Shine,2021,3600,Essence,null,null,Automatique,4,7,5,21000,26500
+Renault,Laguna 2.0 dCi 130 Energy eco2 Bose Edition,2014,180000,Diesel,118,4.5,Manuelle,4,7,5,46300,5800
+Ford,Mustang Fastback V8 5.0 421 GT A,1972,23000,Essence,281,12.0,Automatique,2,33,2,27300,39900
+BMW,116i,2005,131000,Essence,181,7.5,Manuelle,4,7,5,49300,6900
+Mercedes,Classe GLC 220 d 9G-Tronic 4Matic,2016,99000,Diesel,156,5.9,Automatique,4,9,5,21200,29800
+Ford,Mondeo 2.0 TDCI 140 FAP Business Nav,2012,239000,Diesel,139,5.3,Manuelle,4,8,5,34990,4750
+Mercedes,E 270 CDI Elégance A,2002,256000,Diesel,180,6.8,Automatique,4,11,5,67500,3200
+Peugeot,207 1.6 HDi 16V 90ch BLUE LION Navteq,2009,190500,Diesel,117,4.5,Manuelle,4,5,5,38510,3000
+Peugeot,2008 Electrique 136 ch Allure,2021,3900,Electrique,null,null,Automatique,4,4,5,38360,30000
+Kia,CEED 1.0 T-GDi 120 ch ISG BVM6 GT Line,2019,17000,Essence,118,5.2,Manuelle,4,6,5,51100,18000
+Renault,Clio TCe 90 E6C Trend,2019,27280,Essence,113,5.0,Manuelle,4,5,5,24660,12000
+Mercedes,Classe B 200 CDI BlueEFFICIENCY Sport 7-G DCT A,2013,60000,Diesel,120,4.5,Automatique,4,7,5,83140,15000
+Peugeot,108 VTi 72ch S&S BVM5 Style,2021,2000,Essence,null,null,Manuelle,4,4,4,68390,13700
+Mitsubishi,Space Star 1.0 MIVEC 71,2020,15000,Essence,105,4.6,Manuelle,4,4,5,62950,8260
+Peugeot,2008 PureTech 82ch BVM5 Style,2019,27000,Essence,112,5.0,Manuelle,4,4,5,60510,13500
+Dacia,Lodgy 1.5 dCI 110 FAP 5 places Ambiance,2012,77500,Diesel,116,4.4,Manuelle,4,6,5,42420,9200
+Citroën,C4 PureTech 130 S&S EAT8 Shine,2021,3500,Essence,null,null,Automatique,4,7,5,70000,26600
+Mercedes,Classe E 220 d 9G-Tronic Fascination,2016,96500,Diesel,123,4.7,Automatique,4,10,5,75016,31000
+Fiat,500 1.2 8V 69 ch Lounge,2012,92000,Essence,119,null,Manuelle,2,4,4,78440,6499
+Suzuki,Swift 1.2 Dualjet Avantage,2019,44500,Essence,106,4.3,Manuelle,4,5,5,33650,10900
+Opel,Corsa 1.3 CDTI - 75 EcoFlex 105g Cool Line 2,2009,82600,Diesel,105,4.0,Manuelle,2,4,5,87320,7000
+Mitsubishi,Eclipse Cross 1.5 MIVEC 163 BVM6 2WD Instyle,2018,31000,Essence,151,6.6,Manuelle,4,9,5,37000,15900
+Mercedes,300 D A,1982,316000,Diesel,null,null,Automatique,4,12,5,66300,2000
+Mercedes,Classe A 180 d 7G-DCT AMG Line,2018,22000,Diesel,null,null,Automatique,4,6,5,92380,30850
+Ford,RANGER 2.5 TDCi 143 SUPER CAB XL 4X4,2007,298000,Diesel,244,8.9,Manuelle,2,8,4,27290,1500
+Toyota,Land Cruiser 3.0 TD GX,1998,235000,Diesel,null,11.1,Manuelle,4,10,5,16240,10000
+Renault,Clio E-Tech 140 - 21 Limited,2021,2400,Hybride,null,null,Automatique,4,5,5,18140,21100
+Seat,Ateca 2.0 TDI 150 ch Start/Stop DSG7 FR,2019,78000,Diesel,116,4.7,Semi automatique,4,8,5,16000,26400
+Renault,Grand Scenic 1.9 dCi 120 Confort Authentique,2005,88000,Diesel,154,5.8,Manuelle,4,7,7,30100,2990
+Peugeot,308 CC 2.0 HDi 16V 140ch FAP Féline,2010,214000,Diesel,155,5.9,Manuelle,2,8,4,78410,4000
+Audi,A3 Sportback 1.6 TDI 110 Ambiente,2015,110000,Diesel,99,3.8,Manuelle,4,5,5,54000,13500
+Audi,A1 1.6 TDI 105 Ambiente,2010,117000,Diesel,103,3.9,Manuelle,2,5,4,vendeur,10000
+Peugeot,206 1.4e 75ch XBOX 360,2007,51607,Essence,152,6.4,Manuelle,4,5,5,22410,5390
+Renault,Mégane Estate III 1.5 dCi 110 FAP Energy eco2 Bose,2016,113000,Diesel,90,3.5,Manuelle,4,5,5,55300,9600
+BMW,X3 sDrive18d 150ch Lounge Plus Start Edition A,2017,123000,Diesel,125,4.7,Automatique,4,8,5,45190,21500
+Citroën,C4 PureTech 130 S&S Feel Pack Business,2021,6500,Essence,108,4.8,Manuelle,4,7,5,25260,22900
+Peugeot,406 Coupé 2.0 16v A,2003,161000,Essence,206,8.6,Automatique,2,9,4,64200,4700
+Mercedes,Classe S 400 d 9G-Tronic 4-Matic Executive,2018,50000,Diesel,162,6.1,Automatique,4,22,5,85150,64000
+Audi,A1 Sportback 1.0 TFSI 95 ultra Active,2016,89000,Essence,98,4.3,Manuelle,4,5,4,33700,12000
+Renault,Mégane IV Berline TCe 115 FAP Business,2019,30040,Essence,120,5.3,Manuelle,4,6,5,37390,14850
+Volkswagen,Golf 1.6 TDI 105 BlueMotion Technology FAP Carat DSG7,2014,118000,Diesel,102,3.9,Semi automatique,4,5,5,37130,12350
+Renault,Kadjar TCe 130 Energy Graphite,2018,48000,Essence,126,5.6,Manuelle,4,7,5,91810,14900
+Nissan,Qashqai 1.5 dCi 115 Acenta,2019,347,Diesel,null,null,Manuelle,4,6,5,vendeur,23500
+BMW,X1 sDrive 18d 150 ch Business,2016,77000,Diesel,109,4.1,Manuelle,4,7,5,57350,19400
+Renault,Kadjar dCi 130 Energy X-Tronic Intens,2018,50084,Diesel,130,5.0,Automatique,4,7,5,33770,18500
+Citroën,C4 PureTech 110 BVM Millenium Business,2018,31300,Essence,112,4.8,Manuelle,4,6,5,81100,12000
+Peugeot,306 Cabriolet 2.0i,1995,204300,Essence,null,null,Manuelle,2,10,4,50490,3500
+Volkswagen,Touareg R5 TDI A,2005,178000,Diesel,265,9.8,Automatique,4,12,5,45680,6990
+Renault,Kadjar dCi 130 Energy Intens,2016,70500,Diesel,117,4.5,Manuelle,4,7,5,41320,14200
+Peugeot,2008 1.2 PureTech 110ch S&S EAT6 Allure,2016,73500,Essence,110,4.8,Automatique,4,6,5,11700,11600
+Renault,Grand Scénic III dCi 110 FAP eco2 Alyum Euro 5 EDC 7 pl,2010,150000,Diesel,130,5.0,Automatique,4,6,7,28160,5600
+Jeep,Renegade 1.6 I MultiJet S&S 95 ch Aspen,2018,40000,Diesel,115,4.4,Manuelle,4,5,5,83320,16900
+BMW,X3 xDrive20d 190ch BVA8 Business,2018,21000,Diesel,140,5.3,Automatique,4,11,5,34830,40900
+Mini,Mini D 112 ch Cooper,2011,138000,Diesel,99,3.8,Manuelle,2,5,4,40390,8200
+Toyota,Prius Rechargeable 136h Dynamic,2016,124000,Hybride,49,2.1,Automatique,4,4,5,93320,15000
+Alfa,Giulia 2.0 TB 200 ch AT8 Lusso,2017,32000,Essence,138,6.0,Automatique,4,11,5,68100,31500
+Audi,Q3 2.0 TDI Ultra 150 ch S line,2016,104000,Diesel,119,4.6,Manuelle,4,8,5,32000,19000
+Ford,Focus 1.6i Ambiente,2003,198500,Essence,163,6.8,Manuelle,4,6,5,30100,2500
+twingo,Twingo II 1.2 LEV 16v 75 eco2 Life,2014,67000,Essence,104,4.5,Manuelle,2,4,4,31620,5400
+Dacia,Sandero 1.5 dCi 90 E6 Stepway Prestige,2016,25800,Diesel,98,3.8,Manuelle,4,4,5,81500,11200
+Peugeot,307 CC 1.6e 16V 110ch Navteq on Board,2006,167500,Essence,178,7.6,Manuelle,2,7,4,47520,4000
+Renault,Mégane II 1.9 dCi 130 Carminat,2006,110791,Diesel,145,5.5,Manuelle,4,7,5,64250,3800
+Citroën,C5 HDi 110 FAP Attraction,2011,200,Diesel,129,5.0,Manuelle,4,6,5,11700,4300
+Mini,Mini Clubman Cooper 136 ch BVA6 Edition Kensington,2018,35000,Essence,121,5.2,Automatique,4,8,5,93360,23200
+Seat,Ibiza SC 1.2 TSI 105 Sport,2014,49500,Essence,124,5.3,Manuelle,2,6,5,78250,8000
+Mercedes,Classe A 180 7G-DCT Progressive Line,2021,750,Essence,null,null,Automatique,4,7,5,34340,34900
+Kia,Cee'd 1.0 T-GDI 120 ch ISG GT Line,2015,63500,Essence,115,4.9,Manuelle,4,6,5,33140,12700
+Volkswagen,Golf TDI 90 S,1995,239000,Diesel,null,null,Manuelle,4,5,5,85110,2800
+Citroën,Berlingo 1.9 D,2005,230000,Diesel,181,6.9,Manuelle,4,5,5,51100,3900
+Opel,Crossland X 1.2 Turbo 130 ch Design,2018,70000,Essence,117,5.1,Manuelle,4,7,5,45130,14300
+Voiture,null,null,null,null,null,null,null,null,null,null,null,null
+Dacia,Lodgy 1.6 MPI 85 5 places,2012,160000,Essence,165,7.1,Manuelle,4,6,5,44710,4800
+Dacia,Sandero TCe 90 Ambiance,2018,50300,Essence,109,4.9,Manuelle,4,5,5,81500,11500
+Auto,Omega 2.5 TD MV6 A,1996,323000,Diesel,null,9.0,Automatique,4,7,5,08300,1600
+Audi,Q2 30 TDI 116 S tronic 7 Sport,2018,35000,Diesel,118,4.5,Automatique,4,6,5,78550,25000
+Toyota,Prius+ 136h SkyView,2017,97000,Hybride,101,4.4,Automatique,4,5,7,91390,18000
+Peugeot,Bipper Tepee 1.3 HDi 75ch FAP Access,2011,69950,Diesel,119,4.5,Manuelle,4,4,5,21300,7400
+Fiat,500C 1.2 69 ch Eco Pack Club,2019,30500,Essence,116,5.1,Manuelle,2,4,2,83600,13200
+Volkswagen,Caravelle 2.0 TDI 140 Longue Confortline,2012,100350,Diesel,198,7.5,Manuelle,4,9,9,31270,24500
+Peugeot,308 SW 1.6 HDi 110ch FAP Business Pack,2010,185000,Diesel,130,4.9,Manuelle,4,6,5,29800,5700
+Ford,Fiesta 1.3i Ambiente,2003,83000,Essence,147,6.2,Manuelle,2,5,5,83670,2800
+Peugeot,308 AFFAIRE BLUEHDI 100 S&S BVM6 PREMIUM,2018,79940,Diesel,91,3.4,Manuelle,4,5,2,41210,10800
+Peugeot,2008 PureTech 130 S&S BVM6 GT Line,2020,17500,Essence,null,null,Manuelle,4,7,5,84220,23500
+Citroën,Xantia 1.8i Anniversaire Clim,1994,175000,Essence,null,8.7,Manuelle,4,9,5,45240,900
+Citroën,Xantia 2.0 HDi - 110 Activa,1999,800,Diesel,150,5.5,Manuelle,4,6,5,56220,200
+Peugeot,307 CC 2.0e 16V 141ch Navteq on Board A,2007,124500,Essence,199,8.4,Automatique,2,9,4,83510,6290
+Seat,Leon 2.0 TDI 150 Start/Stop Connect,2016,101541,Diesel,115,4.5,Manuelle,4,8,5,64230,14000
+Jaguar,E-Pace 2.0 D - 180 ch AWD BVA,2018,65416,Diesel,147,5.6,Automatique,4,10,5,68100,37000
+Mini,Mini Clubman Cooper S 192 ch ALL4 Finition Chili,2016,47000,Essence,159,6.9,Manuelle,4,11,5,13011,19500
+Renault,Scenic TCe 115 Energy Life,2016,104000,Essence,140,6.2,Manuelle,4,6,5,75010,9000
+Peugeot,2008 1.2 PureTech 110ch S&S BVM5 Allure,2015,112500,Essence,103,4.4,Manuelle,4,5,5,06240,9200
+Mercedes,Classe E 220 CDI Avantgarde A,2008,192000,Diesel,177,6.7,Automatique,4,10,5,58700,7450
+Hyundai,Tucson 1.6 T-GDI 230 Hybrid BVA6 N Line Executive,2021,5700,Hybride,null,null,Automatique,4,10,5,94000,41500
+Renault,Scenic dCi 95 FAP eco2 Expression,2013,174000,Diesel,120,4.5,Manuelle,4,5,5,21000,5800
+Fiat,Punto Evo 1.3 Multijet 16V 85 S&S DPF 90g Dynamic,2011,192000,Diesel,90,3.5,Manuelle,4,4,5,09300,4200
+Mini,Mini Cabriolet 1.6i - 175 Cooper S A,2009,22000,Essence,170,7.1,Automatique,2,10,4,01600,12500
+Mini,Mini 184 ch Cooper S,2010,147500,Essence,136,5.8,Manuelle,2,10,4,50630,11700
+Toyota,RAV4 115 D-4D VXE,2004,140000,Diesel,190,7.1,Manuelle,2,8,4,65000,10490
+Mercedes,C 220 CDI Avantgarde,2000,226000,Diesel,170,6.4,Manuelle,4,8,5,03160,4500
+Volkswagen,Golf 1.4 TSI 160 Carat,2010,130250,Essence,145,6.3,Manuelle,4,9,5,26700,8888
+Opel,Mokka 1.7 CDTI - 130 ch FAP 4x2 ecoFLEX Start&Stop Business Connect,2014,172000,Diesel,120,4.5,Manuelle,4,7,5,19140,7599
+Audi,A3 Berline 1.6 TDI 105 Ambiente,2014,156200,Diesel,99,3.8,Manuelle,4,5,5,70100,11000
+BMW,X2 xDrive 20d 190 ch BVA8 M Sport X,2017,25000,Diesel,126,4.8,Automatique,4,10,5,13009,37000
+Toyota,Corolla Verso MC 136 D-4D 5pl FAP Linéa Luna,2008,116700,Diesel,170,6.4,Manuelle,4,8,7,42300,6500
+Mercedes,Classe C 180 CDI BlueEfficiency Business +,2011,175000,Diesel,125,4.8,Manuelle,4,6,5,93130,10000
+Audi,A3 SportBack 2.0 TDI Ambiente DSG,2005,249000,Diesel,153,5.7,Semi automatique,4,8,5,91760,4500
+Dacia,Sandero dCi 75 Ambiance,2017,96000,Diesel,90,3.5,Manuelle,4,4,5,33830,9300
+Mercedes,Classe CLA 180 Edition 1 7-G DCT A,2013,90000,Essence,129,5.5,Automatique,4,7,5,69140,21000
+BMW,M2 CS 450 ch,2021,4324,Essence,233,10.2,Manuelle,2,34,4,84600,107000
+BMW,Gran Turismo 320d xDrive 184 ch Luxury,2015,108500,Diesel,133,5.1,Manuelle,4,10,5,02460,16500
+Citroën,C4 Spacetourer BlueHDi 130 S&S BVM6 Business,2020,43000,Diesel,null,null,Manuelle,4,6,5,56350,19000
+Renault,Captur TCe 120 Energy SL Wave,2017,81500,Essence,125,5.5,Manuelle,4,6,5,26780,10500
+Honda,Civic 2.2 i-CTDI Sport Navi,2008,212000,Diesel,140,5.3,Manuelle,4,8,5,09140,4500
+Jaguar,XF Sportbrake 2.0 D - 180 ch BVA R-Sport,2017,81000,Diesel,124,4.8,Automatique,4,10,5,59480,28800
+Porsche,911 Carrera S Coupé 3.8i 385,2010,138000,Essence,250,10.6,Manuelle,2,28,4,vendeur,47500
+Volkswagen,Golf SW 2.0 TDI 150 BlueMotion Technology Carat,2014,84000,Diesel,108,4.2,Manuelle,4,7,5,85250,13990
+MG,EHS 1.5T GDI Hybride rechargeable Luxury,2021,100,Hybride,null,null,Automatique,4,null,5,09100,33000
+Smart,Fortwo Coupé 1.0 71 ch S&S BA6 Passion,2018,7351,Essence,111,4.8,Automatique,2,4,2,06800,13500
+Mini,Mini Cooper D 116 ch BVA6 Finition Business,2016,55500,Diesel,98,3.7,Automatique,2,6,4,34280,15500
+Renault,Mégane 1.5 dCi 100 Confort Authentique,2004,126000,Diesel,119,4.5,Manuelle,4,5,5,33820,2950
+Ford,Focus 1.5 EcoBlue 120 S&S ST Line,2018,60000,Diesel,null,null,Manuelle,4,6,5,55500,15599
+Opel,Zafira 2.0 DTI - 100 Comfort,2005,230000,Diesel,169,6.3,Manuelle,4,6,7,11200,2500
+3008,3008 BlueHDi 130ch S&S EAT8 Allure,2018,38000,Diesel,102,4.0,Automatique,4,6,5,42300,24750
+Smart,Fortwo Cabrio 1.0 71 ch S&S BA6 Prime,2013,45600,Essence,99,4.3,Automatique,2,4,2,06000,10900
+AUTRES,Titop,1986,125000,Essence,1,null,Manuelle,2,null,4,20000,7000
+Mercedes,Classe CLA 200 CDI Edition 1 7-G DCT A,2014,115000,Diesel,118,4.5,Automatique,4,7,5,59140,16500
+Renault,Twingo III 0.9 TCe 90 Energy Hipanema,2016,23400,Essence,99,4.3,Manuelle,4,4,4,33510,8000
+Volkswagen,Golf 2.0 TSI 270 R 4Motion,2010,178000,Essence,199,8.5,Manuelle,4,17,5,61000,15400
+Peugeot,208 1.2 PureTech 82ch BVM5 Style,2017,37000,Essence,104,4.5,Manuelle,4,4,5,38490,11490
+Peugeot,5008 2.0 BlueHDi 150ch S&S BVM6 Active Business,2017,89500,Diesel,118,4.6,Manuelle,4,8,7,57000,23000
+Mercedes,CLK 200 K Avantgarde A,2005,94000,Essence,200,8.4,Automatique,2,10,4,75020,8990
+Audi,Q3 2.0 TDI 140 ch Ambiente,2013,156000,Diesel,137,5.2,Manuelle,4,8,5,13400,13800
+Renault,Grand Scenic 1.5 dCi 100 Confort Authentique,2005,109000,Diesel,140,5.3,Manuelle,4,6,7,69340,5200
+Volkswagen,Tiguan 2.0 TDI 150 Carat,2017,80000,Diesel,118,null,Manuelle,4,8,5,17620,26500
+Citroën,DS3 Crossback PureTech 130 S&S EAT8 Connected Chic,2021,3700,Essence,111,4.8,Automatique,4,7,5,25400,29300
+Opel,Astra 2.0 DTI 16V Comfort,2002,248000,Diesel,154,5.7,Manuelle,4,6,5,13016,450
+Peugeot,108 1.0 VTi 68ch ETG5 Active,2016,69500,Essence,97,4.2,Semi automatique,4,4,4,13400,9990
+mini,Mini 1.6i - 122 Cooper Pack Chili +,2011,103000,Essence,127,5.4,Manuelle,2,6,4,vendeur,8950
+Volkswagen,Passat 1.9 TDI - 100 Business Line,2004,250000,Diesel,146,5.4,Manuelle,4,6,5,89360,3000
+Citroën,C5 HDi 110 FAP Airdream Attraction,2011,135000,Diesel,130,5.0,Manuelle,4,6,5,32110,8000
+Audi,Q5 V6 3.0 TDI Clean Diesel 258 Quattro S Line S tronic 7,2015,79000,Diesel,161,6.1,Automatique,4,16,5,58000,28990
+Mini,Mini 1.6i - 120 Cooper,2007,38600,Essence,129,5.4,Manuelle,2,7,4,vendeur,9900
+Renault,Clio TCe 90 Energy Business,2018,53000,Essence,105,4.7,Manuelle,4,5,5,31320,10700
+Volkswagen,Golf 1.9 TDI 105 Carat,2005,145000,Diesel,132,5.0,Manuelle,4,6,5,30000,49000
+Ford,Fiesta 1.0 EcoBoost 100 ch S&S BVM6 Titanium,2018,44000,Essence,97,4.3,Manuelle,4,5,5,38300,13400
+Audi,A3 Berline 1.6 TDI 110 Business line,2017,47000,Diesel,98,3.7,Manuelle,4,5,5,34000,16800
+Peugeot,308 CC 1.6 THP 156ch Féline A,2011,152000,Essence,179,7.7,Automatique,2,9,4,37300,9300
+Kia,Sorento 2.5 CRDI LX,2006,220000,Diesel,205,7.7,Manuelle,4,9,5,30300,3500
+Audi,TT Coupé V6 3.2 250 Quattro S line S-Tronic A,2007,167000,Essence,224,9.4,Automatique,2,16,4,52100,13500
+Peugeot,306 2.0i Griffe A,1995,220000,Essence,null,null,Automatique,4,10,5,72300,1500
+Nissan,Pulsar 1.5 dCi 110 Acenta,2016,78000,Diesel,94,3.6,Manuelle,4,5,5,30000,9900
+Peugeot,208 Electrique 50 kWh 136ch Allure,2021,8500,Electrique,null,null,Automatique,4,4,5,59112,26500
+BMW,Gran Turismo 318d 143 ch 119 g Modern,2014,163520,Diesel,119,4.5,Manuelle,4,7,5,55000,12500
+Ford,EcoSport 1.0 EcoBoost 125ch S&S BVM6 ST-Line,2019,10000,Essence,120,5.3,Manuelle,4,6,5,56370,15300
+Daewoo,Lanos 75 S,2001,183000,Essence,214,7.9,Manuelle,2,6,5,27000,900
+Opel,Antara 2.2 CDTI 184 ch 4x4 Start/Stop Cosmo Pack,2015,108000,Diesel,177,6.7,Manuelle,4,11,5,59130,10200
+Citroën,C4 Coupé HDi 138 FAP VTS,2005,2190000,Diesel,142,5.4,Manuelle,2,7,5,19100,1
+citroen,C3 PureTech 68 Live,2019,12200,Essence,105,4.8,Manuelle,4,4,5,74800,12600
+Hyundai,Getz 1.1 12V Clim,2008,70000,Essence,130,5.5,Manuelle,4,4,5,77500,4300
+Peugeot,3008 1.6 HDi 115ch FAP Access,2013,182000,Diesel,125,4.8,Manuelle,4,6,5,77186,6500
+Audi,Q3 2.0 TDI 177 ch Quattro Ambition Luxe S tronic 7,2013,92411,Diesel,156,5.9,Semi automatique,4,10,5,26120,27770
+BMW,X3 xDrive20d 184ch Excellis,2011,167500,Diesel,149,5.6,Manuelle,4,10,5,29200,13500
+Dacia,Sandero SCe 75,2018,17000,Essence,117,5.2,Manuelle,4,4,5,34000,10500
+Peugeot,308 1.6 THP 270ch S&S BVM6 GTi,2017,30000,Essence,139,6.0,Manuelle,4,16,5,97231,19500
+BMW,Active Tourer 216d 116 ch Business,2017,95200,Diesel,99,3.8,Manuelle,4,6,5,80000,15200
+Opel,Antara 2.0 CDTI 150 4x2 FAP Edition Pack,2009,160000,Diesel,195,7.4,Manuelle,4,9,5,vendeur,6500
+Dacia,Lodgy SCe 100 5 places,2017,75000,Essence,139,6.1,Manuelle,4,6,5,16490,9000
+Citroën,Xantia 2.0 HDi - 90 Tendance,2002,63000,Diesel,154,5.6,Manuelle,4,6,5,49560,1950
+Mercedes,SL 350 A,2003,113000,Essence,281,11.7,Automatique,2,17,2,77500,19000
+Volkswagen,Polo 1.6 TDI 90 CR FAP Confortline,2009,167381,Diesel,109,4.2,Manuelle,4,5,5,60290,6000
+Dacia,Lodgy dCi 110 5 places Advance,2018,81850,Diesel,105,4.0,Manuelle,4,5,7,39300,12300
+Peugeot,5008 BlueHDi 130ch S&S BVM6 Allure Business,2019,64000,Diesel,106,null,Manuelle,4,6,7,14400,25000
+Jaguar,E-Pace 2.0 P-300 ch MHEV AWD BVA Sport R-Dynamic,2021,5500,Essence,175,7.7,Automatique,4,19,5,06250,59500
+Mini,Mini Cabriolet Cooper 136 ch BVA7,2018,25800,Essence,118,5.2,Automatique,2,7,4,92110,26000
+Peugeot,307 CC 2.0 HDi 16v - 136 FAP Sport Pack,2007,119000,Diesel,159,6.0,Manuelle,2,8,4,59000,5200
+Volkswagen,Golf 1.9 SDI,1999,280000,Diesel,138,5.1,Manuelle,4,4,5,04510,1500
+Mercedes,Classe CLA 180 d Business,2015,37000,Diesel,98,3.7,Manuelle,4,5,5,38000,20500
+AUDI,180cv,2000,192460,Essence,202,null,Manuelle,2,null,2,71320,8500
+Audi,A4 Avant 2.5 V6 TDI Quattro Pack,2000,257000,Diesel,211,7.8,Manuelle,4,10,5,33980,900
+Ford,Mondeo 2.0 TDCI 140 FAP Business Nav,2012,239000,Diesel,139,5.3,Manuelle,4,8,5,34990,4700
+Peugeot,2008 PureTech 100 S&S BVM6 Allure Pack,2021,6000,Essence,null,null,Manuelle,4,5,5,25420,22500
+Audi,TT Coupé 2.0 TFSI 200,2008,210000,Essence,183,7.7,Manuelle,2,12,4,83000,3500
+Renault,Kadjar dCi 110 Energy eco² Edition One EDC,2015,84500,Diesel,103,3.9,Automatique,4,5,5,09200,14400
+Ford,Edge 2.0 TDCi 180 BVM6 Intelligent AWD Sport,2016,95000,Diesel,152,5.9,Manuelle,4,10,5,69001,23000
+Peugeot,2008 1.2 PureTech 110ch S&S BVM5 Crossway,2018,50000,Essence,103,4.4,Manuelle,4,5,5,72000,15400
+Citroën,C3 Aircross BlueHDi 100 BVM5 Shine,2018,49400,Diesel,104,4.0,Manuelle,4,5,5,27370,16500
+Peugeot,108 1.0 VTi 68ch BMP5 Style,2018,51000,Essence,97,4.2,Semi automatique,4,4,4,69610,11000
+BMW,Coupé 320d 177ch Confort,2008,199020,Diesel,128,4.8,Manuelle,2,9,5,77400,8500
+Renault,Twingo 1.2 16v Génération,2005,92000,Essence,138,5.8,Manuelle,2,5,4,79000,3200
+Opel,Corsa 1.2i 16V Comfort,2002,275000,Essence,154,6.4,Manuelle,2,5,5,95120,1500
+Porsche,Cayenne 3.2 V6 - 250 Tiptronic S,2006,150000,Essence,324,13.5,Automatique,4,19,5,31370,13500
+Renault,Captur TCe 120 Energy EDC Intens,2018,14000,Essence,125,5.5,Automatique,4,6,5,92100,14000
+Renault,Mégane II CC 1.9 dCi 130 Authentique,2008,179100,Diesel,151,5.7,Manuelle,2,7,4,59410,4000
+Dacia,Duster 1.5 dCi 110 E6 4x2 Prestige,2016,86000,Diesel,115,4.4,Manuelle,4,6,5,41500,12900
+Peugeot,108 VTi 72ch S&S BVM5 Style,2020,24545,Essence,null,null,Manuelle,4,4,4,26200,9990
+Dacia,Logan 1.4,2006,118000,Essence,164,6.8,Manuelle,4,5,5,97224,2600
+Renault,Talisman Blue dCi 150 Intens,2019,28000,Diesel,120,4.6,Manuelle,4,8,5,28160,18500
+Suzuki,S-Cross 1.6L DDiS Allgrip Auto TCSS Style,2017,25500,Diesel,120,4.6,Semi automatique,4,6,5,59800,21000
+Peugeot,207 CC 1.6 VTi 120ch Sport,2010,100000,Essence,150,6.5,Manuelle,2,7,4,68210,5900
+Citroën,C4 PureTech 130 S&S EAT8 Feel,2021,5000,Essence,null,null,Automatique,4,7,5,25200,29600
+Renault,Talisman Tce 150 Energy EDC Limited,2017,43700,Essence,130,5.8,Automatique,4,8,5,03400,16500
+Citroën,DS4 PureTech 130 S&S BVM6 Performance Line,2018,29980,Essence,116,5.0,Manuelle,4,7,5,78711,20250
+Toyota,RAV4 150 VVT-i GX,2005,225000,Essence,207,8.7,Manuelle,2,10,4,29120,7000
+MEGANE,Mégane 1.6i 16V Expression A,2017,45800,Essence,175,7.3,Automatique,4,7,5,69100,15000
+Mini,Mini Cabriolet D 112 ch Cooper,2012,93000,Diesel,105,4.0,Manuelle,2,5,4,85490,12500
+Mercedes,Classe A 180 BlueEFFICIENCY Sensation,2015,77500,Essence,133,5.7,Manuelle,4,7,5,78650,15390
+Peugeot,308 PureTech 110ch S&S BVM6 Allure,2020,16000,Essence,null,null,Manuelle,4,6,5,57130,19200
+Renault,Mégane Estate 1.9 dCi 120 Confort Authentique,2004,280000,Diesel,141,5.4,Manuelle,4,7,5,62140,800
+BMW,Z3 2.2i A,2001,105000,Essence,229,9.6,Automatique,2,11,2,14500,19900
+Citroën,C4 Aircross HDi 150 Confort,2012,199500,Diesel,141,5.4,Manuelle,4,8,5,11000,7900
+Renault,21 GTS,1987,99500,Essence,null,null,Manuelle,4,7,5,91580,1250
+Kia,Stonic 1.0 T-GDI 120 ch ISG Active Business,2020,5500,Essence,null,null,Manuelle,4,6,5,06200,19000
+Audi,A3 Cabriolet 2.0 TDI 140 DPF Ambiente S-Tronic A,2011,156000,Diesel,134,5.6,Semi automatique,2,8,4,vendeur,11500
+BMW,Touring 320d 177 ch Confort,2009,230000,Diesel,130,4.9,Manuelle,4,9,5,83570,5000
+Peugeot,2008 BlueHDi 120ch S&S EAT6 Allure,2019,19700,Diesel,102,4.0,Automatique,4,6,5,72300,18000
+Ford,Focus SW 1.5 TDCi 120 S&S Executive,2018,99000,Diesel,99,3.8,Manuelle,4,6,5,73200,10290
+Fiat,Tipo 1.4 95 ch,2016,7700,Essence,133,5.7,Manuelle,4,5,5,94420,9000
+Citroën,C4 Cactus PureTech 130 S&S BVM6 Shine,2018,71000,Essence,114,5.0,Manuelle,4,7,5,69009,13000
+Citroën,DS3 PureTech 110 BVA So Chic,2019,13950,Essence,119,5.2,Automatique,2,6,5,13009,15900
+BMW,X6 M Competition 625ch BVA8,2020,11000,Essence,null,null,Automatique,4,57,5,78000,149000
+VOLKSWAGEN,1.4 TDI 90 BMT DSG7  CONFORTLINE,2015,103000,Diesel,92,3.5,Automatique,2,null,5,vendeur,8900
+Kia,Venga 1.4 CRDi 90 ch Active,2010,140000,Diesel,124,4.7,Manuelle,4,5,5,47520,5300
+Mini,Mini 1.6 D - 110 Cooper,2009,136000,Diesel,104,3.9,Manuelle,2,5,4,83640,8500
+Peugeot,308 SW 2.0 BlueHDi 150ch S&S EAT6 GT Line,2017,145000,Diesel,112,4.3,Automatique,4,8,5,78110,12990
+Audi,A3 1.9 TDI - 101 Ambiente,2002,396000,Diesel,135,5.0,Manuelle,2,6,5,37000,4300
+Mercedes,C 270 CDI Avantgarde Pack Luxe A,2002,218000,Diesel,189,7.1,Automatique,4,10,5,97438,5900
+Opel,Mokka 1.7 CDTI - 130 ch FAP 4x2 ecoFLEX Start&Stop Cosmo,2013,120000,Diesel,120,4.5,Manuelle,4,7,5,vendeur,8600
+Audi,A7 Sportback V6 3.0 BiTDI 326 Tiptronic 8 Quattro Compétition,2016,89000,Diesel,167,6.3,Automatique,4,21,4,39100,38500
+Dacia,Dokker 1.5 dCi 90 Advance,2019,21000,Diesel,108,4.1,Manuelle,4,5,5,41360,15700
+Toyota,Yaris Hybride 100h Attitude,2015,103000,Hybride,82,3.6,Automatique,4,3,5,04700,10000
+Hyundai,i30 1.4 CRDi 90 Blue Drive Pack Inventive,2013,173200,Diesel,105,4.0,Manuelle,4,5,5,45000,6700
+Hyundai,Tucson 1.6 CRDi 136 HTRAC hybrid 48V DCT-7 N Line Executive,2020,26000,Diesel,null,null,Automatique,4,7,5,22300,27500
+Mini,Mini 1.6i - 120 Cooper,2009,83700,Essence,129,5.4,Manuelle,2,6,4,05230,8700
+BMW,320 d,2000,307110,Diesel,152,5.7,Manuelle,4,7,5,60280,1700
+Peugeot,Partner Tepee 1.6 HDi FAP 90ch Outdoor,2015,95000,Diesel,135,5.2,Manuelle,4,5,5,15600,11990
+BMW,Cab 320d 184 ch Confort,2010,90000,Diesel,135,5.1,Manuelle,2,10,4,06000,13500
+Opel,Zafira 1.8 Cosmo Pack,2006,164200,Essence,187,7.8,Manuelle,4,9,7,63240,3800
+Honda,HR-V 1.5  i-VTEC CVT Executive,2018,30000,Essence,121,5.3,Automatique,4,7,5,75010,19500
+Mercedes,GLA 180 7-G DCT Fascination,2018,27000,Essence,138,6.3,Automatique,4,7,5,06330,26900
+Peugeot,3008 1.6 BlueHDi 120ch S&S EAT6 Access Business,2015,62500,Diesel,109,4.2,Automatique,4,6,5,17290,13490
+Renault,Twingo II 1.5 dCi 75 eco2 Authentique,2011,106600,Diesel,85,3.3,Manuelle,2,4,4,06600,4500
+Mercedes,Classe GLC 350 e 7G-DCT 4Matic Sportline,2019,30020,Hybride,62,2.6,Automatique,4,10,5,06160,45900
+BMW,Gran Coupé 420d 190 ch Business A,2016,85500,Diesel,106,4.0,Automatique,4,10,5,33000,23900
+Volkswagen,Golf 1.0 TSI 115 BVM6 Confortline,2019,45000,Essence,104,4.7,Manuelle,4,6,5,38500,16500
+Ford,Mustang Fastback V8 5.0 GT,2007,92000,Essence,277,12.4,Manuelle,2,36,4,33120,25000
+Toyota,Yaris Hybride 100h 20eme anniversaire,2019,47000,Hybride,84,3.6,Automatique,4,3,5,06300,16000
+Mazda,RX7 DX,1982,100000,Essence,02,null,Manuelle,2,13,4,30100,10000
+Renault,Mégane IV Berline TCe 140 FAP Business,2019,31000,Essence,120,5.2,Manuelle,4,7,5,78000,14570
+MG,MG F 1.8i VVC,2000,160860,Essence,190,7.8,Manuelle,2,9,2,22000,12990
+Renault,5 Turbo 2,1990,90000,Essence,null,null,Manuelle,2,6,2,81200,13000
+Renault,Clio 2.0 16V 200 Renault Sport,2007,149000,Essence,199,8.4,Manuelle,2,12,5,81200,7000
+Audi,A6 Avant V6 3.0 TDI DPF 245 Quattro Business Line S Tronic A,2013,178000,Diesel,156,5.9,Semi automatique,4,15,5,95470,17700
+Suzuki,Swift 1.3 DDiS GL,2013,129000,Diesel,109,4.2,Manuelle,4,4,5,38670,7800
+Peugeot,208 1.2 PureTech 110ch S&S BVM5 Allure,2015,75375,Essence,99,4.3,Manuelle,4,5,5,38670,11400
+Audi,A6 Allroad Quattro V6 3.0 BITDI DPF 313 Ambition Luxe Tiptronic A,2012,195500,Diesel,176,6.7,Automatique,4,20,5,34070,18900
+Fiat,Croma 1.9 8V Multijet Collezione,2005,320000,Diesel,160,6.1,Manuelle,4,7,5,85160,1800
+Peugeot,607 2.2 HDi 16v Exécutive,2005,369000,Diesel,177,6.6,Manuelle,4,8,5,85160,1000
+Land-Rover,Range Rover Sport Mark V SDV6 3.0L 306ch Autobiography Dynamic A,2017,102000,Diesel,185,7.0,Automatique,4,20,5,74100,53000
+Peugeot,308 CC 2.0 HDi 163ch FAP Féline,2011,158000,Diesel,149,5.7,Manuelle,2,9,4,06200,7990
+Renault,Clio III dCi 70 eco2 Authentique,2009,208000,Diesel,120,4.5,Manuelle,4,4,5,91430,3650
+Peugeot,508 SW 1.6 e-HDi 112ch FAP BMP6 BLUE LION Access,2011,212000,Diesel,110,4.3,Semi automatique,4,6,5,37210,5000
+Alfa,MiTo 1.4 T-Jet 155 Distinctive,2009,235000,Essence,153,6.5,Manuelle,2,9,4,06220,3900
+Toyota,Aygo 1.0 VVT-i x-shift x-play x-app,2019,6700,Essence,null,null,Semi automatique,4,4,4,37540,10900
+Renault,Clio TCe 100 Business,2020,8861,Essence,null,null,Manuelle,4,5,5,97420,14600
+Renault,Super 5 Saga,1995,75500,Essence,null,null,Manuelle,4,5,5,29870,3000
+Citroën,C2 1.1i,2006,205000,Essence,138,5.8,Manuelle,2,4,4,91700,2500
+VOLKSWAGEN,Golf 1.6i,2001,168000,Essence,166,6.9,Manuelle,4,7,5,91000,2800
+Ford,Mustang Fastback V8 5.0 421 GT A,2016,92000,Essence,281,12.0,Automatique,2,33,4,95190,42000
+Citroën,C4 Picasso HDi 110 FAP Airdream Airplay BMP6,2010,190000,Diesel,135,5.1,Semi automatique,4,6,5,44600,3400
+Peugeot,2008 PureTech 130ch S&S BVM6 Signature,2019,26000,Essence,112,5.1,Manuelle,4,7,5,03000,14800
+Ford,C-MAX 1.0 EcoBoost 125 S&S Business Nav,2016,61000,Essence,117,5.1,Manuelle,4,6,5,40320,11900
+Toyota,Auris 126 D-4D FAP Dynamic,2010,148000,Diesel,138,5.2,Manuelle,4,7,5,97434,4200
+Mercedes,190 E 2.0,1983,245000,Essence,null,null,Manuelle,4,9,5,06500,2900
+Renault,Kadjar TCe 140 FAP EDC Black Edition,2020,17700,Essence,null,null,Automatique,4,7,5,62880,26000
+Fiat,Punto 90 Sporting,1996,150000,Essence,null,null,Manuelle,2,7,5,40400,3000
+Ford,EcoSport 1.0 EcoBoost 125 BVM6 Executive,2018,16900,Essence,119,5.2,Manuelle,4,6,5,56100,17000
+Mercedes,Classe E 220 CDI Avantgarde A,2007,413000,Diesel,177,6.7,Automatique,4,10,5,29560,4900
+Mini,Mini 1.6 D - 110 Cooper,2010,126000,Diesel,104,3.9,Manuelle,2,5,4,83210,6500
+Ford,Fusion 1.4 TDCi 68 Plus,2008,152000,Diesel,120,4.6,Manuelle,4,4,4,44100,3200
+Renault,Clio TCe 90 - 21 Intens,2021,990,Essence,null,null,Manuelle,4,5,5,94420,18250
+Fiat,500C 1.2 8V 69 ch Club Dualogic,2015,60000,Essence,113,null,Semi automatique,2,4,4,57950,12000
+Renault,Mégane CC 1.6 16V Confort Authentique,2003,164000,Essence,164,6.9,Manuelle,2,7,4,94350,2500
+Fiat,500 0.9 8V 85 ch TwinAir S&S Club,2015,61000,Essence,92,4.0,Manuelle,2,4,4,01000,8000
+Opel,Corsa 1.2 75 ch BVM5,2021,5200,Essence,null,null,Manuelle,4,4,5,68400,15495
+BMW,Touring 318d 143ch Confort,2008,259000,Diesel,125,4.8,Manuelle,4,7,5,48300,4500
+Renault,5 TL,1982,181000,Essence,null,null,Manuelle,4,4,5,38210,3400
+Renault,Mégane Scénic 1.9 D Aida,2013,151,Diesel,null,null,Manuelle,4,5,5,13120,5000
+Suzuki,Jimny 1.3i VVT JLX,2017,14600,Essence,162,7.1,Manuelle,2,6,4,47200,19900
+Mazda,Mazda5 1.6 MZ-CD 115 7pl Dynamique,2015,127000,Diesel,138,5.2,Manuelle,4,6,7,34140,9000
+Citroën,C4 Picasso BlueHDi 120 S&S 94g Business,2017,45000,Diesel,94,3.6,Manuelle,4,6,5,78990,18200
+megane,Mégane Cabriolet 1.6i 16V Privilège,2005,79500,Essence,165,7.0,Manuelle,2,7,4,31000,2290
+Chevrolet,Camaro Coupé V8 6.2 405ch A,2011,87000,Essence,304,13.1,Automatique,2,32,4,33480,35000
+Opel,Zafira 1.9 CDTI - 100 ch FAP Enjoy,2007,150000,Diesel,159,6.0,Manuelle,4,6,7,44600,3000
+Renault,Laguna 2.0 dCi 130 Black Edition,2012,94500,Diesel,126,4.5,Manuelle,4,7,5,14000,8950
+Hyundai,Tucson 2.0 CRDi 2WD 136 World Cup,2006,185000,Diesel,184,7.0,Manuelle,4,8,5,81160,5500
+Volvo,S70 2.5 TDI Summum,1998,200020,Diesel,null,6.3,Manuelle,4,8,5,64210,7600
+Alfa,GTV 2.0i 16V TS L,2002,65000,Essence,220,9.2,Manuelle,2,10,4,74560,7500
+Dodge,null,2008,104000,Diesel,228,8.6,Manuelle,4,12,5,60000,11800
+Citroën,C5 1.6 HDi 110 FAP,2005,138000,Diesel,139,5.4,Manuelle,4,6,5,13560,4500
+Opel,Grandland X 1.2 Turbo 130 ch Ultimate,2019,19500,Essence,null,null,Manuelle,4,7,5,38320,21000
+Mercedes,Classe CLA 180 d Business 7G-DCT A,2016,72000,Diesel,100,3.8,Automatique,4,5,5,44000,20500
+Citroën,C5 Aircross PureTech 130 S&S BVM6 Shine,2019,18500,Essence,118,5.3,Manuelle,4,7,5,35500,26490
+Audi,A3 Sportback 2.0 TDI 150 S Line,2018,52000,Diesel,112,4.3,Manuelle,4,8,5,64300,25500
+Renault,Twingo 1.2,2008,99980,Essence,138,5.8,Manuelle,2,4,4,75015,3100
+Volkswagen,Golf 1.6 TDI 110 BlueMotion Technology FAP Confortline Business,2014,139000,Diesel,85,3.2,Manuelle,4,5,5,75015,10200
+Mercedes,Classe C 160 Sportline,2018,34900,Essence,129,5.6,Manuelle,4,7,5,49120,26900
+BMW,X3 xDrive 20i 184ch BVA8 Luxury,2020,18000,Essence,null,null,Automatique,4,10,5,78740,51000
+Seat,Altea 1.9 TDI 105 ch Réference,2009,185000,Diesel,139,5.4,Manuelle,4,6,5,34000,4290
+Citroën,C3 1.4 HDi,2006,88300,Diesel,115,4.4,Manuelle,4,4,5,62300,3800
+Audi,A1 1.4 TFSI 122 Ambition,2011,82450,Essence,124,5.3,Manuelle,2,6,4,13110,10350
+Peugeot,406 Coupé 2.0i,2000,243000,Essence,197,8.3,Manuelle,2,9,4,40320,2000
+Nissan,X-TRAIL 1.6 dCi 130 5pl Acenta,2016,67833,Diesel,129,4.9,Manuelle,4,7,5,63000,16600
+Peugeot,205 1.7 D Génération 205,1997,10000,Diesel,null,null,Manuelle,4,4,5,,null
+Peugeot,3008 BlueHDi 130ch S&S EAT8 Active Pack,2021,25000,Diesel,null,null,Automatique,4,7,5,34260,1
+Peugeot,5008 1.6 e-HDi 112ch FAP BMP6 BLUE LION Active 7pl,2020,25000,Diesel,115,null,Automatique,4,6,7,34500,1
+Volkswagen,Tiguan 2.0 TDI 150ch DSG7 R-Line,2021,15500,Diesel,null,null,Automatique,4,8,5,vendeur,44500
+Porsche,944 Luxe,1986,138000,Essence,null,null,Manuelle,2,14,4,77310,4300
+Renault,Koleos dCi 130 4x2 Energy Intens,2017,89500,Diesel,120,4.6,Manuelle,4,7,5,60500,17200
+Peugeot,108 VTi 72ch S&S BVM5 Like,2021,70,Essence,null,null,Manuelle,4,4,4,49120,10900
+Seat,Cordoba 1.9 SDI Signo,2000,467000,Diesel,null,5.0,Manuelle,4,4,5,17100,890
+Alfa,147 1.9 JTD M-JET 120 Distinctive,2006,325000,Diesel,153,5.8,Manuelle,4,7,5,67210,2800
+Jaguar,XJ6 3.0 V6 A,2005,85000,Essence,null,10.5,Automatique,4,16,4,13127,10800
+Fiat,Punto 1.2 8V 65 Cult,2010,93000,Essence,135,5.7,Manuelle,2,4,4,51300,3500
+CITROëN,474,2010,254000,Diesel,129,null,Manuelle,4,null,5,91810,3900
+Peugeot,307 1.6 HDi - 110 Griffe,2005,252000,Diesel,126,4.6,Manuelle,4,6,5,91810,2000
+Audi,A4 Avant 2.0 TDI 143 Ambiente,2013,190000,Diesel,124,4.7,Manuelle,4,7,5,89100,10200
+Renault,Mégane IV Berline TCe 140 FAP Intens,2019,31000,Essence,120,5.2,Manuelle,4,7,5,78000,15990
+Renault,Scenic 1.9 dCi 130 Exception,2008,240000,Diesel,159,6.0,Manuelle,4,8,5,69008,1400
+Citroën,C4 Picasso HDi 110 FAP Pack,2008,280000,Diesel,145,5.5,Manuelle,4,6,5,21130,2500
+Ford,Fiesta 1.4 TDCi Fun,2007,326000,Diesel,119,4.5,Manuelle,2,4,5,62360,500
+Volvo,C30 2.0D 136 ch Kinetic,2010,55000,Diesel,151,5.7,Manuelle,2,8,4,60000,7999
+Ford,EcoSport 1.5 TDCi 90 FAP Titanium,2015,35000,Diesel,120,4.6,Manuelle,4,5,5,06690,10500
+Mercedes,Classe CLA Shooting Brake 220 CDI Fascination 7-G DCT A,2015,117800,Diesel,112,4.3,Automatique,4,9,5,50430,20500
+Audi,A3 SportBack 2.0 TDI 170 Ambiente DPF,2007,214000,Diesel,154,5.8,Manuelle,4,10,5,94460,6700
+Audi,A1 Sportback 1.6 TDI 116,2017,128000,Diesel,97,3.7,Manuelle,4,5,4,38210,12990
+Jeep,Compass 2.0 I MultiJet II 140 ch Active Drive BVA9 Limited,2017,60000,Diesel,148,5.7,Automatique,4,8,5,81100,23000
+Autres,A112 Junior,2017,11700,Essence,null,null,Manuelle,2,4,5,80000,7000
+Peugeot,308 1.2 PureTech 110ch S&S BVM5 Allure,2015,73200,Essence,97,4.1,Manuelle,4,5,5,51100,12400
+Renault,Mégane 1.9 DCI Expression,2004,200000,Diesel,139,5.2,Manuelle,4,6,5,59200,1700
+Citroën,DS3 Crossback PureTech 100 S&S BVM6 Performance Line+,2020,9500,Essence,106,4.6,Manuelle,4,5,5,35132,26200
+Peugeot,5008 1.6 HDi 112ch FAP BVM6 Access 5pl,2013,211300,Diesel,135,5.2,Manuelle,4,6,7,44300,5500
+Opel,Zafira 2.0 DTI 16V- 100 Comfort,2001,326801,Diesel,178,6.6,Manuelle,4,7,7,34160,600
+Citroën,Saxo 1.6i Exclusive A,1997,43121,Essence,null,null,Automatique,2,6,5,71250,2700
+Citroën,C3 VTi 68 PureTech Attraction,2014,78500,Essence,99,4.3,Manuelle,4,4,5,30130,7000
+BMW,Gran Turismo 320d 184 ch 129 g Modern A,2013,150000,Diesel,129,4.9,Automatique,4,10,5,26240,14500
+Citroën,C1 VTi 72 S&S Feel,2021,50,Essence,null,null,Manuelle,2,4,4,67310,11500
+Citroën,DS3 e-HDi 110 Airdream Just Mat,2013,72000,Diesel,99,3.5,Manuelle,2,5,5,13008,9000
+Audi,S5 4.2 FSi V8 Quattro,2007,161000,Essence,298,12.4,Manuelle,2,27,4,56270,17000
+Audi,Q2 30 TDI 116 S tronic 7 Design,2021,1000,Diesel,125,null,Automatique,4,6,5,60430,35790
+Dacia,Dokker TCe 115 Silver Line,2017,20700,Essence,130,5.7,Manuelle,4,6,5,50400,13700
+Autres,Artega GT,1972,81800,Essence,211,8.9,Semi automatique,2,null,2,38210,16800
+BMW,X1 xDrive 18d 150 ch BVA8 xLine,2020,8000,Diesel,null,null,Automatique,4,8,5,vendeur,45500
+Hyundai,i10 1.2 87 BVM5 Creative,2019,16000,Essence,125,5.5,Manuelle,4,5,5,34470,10800
+Ford,Mustang Fastback V8 5.0 421 GT,2014,5500,Essence,299,13.5,Manuelle,2,33,4,16160,104500
+Citroën,C4 PureTech 130 S&S BVM6 Feel Pack,2021,4600,Essence,null,null,Manuelle,4,7,5,25230,22900
+Citroën,C5 2.0 HDi 110,2004,258537,Diesel,147,5.6,Manuelle,4,6,5,18000,800
+Kia,Sportage 1.6 CRDi 136ch MHEV DCT7 4x2 GT Line Premium,2020,23000,Diesel,null,null,Automatique,4,7,5,38840,28500
+Nissan,Juke DIG-T 117 DCT7 N-Connecta,2020,15200,Essence,113,4.9,Automatique,4,6,5,48000,20800
+Ford,Escort 1.6i Ghia,1994,97393,Essence,null,null,Manuelle,4,7,5,56000,3000
+Mini,Mini D 112 ch Cooper,2012,124000,Diesel,99,3.8,Manuelle,2,5,4,11100,8990
+Renault,Clio 1.5 dCi 70 Authentique,2007,342000,Diesel,120,4.5,Manuelle,2,4,5,47000,1900
+Mercedes,Classe A 200 d 8G-DCT AMG Line,2020,27500,Diesel,104,3.9,Automatique,4,7,5,38690,32400
+Peugeot,3008 BlueHDi 130ch S&S EAT8 Active,2019,18600,Diesel,102,4.0,Automatique,4,6,5,97410,33000
+Auto,207 CC 1.6 HDi 110ch FAP BLUE LION Féline,2009,150000,Diesel,130,5.0,Manuelle,2,6,4,77500,4400
+Renault,Captur TCe 90 Energy Intens,2018,46000,Essence,113,5.1,Manuelle,4,5,5,33640,11500
+Toyota,Yaris Hybride 116h Collection,2020,30000,Hybride,null,null,Automatique,4,5,5,33660,20500
+Peugeot,308 1.6 HDi 92ch FAP Access,2012,186000,Diesel,110,4.2,Manuelle,4,5,5,59290,4500
+Citroën,C4 HDi 90 Business,2012,134500,Diesel,106,4.2,Manuelle,4,5,5,29670,6900
+Audi,A3 Sportback 2.0 TDI 150 S tronic 6 Design Luxe,2016,89500,Diesel,120,4.6,Semi automatique,4,8,5,76330,22000
+Citroën,Xsara 1.4i SX,2000,97000,Essence,159,6.7,Manuelle,4,5,5,vendeur,3500
+Kia,Picanto 1.0 LX,2007,116000,Essence,118,4.9,Manuelle,4,4,5,34500,2900
+Kia,Cee'd 1.0 T-GDI 100 ch ISG Active,2018,58000,Essence,113,4.9,Manuelle,4,5,5,97180,10500
+Renault,Espace Blue dCi 160 EDC Intens,2020,105000,Diesel,null,null,Automatique,4,8,7,42400,36500
+Auto,Carnival 2.9 CRDI EX Major,2004,224000,Diesel,217,8.2,Manuelle,4,9,7,34200,4000
+Ford,Mondeo SW 2.0 TDCi 150 Business Nav PowerShift A,2017,64000,Diesel,123,4.9,Automatique,4,8,5,31130,17000
+Fiat,500C 1.2 69 ch 500-60th,2018,35000,Essence,115,4.9,Manuelle,2,4,4,36000,12950
+Citroën,Axel 1.1 Base,1995,227500,Essence,null,null,Manuelle,2,6,5,16140,3000
+MERCEDES,null,null,280,Diesel,null,null,Automatique,null,null,null,75015,2300
+Ferrari,348 TB QV,1990,80000,Essence,null,null,Manuelle,2,21,2,89250,62500
+Jaguar,Daimler 4.0 A,1997,174533,Essence,null,null,Automatique,4,21,5,41200,10000
+Auto,MiTo 0.9 Twin Air Start & Stop 105 Imola,2018,31000,Essence,99,4.2,Manuelle,2,5,4,18240,12500
+Peugeot,407 Coupé 2.7 HDi 24V 204ch FAP Sport A,2006,190600,Diesel,225,8.5,Automatique,2,13,4,31590,1600
+Peugeot,308 1.6 BlueHDi 120ch S&S EAT6 Access Business,2016,71500,Diesel,95,null,Automatique,4,6,5,76120,14000
+Opel,Astra Cabriolet 1.6 16V Twinport Bertone Pack,2003,273600,Essence,175,7.3,Manuelle,2,6,4,70000,2990
+Audi,A6 Allroad Quattro V6 3.0 TDI 272 S Tronic Avus,2016,132000,Diesel,149,5.6,Semi automatique,4,16,5,82000,35000
+Mercedes,A160 Avantgarde,1999,175000,Essence,172,7.2,Manuelle,4,7,5,06000,3300
+Mercedes,Classe B 180 d Fascination,2016,52000,Diesel,106,4.1,Manuelle,4,5,5,44190,17700
+Renault,Mégane Scénic 1.6e Alizé,1999,230000,Essence,null,null,Manuelle,4,7,5,89240,800
+Peugeot,406 Coupé 2.0i,1998,246800,Essence,197,8.3,Manuelle,2,9,4,13580,4800
+Citroën,Xsara Picasso 2.0 HDi 90 Exclusive,2002,290000,Diesel,147,5.5,Manuelle,4,5,5,66300,1600
+Citroën,DS5 BlueHDi 180 S&S So Chic EAT6,2015,145000,Diesel,118,4.5,Automatique,4,9,5,13400,14500
+Renault,4 GTL Clan,1988,175800,Essence,null,null,Manuelle,4,4,5,91330,6500
+Opel,Crossland X 1.2 83 ch Edition,2019,10368,Essence,116,5.1,Manuelle,4,5,5,78210,18000
+Audi,A3 1.6 TDI 110 Sport,2016,120000,Diesel,107,4.0,Manuelle,2,5,5,21500,14500
+Dacia,Lodgy TCe 130 FAP 7 places 15 ans,2021,2000,Essence,146,null,Manuelle,4,7,7,14000,17980
+Peugeot,3008 1.6 BlueHDi 120ch S&S EAT6 GT Line,2017,53000,Diesel,108,4.2,Automatique,4,6,5,94500,24990
+Renault,Twingo 1.2i Initiale,2000,143000,Essence,null,6.2,Manuelle,2,4,4,64200,2750
+Auto,Kangoo 1.5 dCi 105 eco2 Expression,2009,234000,Diesel,146,5.5,Manuelle,4,6,5,75018,5200
+Mercedes,Classe CLA Shooting Brake 200 Business Edition,2018,35000,Essence,156,6.7,Manuelle,4,9,5,44100,24490
+Volvo,440 2.0i Côté Sud A,1995,224000,Essence,null,null,Automatique,4,10,5,53300,1000
+Chrysler,Crossfire 3.2 V6 Black,2007,87000,Essence,250,10.4,Manuelle,2,15,2,11300,12500
+Renault,Safrane 2.5i Pack Cuir,1999,195000,Essence,244,10.3,Manuelle,4,11,5,59630,3400
+Chrysler,Crossfire 3.2 V6 Limited A,2004,120000,Essence,243,10.1,Automatique,2,15,2,47120,9500
+Porsche,Panamera Turbo S V8 4.8 570 Executive PDK,2015,148000,Essence,245,null,Semi automatique,4,48,4,78480,52900
+Auto,2008 1.6 VTi 120ch BVM5 Allure,2015,52000,Essence,135,5.9,Manuelle,4,7,5,77000,9800
+Renault,CLIO IV SOCIETE DCI 75 ENERGY AIR,2016,78500,Diesel,85,3.3,Manuelle,4,4,2,46500,7250
+PEUGEOT,407  2L  16V  Essence,null,153000,Essence,null,null,Manuelle,4,null,null,67200,2950
+Voiture,null,null,null,null,null,null,null,null,null,null,null,null
+Renault,Twingo 1.2i Initiale,2001,184281,Essence,138,5.8,Manuelle,2,4,4,79230,2000
+Toyota,Aygo 1.0 VVT-i x,2015,34500,Essence,95,4.1,Manuelle,4,4,4,69300,7780
+Auto,2008 1.6 VTi 120ch BVM5 Allure,2015,52000,Essence,135,5.9,Manuelle,4,7,5,77170,10000
+Mercedes,SLK230 K,1999,173000,Essence,220,9.3,Manuelle,2,12,2,17240,6900
+BMW,525d Excellis A,2008,220780,Diesel,172,6.5,Automatique,4,12,5,71000,7890
+Citroën,C5 Aircross BlueHDi 130 S&S BVM6 Business,2021,1230,Diesel,null,null,Manuelle,4,7,5,31770,30900
+Mercedes,E200 K Elégance,2001,170000,Essence,218,9.1,Manuelle,4,11,5,13190,3500
+Audi,RS3 Berline 2.5 TFSI 400 S tronic 7 Quattro,2017,44000,Essence,191,8.5,Semi automatique,4,29,5,29900,57900
+Nissan,Qashqai 1.6 dCi 130 FAP Stop/Start Connect Edition,2013,125000,Diesel,119,4.5,Manuelle,4,7,5,06670,8700
+BMW,Coupé 320d 177ch Confort Steptronic A,2008,172300,Diesel,149,5.7,Automatique,2,9,5,30000,8990
+Peugeot,207 CC 1.6 VTi 16V 120ch Feline,2008,166000,Essence,155,6.5,Manuelle,2,7,4,42530,5500
+Peugeot,206 1.6 HDi FAP Executive,2006,2770003,Diesel,171,4.8,Manuelle,4,6,5,56120,1400
+Ford,Puma 1.0 EcoBoost 125 ch mHEV S&S BVM6 ST-Line X,2020,25000,Essence,97,4.3,Manuelle,4,6,5,50720,21490
+Peugeot,406 2.0 HDi - 110 NavTech on board,2002,307392,Diesel,147,4.6,Manuelle,4,6,5,31510,1500
+BMW,X1 xDrive 18d 150 ch BVA8 M Sport,2019,28500,Diesel,127,4.8,Automatique,4,8,5,49110,33700
+Voiture,null,null,null,null,null,null,null,null,null,null,null,null
+BMW,Coupé 325 Ci,2001,159000,Essence,217,9.0,Manuelle,2,12,5,97490,9800
+Renault,Mégane 1.6i 16V RXT,2000,205500,Essence,165,7.0,Manuelle,4,7,5,69520,1500
+Auto,Terrano 2.7 TDI SE,1988,360000,Diesel,115,9.9,Manuelle,4,10,5,vendeur,1500
+Jeep,Renegade 1.4 I MultiAir S&S 140 ch Brooklyn Limited,2017,80000,Essence,140,6.0,Manuelle,4,8,5,61130,15000
+Suzuki,Swift 1.3 GLX,2009,230000,Essence,140,5.8,Manuelle,2,5,4,03230,2900
+Auto,DS3 HDi 110 FAP Airdream Sport Chic,2010,175000,Diesel,118,4.5,Manuelle,2,6,5,03230,6900
+Subaru,Impreza 2.0i Tbo GT,1997,199000,Essence,null,null,Manuelle,4,9,5,28190,13990
+Citroën,Saxo 1.1i Bic,1999,155000,Essence,155,6.5,Manuelle,2,5,5,01200,200
+Renault,Captur dCi 90 Energy Business,2014,111000,Diesel,95,3.7,Manuelle,4,4,5,37290,8200
+BMW,Z4 2.2i,2004,100000,Essence,214,8.8,Manuelle,2,11,2,95470,7500
+Renault,Twingo 1.2i 16V Expression,2002,99500,Essence,138,5.8,Manuelle,2,5,4,33300,2500
+Volkswagen,Golf 1.6 TDI 110 BlueMotion Confortline,2015,113174,Diesel,89,3.4,Manuelle,4,5,5,62161,12000
+Renault,Grand Scenic 1.9 dCi 120 Luxe Privilège,2005,211000,Diesel,154,5.8,Manuelle,4,7,7,94700,2200
+Volkswagen,Coccinelle 1.4 TSI 150 BMT BVM6 Couture Exclusive,2017,71000,Essence,132,5.7,Manuelle,2,8,4,45430,16800
+Renault,Super 5 Five,1987,38000,Essence,null,null,Manuelle,4,4,5,56640,2500
+Peugeot,5008 1.6 HDi 115ch FAP BVM6 Active 5pl,2013,117500,Diesel,124,4.7,Manuelle,4,6,5,56520,9500
+FORD,Taunus 1.6l gl 9cv,1982,148400,Essence,null,null,Manuelle,5,null,4,77170,1500
+Peugeot,607 3.0i V6 Premium Pack A,2005,241000,Essence,245,10.2,Automatique,4,14,5,31180,1500
+Volkswagen,Coccinelle 1.4 TSI 160 Série Spéciale Fender Edition,2013,55500,Essence,153,6.6,Manuelle,2,9,4,06500,18000
+Peugeot,306 Cabriolet 1.6i,2000,152500,Essence,193,8.4,Manuelle,2,6,4,59123,3000
+Auto,A1 1.6 TDI 105 Ambition Luxe,2010,116000,Diesel,103,3.9,Manuelle,2,5,5,vendeur,11000
+Citroën,Xantia 1.8i 16V Plaisir,2000,93000,Essence,198,8.4,Manuelle,4,7,5,33200,1500
+Audi,A3 SportBack 2.0 TDI Ambiente,2007,163000,Diesel,146,5.5,Manuelle,4,8,5,57000,6500
+Peugeot,208 BlueHDi 100ch BVM6 Active,2019,67000,Diesel,95,null,Manuelle,4,5,5,54000,10800
+Audi,A1 Sportback 1.4 TDI 90 ultra S tronic 7 Ambition Luxe,2017,15600,Diesel,101,3.9,Semi automatique,4,4,4,84000,23500
+Auto,500 0.9 85 ch TwinAir S&S Anniversario,2018,56700,Essence,90,3.8,Manuelle,2,4,4,13110,7500
+Ford,Fiesta 1.4 TDCi 70 FAP Ambiente,2011,62500,Diesel,104,4.0,Manuelle,4,4,5,38440,7290
+Auto,Range Rover Evoque Mark III eD4 150 2WD e-Capability Business,null,null,Diesel,113,4.3,Manuelle,4,8,5,27630,24000
+Mercedes,Classe GLS 400 9G-Tronic 4Matic Executive,2019,42000,Essence,247,10.8,Automatique,4,24,7,74800,69900
+Renault,Clio E-Tech 140 - 21 Business,2021,2800,Hybride,null,null,Automatique,4,5,5,17400,19000
+JAGUAR,cabriolet,1974,35000,Essence,null,null,Manuelle,2,null,2,vendeur,75000
+Renault,Captur dCi 90 Energy Business,2014,50500,Diesel,95,3.7,Manuelle,4,4,5,13010,10500
+Fiat,500 0.9 85 ch TwinAir S&S Dualogic Lounge,2018,68000,Essence,88,3.8,Semi automatique,2,4,4,33800,11900
+Peugeot,308 1.6 HDi 110ch FAP Business Pack,2009,192000,Diesel,120,4.5,Manuelle,4,6,5,69580,5000
+Auto,GT 1.9 JTD M-JET 150 Distinctive,2007,95000,Diesel,165,6.2,Manuelle,2,9,5,34170,5000
+Auto,206 SW 2.0 HDi XS Premium,2004,386000,Diesel,144,5.3,Manuelle,4,5,5,86130,1700
+Auto,Terrano 2.7 TD LX,1993,288822,Diesel,null,null,Manuelle,2,11,5,74960,4800
+Volkswagen,Golf GTI,1980,150000,Essence,null,7.8,Manuelle,2,7,5,66000,19500
+Peugeot,3008 1.6 HDi 112ch FAP Business,2012,106000,Diesel,130,5.0,Manuelle,4,6,5,62210,11000
+Renault,Scenic dCi 95 Energy Life,2017,114300,Diesel,100,3.9,Manuelle,4,5,5,94440,11500
+Opel,Insignia Sports Tourer 2.0 CDTI - 130 FAP EcoFLEX Connect Pack,2011,160000,Diesel,134,5.1,Manuelle,4,7,5,34590,7000
+Suzuki,Grand Vitara 2.0i Luxe,2007,115500,Essence,208,9.1,Manuelle,4,9,5,74330,8700
+Auto,Astra 1.6i GL,1999,234000,Essence,173,7.2,Manuelle,4,6,5,89140,400
+Renault,Laguna 2.2 DCI Initiale,2003,150000,Diesel,167,6.3,Manuelle,4,9,5,60200,2000
+Peugeot,508 SW 2.0 BlueHDi 150ch S&S BVM6 Allure,2015,165000,Diesel,98,3.8,Manuelle,4,7,5,22250,14000
+Renault,Twingo III 0.9 TCe 90 Energy Intens,2015,50000,Essence,99,4.3,Manuelle,4,4,4,55000,7900
+Citroën,DS7 Crossback PureTech 225 EAT8 Grand Chic,2018,43000,Essence,135,5.9,Automatique,4,13,5,30000,37500
+Morgan,4/4 1.6 L Centenaire,1984,84000,Essence,143,6.4,Manuelle,2,null,4,vendeur,41500
+Audi,A5 V6 3.0 TDI 218 S tronic 7 Quattro Design Luxe,2017,58000,Diesel,123,4.7,Automatique,2,12,4,08000,27900
+Nissan,Qashqai 1.5 dCi 110 FAP Acenta,2011,177543,Diesel,129,4.9,Manuelle,4,6,5,30000,6800
+Citroën,Xsara 1.9 D,2003,280000,Diesel,164,6.2,Manuelle,4,5,5,53400,1800
+BMW,X4 xDrive20d 190 ch BVA8 M Sport,2020,15200,Diesel,null,null,Automatique,4,10,5,74800,56900
+Volvo,XC60 Business D4 190 ch S&S Geartronic 8 Momentum Business,2015,110000,Diesel,124,4.7,Automatique,4,10,5,29690,20200
+Hyundai,Galloper 2.5 TD GL,2001,220000,Diesel,288,10.9,Manuelle,2,9,5,37250,7000
+Peugeot,2008 1.2 PureTech 110ch S&S EAT6 Allure,2017,23000,Essence,110,4.8,Automatique,4,6,5,59117,15000
+Citroën,C3 Aircross PureTech 110 S&S BVM6 Rip Curl,2019,10000,Essence,106,null,Manuelle,4,5,5,42290,17000
+Auto,Super 5 Five,1994,130000,Essence,null,null,Manuelle,4,6,5,94110,500
+Porsche,Cayenne 3.2 V6 - 250 Tiptronic S,2004,180000,Essence,324,13.5,Automatique,4,19,5,78630,12000
+Auto,Vitara 1.4 Boosterjet Auto Allgrip Style,2019,30000,Essence,141,6.2,Automatique,4,8,5,39360,19990
+Renault,Mégane Coupé  1.9 DCI Dynamique,2001,345000,Diesel,139,5.2,Manuelle,2,6,4,82600,1000
+Hyundai,ix20 1.6 CRDi 115 Blue Drive Intuitive,2014,109000,Diesel,117,4.4,Manuelle,4,6,5,43300,8400
+BMW,320d 184 ch 119 g Business,2012,204000,Diesel,119,4.5,Manuelle,4,10,5,vendeur,8900
+Daihatsu,Sirion 1.0 VVT S,2009,160600,Essence,118,5.0,Manuelle,4,4,5,77000,2300
+Mercedes,Classe GLK 220 CDI BlueEFFICIENCY,2010,150000,Diesel,158,6.0,Manuelle,4,10,5,80260,13500
+Fiat,Barchetta 1.8i 16V,1996,74400,Essence,null,8.4,Manuelle,2,9,2,26140,8400
+Citroën,AX 1.5 D Prestige,1995,311000,Diesel,null,null,Manuelle,2,4,5,65100,700
+BMW,735i A,1997,380000,Essence,null,12.6,Automatique,4,20,5,78630,5000
+Renault,Scénic 1.9 DCI - 105 Aigle,2003,216000,Diesel,157,5.9,Manuelle,4,6,5,60400,1500
+BMW,M2 Compétition 410 ch M DKG7,2018,10500,Essence,206,9.2,Automatique,2,30,4,45300,62590
+BMW,X5 xDrive30d 258 ch Exclusive A,2015,93000,Diesel,156,5.9,Automatique,4,16,5,69780,34990
+Auto,X3 xDrive20d 190ch BVA8 Business,2018,42000,Diesel,132,4.9,Automatique,4,10,5,21700,39900
+Ford,Focus SW 1.6 TDCi 115 S&S Trend,2015,142000,Diesel,109,4.2,Manuelle,4,6,5,73400,7290
+BMW,530d 245ch Excellis,2010,200000,Diesel,166,6.3,Manuelle,4,15,5,12240,13500
+Land-Rover,Range Rover Evoque TD4 Pure,2012,124000,Diesel,149,5.7,Manuelle,4,8,5,34230,18500
+Renault,Captur TCe 90 - 21 Zen,2021,7000,Essence,null,null,Manuelle,4,5,5,59790,19400
+Audi,A4 Avant 2.0 TDI 143 DPF Ambiente,2008,232000,Diesel,143,5.4,Manuelle,4,8,5,84170,7200
+Peugeot,307 SW 1.6 HDi 16v - 110 Griffe FAP,2007,100000,Diesel,134,5.0,Manuelle,4,6,5,34970,4500
+Jaguar,XE D180 BVA R-Dynamic SE,2019,30414,Diesel,130,4.9,Automatique,4,10,5,64360,35600
+Audi,Q3 2.0 TDI 140 ch Ambiente,2014,125400,Diesel,137,5.2,Manuelle,4,8,5,26300,13990
+Auto,407 2.0 HDi 16v Confort,2006,139890,Diesel,155,5.9,Manuelle,4,8,5,76380,3700
+Porsche,911 Carrera 4 Coupé 3.0i 370 PDK,2020,7900,Essence,177,null,Automatique,2,25,4,83400,128000
+BMW,116d EfficientDynamics Edition 116 ch Business,2016,36000,Diesel,89,3.4,Manuelle,4,5,5,38000,15000
+Peugeot,306 1.9 DT,1999,340000,Diesel,null,6.6,Manuelle,4,6,5,23000,550
+Mercedes,Classe A 180 7G-DCT AMG Line,2021,3395,Essence,null,null,Automatique,4,7,5,06110,33750
+Peugeot,308 1.6 BlueHDi 120ch S&S EAT6 Access Business,2017,81000,Diesel,95,null,Automatique,4,6,5,63260,13000
+Mercedes,SLK 200 K,2000,103000,Essence,228,9.5,Manuelle,2,11,2,64100,11500
+Renault,Clio dCi 90 Energy eco2 82g Business,2017,30300,Diesel,82,3.2,Manuelle,4,4,5,vendeur,10990
+Auto,607 2.0 HDi 136 FAP Exécutive,2006,234000,Diesel,162,6.1,Manuelle,4,8,5,02350,3500
+Mercedes,C 220 CDI Elégance A,2003,210000,Diesel,177,6.7,Automatique,4,9,5,84220,6500
+Dacia,Duster Blue dCi 115 4x2 15 ans,2021,4900,Diesel,110,null,Manuelle,4,6,5,72000,19400
+Alfa,147 1.9 JTD M-JET 120 Design TI,2008,150000,Diesel,145,5.8,Manuelle,4,7,5,85800,4300
+DAIMLER,automatique,1966,120000,Essence,null,null,Automatique,4,null,5,62500,8000
+Auto,Fabia 1.0 MPI 60 ch BVM5 Clever,2019,84000,Essence,110,4.9,Manuelle,4,4,5,vendeur,10500
+Peugeot,306 1.8i XT A,1995,96187,Essence,null,null,Automatique,4,8,5,31300,1200
+Citroën,DS4 BlueHDi 120 S&S EAT6 Be Chic,2017,140000,Diesel,102,3.9,Automatique,4,6,5,26390,12000
+Volkswagen,Polo 1.2 60,2007,135000,Essence,138,5.8,Manuelle,2,4,5,76600,3200
+Chevrolet,Corvette Coupé 5.7 V8 A,1986,95000,Essence,null,12.1,Automatique,2,26,5,27300,19950
+Peugeot,307 CC 2.0 HDi 16V 136ch FAP Navteq on Board,2008,222000,Diesel,159,6.0,Manuelle,2,8,4,78920,3300
+Auto,Tucson 1.6 CRDi 115 Creative,2019,15500,Diesel,122,4.6,Manuelle,4,6,5,74520,22990
+Dacia,Logan MCV dCi 85  7 places Lauréate Euro 4,2011,186000,Diesel,137,5.2,Manuelle,4,5,7,80500,4800
+Land-Rover,Range Rover Evoque TD4 180 BVA Landmark Edition,2018,63000,Diesel,134,5.1,Automatique,4,10,5,69110,33900
+Audi,Q3 2.0 TDI 140 ch Ambiente,2012,170000,Diesel,137,5.2,Manuelle,4,8,5,57500,13000
+Voiture,null,null,null,null,null,null,null,null,null,null,null,null
+BMW,X5 xDrive30d 258 ch Exclusive A,2015,126000,Diesel,156,5.9,Automatique,4,16,7,38670,34500
+BMW,525d xDrive 218ch 140g Sport Design A,2012,96200,Diesel,140,5.3,Automatique,4,12,5,42000,21900
+Auto,X-TRAIL 1.6 dCi 130 5pl  Xtronic Acenta,2018,42000,Diesel,135,5.1,Automatique,4,7,5,19240,22500
+Peugeot,206+ 1.1e 60ch Trendy,2009,48000,Essence,135,5.7,Manuelle,4,4,5,27130,5500
+Toyota,Land Cruiser 165 D-4D VXV A,2006,200000,Diesel,240,9.0,Automatique,2,11,5,73100,16300
+Peugeot,508 RXH 2.0 BlueHDi 180ch S&S EAT6,2016,165000,Diesel,119,4.6,Automatique,4,9,5,14280,13000
+Peugeot,206+ 1.1e 60ch Trendy,2009,49100,Essence,135,5.7,Manuelle,4,4,5,27130,5500
+Ford,Focus 1.6 TDCi 90 Ghia,2010,205000,Diesel,118,4.5,Manuelle,4,5,5,67000,3700
+Dacia,Duster dCi 90 4x2 Lauréate Plus 2017,2017,43000,Diesel,115,4.4,Manuelle,4,5,5,14000,13000
+Renault,Safrane 2.0i RTE,1998,250000,Essence,214,9.1,Manuelle,4,9,5,83200,1200
+BMW,120d,2008,156000,Diesel,128,5,Manuelle,2,null,4,83480,8500
+Volkswagen,Passat SW 1.5 TSI ACT OPF 150 DSG7 R-Line,2019,12500,Essence,null,null,Automatique,4,8,5,82340,35000
+Auto,Tipo 5 Portes 1.4 95 ch,2019,14000,Essence,129,6.4,Manuelle,4,6,5,21000,12000
+Auto,Laguna 1.5 dCi 110 FAP eco2 Black Edition Champion,2012,132000,Diesel,109,4.2,Manuelle,4,6,5,32170,5500
+Peugeot,3008 1.6 THP 16V 156ch Féline,2010,133000,Essence,169,7.3,Manuelle,4,9,5,83600,7900
+Volvo,480 2.0i S,1994,179000,Essence,null,null,Manuelle,2,9,4,45210,950
+Citroën,C3 PureTech 83 S&S BVM5 C-Series,2020,1800,Essence,null,null,Manuelle,4,4,5,78960,15700
+Auto,Crossland X 1.2 Turbo 110 ch BVA6 Design 120 ans,2019,23000,Essence,114,5.6,Automatique,4,6,5,29770,16500
+Ford,EcoSport 1.0 EcoBoost 125ch S&S BVM6 ST-Line,2019,25000,Essence,120,5.3,Manuelle,4,6,5,74950,17500
+Volvo,V40 T3 152 Geartronic 6 R-Design,2018,59000,Essence,129,5.5,Automatique,4,8,5,78300,19490
+Mini,1.6 122 COOPER BV6,2013,111000,Essence,127,5.4,Manuelle,2,7,2,78630,8500
+Auto,Z4 Roadster sDrive35i 306ch Sport Design,2010,78000,Essence,219,9.4,Manuelle,2,21,2,83170,32900
+Auto,118d 150 ch Urban Chic A,2016,78000,Diesel,105,4.0,Automatique,2,7,5,82410,19590
+Fiat,Tipo Station Wagon 1.4 95 ch Easy,2019,8500,Essence,129,6.4,Manuelle,4,6,5,54000,13000
+Audi,TT 1.8T Design Edition,2006,87000,Essence,199,8.2,Manuelle,2,10,2,75015,11500
+Renault,Scenic dCi 110 Energy Hybrid Assist Business,2017,75000,Hybride,94,3.6,Manuelle,4,5,5,62000,15950
+Renault,Clio dCi 110 Energy Intens,2018,21000,Diesel,90,3.5,Manuelle,4,5,5,74000,14000
+Ford,Focus 1.6i Ghia,1999,207000,Essence,165,6.9,Manuelle,4,6,5,89000,1190
+Peugeot,3008 1.6 HDi 112ch FAP Business Pack,2012,146000,Diesel,130,5.0,Manuelle,4,6,5,16590,6700
+Renault,Captur TCe 120 Energy Intens,2018,19000,Essence,125,5.5,Manuelle,4,6,5,74240,13700
+Peugeot,3008 HYbrid4 2.0 HDi 163ch FAP BMP6 + Electric 37ch Limited Edition,2012,222500,Hybride,104,null,Semi automatique,4,8,5,83000,11500
+Opel,Kadett Cabriolet 1.4 S Fashion,1991,37800,Essence,null,null,Manuelle,2,6,4,53340,3900
+Mini,Mini Clubman Cooper 136 ch,2016,62800,Essence,118,5.1,Manuelle,4,7,5,38270,15650
+Peugeot,807 2.0 HDi 16V 136ch FAP Navteq on board,2007,260000,Diesel,188,7.1,Manuelle,4,9,5,52000,3000
+FORD,PILAR HT LTD.,1978,92587,Essence,null,null,Automatique,4,null,6,59230,14000
+Dacia,Duster Blue dCi 115 4x2 Confort,2019,3000,Diesel,null,null,Manuelle,4,6,5,45110,17900
+Auto,405 1.9 DT Style,1994,220000,Diesel,null,null,Manuelle,4,6,5,68440,200
+Peugeot,1007 1.6e 16V 110ch 2-Tronic Sporty,2007,130000,Essence,156,6.6,Semi automatique,2,6,5,22150,4200
+Renault,25 Tbo D,1989,220000,Diesel,null,null,Manuelle,4,6,5,52300,300
+Auto,406 Coupé 2.0i,1999,268000,Essence,197,8.3,Manuelle,2,9,4,47350,2300
+BMW,635 CSi,1986,145000,Essence,null,null,Manuelle,2,20,4,56400,32000
+Auto,Grand C4 Picasso BlueHDi 120 S&S EAT6 Feel,2017,62000,Diesel,106,4.0,Automatique,4,6,7,56310,18000
+Dacia,Sandero 1.4 MPI 75 GPL eco2,2010,138,GPL ou GNL,153,6.5,Manuelle,4,5,5,58640,3000
+Volkswagen,Golf 2.0 TSI 270 R 4Motion DSG6,2012,87000,Essence,195,8.4,Semi automatique,4,17,5,45120,22000
+Volkswagen,Eos 2.0 16S FSI 150,2007,168500,Essence,198,8.4,Manuelle,2,9,4,91300,5000
+Audi,A3 Berline 2.0 TDI 150,2016,85400,Diesel,108,4.1,Manuelle,4,7,5,87260,17500
+Peugeot,208 1.6 BlueHDi 75ch BVM5 Urban Soul,2015,105000,Diesel,90,3.5,Manuelle,4,4,5,90300,9000
+Mercedes,Classe A 45 Mercedes-AMG A Speedshift DCT 4-Matic,2017,86900,Essence,162,6.9,Automatique,4,26,5,84000,37900
+Opel,Astra 1.6 CDTI 110 ch Business Edition,2016,22500,Diesel,93,3.5,Manuelle,4,5,5,91120,14000
+Citroën,Berlingo HDi 90 FAP Multispace Pack,2011,286000,Diesel,139,5.3,Manuelle,4,5,5,67110,4500
+Toyota,Land Cruiser SW 4.7i V8 VXE A,2006,152000,Essence,387,16.3,Automatique,4,19,7,34990,32000
+Citroën,Saxo 1.1,2002,132400,Essence,145,6.1,Manuelle,2,4,5,49100,1700
+Mercedes,E 220 CDI Classic  A,2005,170000,Diesel,177,6.7,Automatique,4,9,5,83440,4700
+FIAT,850 SPORT SPIDER,1971,31000,Essence,null,null,Manuelle,2,null,2,vendeur,16700
+Nissan,Leaf Electrique Acenta,2015,60000,Electrique,null,null,Automatique,4,3,5,34070,10530
+Fiat,Panda 1.2 69 ch Lounge,2018,14900,Essence,124,null,Manuelle,4,4,5,10000,9600
+Auto,A3 Berline 2.0 TDI 150 Quattro,2016,49000,Diesel,124,4.7,Manuelle,4,8,5,25150,24000
+Audi,A4 1.9 TDI Ambiente DPF,2006,220000,Diesel,154,5.7,Manuelle,4,7,5,83330,3900
+Volkswagen,Golf Cabriolet 1.8 90ch Classic Line Cuir A,1993,173000,Essence,null,null,Automatique,2,8,4,66530,14000
+Citroën,DS3 Crossback PureTech 130 S&S EAT8 Grand Chic,2019,4750,Essence,109,4.8,Automatique,4,6,5,68120,26490
+Mercedes,CLK Cab 200 K Elégance A,2002,184000,Essence,230,9.6,Automatique,2,11,4,16500,7300
+Renault,9 GTL,1985,167000,Essence,null,null,Manuelle,4,7,5,74600,1200
+Jaguar,XJR 4.0 A,1999,126000,Essence,null,null,Automatique,4,21,5,11000,8400
+Peugeot,306 1.9 D Profil,1996,161120,Diesel,null,null,Manuelle,4,6,5,92000,1200
+Mini,Mini Cooper S 192 ch Edition Seven,2016,26500,Essence,139,6.0,Manuelle,4,11,5,64000,22300
+Auto,A6 Allroad Quattro V6 3.0 TDI 272 S Tronic Ambition Luxe,2019,50100,Diesel,149,5.6,Automatique,4,16,5,57100,42900
+Austin,METRO COMMERCIALE,1989,44000,Essence,null,null,Manuelle,2,6,2,13200,22800
+Chevrolet,Rezzo 2.0 CDX,2007,125000,Essence,236,9.0,Manuelle,4,9,4,74100,3500
+Peugeot,2008 1.2 PureTech 110ch S&S BVM5 Crossway,2017,47000,Essence,103,4.4,Manuelle,4,5,5,75010,14500
+Auto,Sovereign 4.0 A,1997,230000,Essence,null,null,Automatique,4,20,5,34300,10000
+Seat,Altea XL 2.0 TDi FAP Gran Via,2007,86000,Diesel,159,6.0,Manuelle,4,8,5,66690,8000
+Renault,Scenic dCi 110 Energy EDC Intens,2018,40000,Diesel,104,4.1,Automatique,4,5,5,76750,18000
+PEUGEOT,204 cabriolet,1968,26700,Essence,null,null,Manuelle,2,null,2,vendeur,18750
+Hyundai,i30 SW 1.6 CRDi 115 DCT-7 Business,2017,40000,Diesel,null,null,Automatique,4,6,5,44140,16500
+Auto,Scenic 2.0 dCi 150 Euro 4 Confort Dynamique,2006,183000,Diesel,154,5.8,Manuelle,4,8,5,67400,2990
+Citroën,2 CV 6 Special,1989,92000,Essence,null,null,Manuelle,4,3,5,38370,10500
+Ford,C-MAX 1.6 TDCI 115 FAP Titanium,2011,145000,Diesel,117,4.5,Manuelle,4,6,5,91300,6550
+Audi,A4 Avant 2.5 TDI - 163 Advance Edition,2004,210000,Diesel,186,6.9,Manuelle,4,10,5,93800,3900
+Citroën,ZX 1.9 D Aura,1991,359374,Diesel,null,null,Manuelle,4,6,5,82210,1300
+Renault,Mégane Estate III 1.5 dCi 110 FAP eco2 Bose EDC,2015,73420,Diesel,110,4.2,Automatique,4,6,5,77300,9900
+Auto,Mini Cooper 136 ch,2017,155000,Essence,105,4.5,Manuelle,2,7,4,18200,11500
+Auto,508 2.0 HDi 160ch FAP BVM6 Allure,2014,95784,Diesel,119,4.6,Manuelle,4,8,5,11600,11500
+BMW,120d 177 ch Edition Sport,2011,185200,Diesel,125,4.7,Manuelle,4,9,5,78280,7700
+Auto,V50 2.0D - 136 Feeling,2007,416000,Diesel,153,5.8,Manuelle,4,8,5,64500,3000
+Lancia,Thesis 2.4 20v JTD Emblema Comfortronic A,2004,110000,Diesel,234,8.8,Automatique,4,12,5,67590,5250
+Renault,Clio TCe 100 Intens,2020,5000,Essence,null,null,Manuelle,4,5,5,97229,13450
+Citroën,DS3 Cabriolet THP 155 Sport Chic,2013,58000,Essence,137,5.9,Manuelle,2,8,4,57520,11500
+Mercedes,Classe C Break 320 CDI Avantgarde 4-Matic A,2009,293000,Diesel,200,7.7,Automatique,4,14,5,67100,7800
+Renault,Captur Blue dCi 115 Intens,2020,4000,Diesel,null,null,Manuelle,4,6,5,72190,22700
+JAGUAR,F-type S,2014,47000,Essence,209,12,Automatique,2,null,2,68360,49000
+LANCIA,ORO,2005,186000,Essence,142,null,Manuelle,2,null,4,58000,1300
+Renault,Clio Estate IV dCi 90 Energy eco2 Dynamique 90g,2013,86560,Diesel,90,3.4,Manuelle,4,4,5,34000,8595
+Citroën,C3 1.4i Exclusive,2003,191000,Essence,145,6.1,Manuelle,4,5,5,91390,2600
+Auto,ML 320 CDI A,2009,205000,Diesel,249,9.4,Automatique,4,15,5,82000,15000
+Opel,Astra Cabriolet 2.2 DTi 16V 90ème Anniversaire,2003,154440,Diesel,164,6.1,Manuelle,2,8,4,83440,5500
+Peugeot,207 1.6 THP 16V 150ch Premium Pack,2008,30000,Essence,164,7.0,Manuelle,2,9,5,25550,9000
+Auto,300 E A,1992,346000,Essence,null,null,Automatique,4,20,5,65500,3700
+Auto,Espace 2.1 TD Cyclade,1996,200000,Diesel,null,null,Manuelle,4,6,5,42430,500
+Citroën,C3 BlueHDi 100 79g Confort Business,2015,null,Diesel,79,3.0,Manuelle,4,4,5,59190,8500
+Auto,Sandero TCe 90 Confort,2019,10235,Essence,115,5.1,Manuelle,4,5,5,30130,12400
+Auto,108 1.0 VTi 68ch BVM5 Style,2018,22500,Essence,95,4.1,Manuelle,4,4,4,17290,8800
+Citroën,C3 PureTech 83 S&S BVM5 C-Series,2020,4000,Essence,null,null,Manuelle,4,4,5,71990,15000
+Renault,Twingo III 1.0 SCe 70 BC Zen,2018,23000,Essence,112,5.0,Manuelle,4,4,4,44860,7500
+Renault,5 TL,1980,114000,Essence,null,null,Manuelle,4,4,5,91150,6450
+Mercedes,C 200 CDI - 115 Avantgarde,2002,230000,Diesel,167,6.3,Manuelle,4,7,5,42100,1000
+Peugeot,206+ 1.4 HDi 70ch BLUE LION Pack Limited,2010,135000,Diesel,110,4.2,Manuelle,4,4,5,27130,4990
+Renault,Captur dCi 90 Intens EDC,2014,54000,Diesel,103,3.9,Automatique,4,5,5,18000,11990
+Dacia,Logan 1.6 Lauréate,2006,148000,Essence,175,7.3,Manuelle,4,6,5,75001,1500
+Renault,Twingo III SCe 75 Le coq sportif,2020,5500,Essence,100,4.4,Manuelle,4,4,4,vendeur,13190
+Ford,Galaxy II 1.8 TDCi 125 Ghia,2008,181000,Diesel,166,6.3,Manuelle,4,7,5,21000,4600
+Saab,9-3 2.2 TiD Arc,2003,100000,Diesel,174,6.6,Manuelle,4,7,5,59200,1100
+Auto,Scenic 1.9 dCi 120 Confort Authentique,2005,120000,Diesel,154,5.8,Manuelle,4,7,5,69200,2200
+BMW,535d Luxe A,2010,200000,Diesel,178,6.7,Automatique,4,18,5,68100,21500
+PEUGEOT,null,2018,13400,Diesel,97,3.7,Manuelle,4,null,5,59100,16990
+Mercedes,CLK 200 Elégance A,1997,131000,Essence,null,9.6,Automatique,2,11,4,01360,5500
+Renault,19 Cabriolet 1.7i,1992,100000,Essence,null,null,Manuelle,2,9,4,vendeur,6500
+Audi,A6 Avant 2.5 TDI V6 - 180 Pack Quattro Tiptronic A,2003,256000,Diesel,230,8.5,Automatique,4,12,5,74210,800
+Peugeot,5008 1.6 BlueHDi 120ch S&S BVM6 7 Places Allure,2017,131850,Diesel,113,4.3,Manuelle,4,6,7,86000,11500
+Seat,Leon 1.6 TDI 105 FAP CR GOOD STUFF Ecomotive,2010,185000,Diesel,109,4.2,Manuelle,4,5,5,91380,5999
+Auto,Passat 2.0 TDI 140 CR FAP BlueMotion Technology Carat,2014,81200,Diesel,119,4.6,Manuelle,4,7,5,45250,13000
+Infiniti,FX30d 3.0D V6 GT A,2011,135000,Diesel,238,9.0,Automatique,4,16,5,91420,18900
+AUDI,A8 2.5 V6 TDI - 180 Pack,2000,257000,Diesel,193,7.2,Manuelle,4,11,5,67230,9000
+Audi,Q5 V6 3.0 TDI 240 DPF Quattro Avus S tronic 7,2009,250000,Diesel,199,7.5,Semi automatique,4,15,5,35000,19000
+Audi,A6 3.0 V6 TDi Quattro Ambition Luxe Tiptronic A,2004,240000,Diesel,229,8.5,Automatique,4,15,5,35000,9100
+Mercedes,Classe E 280 CDI Avantgarde A,2007,355600,Diesel,199,7.5,Automatique,4,12,5,01120,7000
+Renault,Zoe Q90 Intens,2018,31000,Electrique,null,null,Automatique,4,1,5,74160,15500
+Auto,Clio TCe 90 Trend,2017,32500,Essence,114,5.0,Manuelle,4,5,5,27600,11000
+Jeep,Renegade 2.0 I MultiJet S&S 140 ch 4x4 Limited,2014,17625,Diesel,134,5.1,Manuelle,4,8,5,09100,25000
+Citroën,Axel 1.2 TRS,1937,66000,Essence,null,null,Manuelle,2,7,5,01210,15000
+Porsche,Panamera V6 3.0D 250 Tiptronic S,2013,135000,Diesel,172,6.5,Automatique,4,15,4,59300,30500
+Auto,Passat 1.6 Tbo D C Touring,1987,462000,Diesel,null,null,Manuelle,4,5,5,56240,300
+Mercedes,E240 Elégance,1997,220000,Essence,245,10.3,Manuelle,4,12,5,81000,1750
+BMW,120d 190 ch Urban Chic A,2016,129000,Diesel,109,4.1,Automatique,4,10,5,12000,17000
+Auto,GOLF ENTREPRISE 1.6 TDI 90 FAP CR CONFORTLINE,2009,2010,Diesel,118,4.5,Manuelle,2,6,2,78410,5000
+Mercedes,190 E 2.0,1986,360000,Essence,null,null,Manuelle,4,7,5,81490,2000
+Fiat,Punto 80 16V ELX,2000,199900,Essence,142,6.0,Manuelle,2,5,5,80000,40
+Peugeot,3008 1.6 HDi 16V 110ch FAP Premium,2010,236000,Diesel,137,5.1,Manuelle,4,6,5,93600,6899
+Mercedes,500 SEC,1983,190000,Essence,null,null,Automatique,4,34,5,69350,15000
+Mazda,626 2.0 Sup. Spec.,1985,68390,Essence,null,null,Manuelle,4,9,5,83000,2500
+Mercedes,ML 270 CDI A,2005,224000,Diesel,241,9.1,Automatique,4,11,5,59460,5100
+Saab,900 Coupé 2.0i 16V Série Spéciale,1992,185000,Essence,null,null,Manuelle,2,9,5,vendeur,12500
+Peugeot,305 GL,1982,87700,Essence,null,null,Manuelle,4,7,5,45230,3000
+Renault,Talisman Estate dCi 110 Energy ECO2 Life,2016,91000,Diesel,98,3.7,Manuelle,4,5,5,69390,12500
+Mini,Mini 1.6 D - 110 Cooper,2008,175000,Diesel,104,3.9,Manuelle,2,5,4,06200,4500
+Auto,605 2.5 DT Exécutive,1998,250000,Diesel,null,null,Manuelle,4,8,5,46200,3500
+Maserati,Granturismo S 4.7 V8 A,2011,48000,Essence,354,15.2,Automatique,2,36,4,08500,59000
+Land-Rover,Range Rover Evoque eD4 Pure,2012,114000,Diesel,133,5.0,Manuelle,4,8,5,90200,18500
+Volkswagen,Touareg 5.0 V10 TDI Tiptronic A,2003,192000,Diesel,329,12.2,Automatique,4,24,5,60420,9300
+Renault,Kadjar TCe 130 Energy Edition One,2015,55000,Essence,130,5.8,Manuelle,4,7,5,04210,13000
+Auto,C4 Picasso BlueHDi 120 S&S Business + EAT6,2015,62000,Diesel,101,3.9,Automatique,4,6,5,90150,12500
+Volkswagen,Caravelle 2.0 TDI 150 BMT Longue BVM6 4Motion Confortline,2016,105000,Diesel,179,6.9,Manuelle,4,9,8,73200,35500
+Auto,Scénic 1.6i 16V Expression,2004,209000,Essence,173,7.3,Manuelle,4,7,5,11200,2000
+Volkswagen,Golf 2.0 TDI 140 FAP CR Confortline,2010,167000,Diesel,126,4.8,Manuelle,2,7,5,93270,6500
+BMW,M2 Compétition 410 ch M DKG7,2018,23400,Essence,206,9.2,Automatique,2,30,4,54300,68000
+Auto,Mégane Cabriolet 2.0i 16V,2005,251000,Essence,null,null,Manuelle,2,10,4,68000,2000
+VOLKSWAGEN,T4 MULTIVAN Volkswagen 151cv 2.5L TDI,1999,265325,null,null,9,null,null,null,7,50420,13499
+Mercedes,190 E 2.3 Confort,1987,152000,Essence,null,null,Manuelle,4,9,5,68128,8000
+Auto,Juke 1.6e Turbo 200 Nismo,2013,78000,Essence,159,6.9,Manuelle,4,12,5,82600,12000
+Mercedes,Classe B 200 CDI BlueEFFICIENCY Business Executive 7-G DCT A,2013,205800,Diesel,116,4.4,Automatique,4,7,5,82200,8500
+Kia,Sportage 1.7 CRDi 115 ISG 4x2 Série Limitée Edition 7,2015,36000,Diesel,135,5.2,Manuelle,4,6,5,93100,14000
+Ford,Kuga 2.0 TDCi 140 DPF 4x2 Trend,2011,220000,Diesel,156,5.9,Manuelle,4,8,5,83300,7500
+Ford,Granada 2500 GL D,1978,450000,Diesel,null,null,Manuelle,4,8,5,15000,900
+Fiat,Tipo 1.6 Perfect,1992,180000,Essence,null,null,Manuelle,4,7,5,09230,300
+MERCEDES,limousine/familiale 8 places,1978,183000,Diesel,null,null,Manuelle,4,null,8,49750,1200
+Auto,Thema 2.0ie Tbo,1988,134500,Essence,null,null,Manuelle,4,9,5,21160,2500
+Toyota,Corolla 110 D-4D Linea Sol,2003,174000,Diesel,152,5.7,Manuelle,2,6,5,91150,3250
+Citroën,C3 PureTech 82 105g Live,2016,4500,Essence,105,4.6,Manuelle,4,4,5,35000,9500
+MERCEDES,411 112,1961,30000,Diesel,null,null,Manuelle,2,null,null,69003,10000
+Infiniti,Q50 2.2d Sport Tech A,2016,38500,Diesel,123,4.6,Automatique,4,9,5,20250,22000
+MINI,mini cooper D,2009,140500,Diesel,null,null,Manuelle,4,null,4,13190,5500
+Auto,230 E,1987,152000,Essence,null,null,Manuelle,4,9,5,70100,1000
+Ford,Fiesta 1.4 TDCi 70 FAP Titanium,2011,86500,Diesel,104,4.0,Manuelle,5,4,5,97200,9000
+volskswagen,null,2010,12000,Essence,null,null,Automatique,null,null,null,59420,6000
+Peugeot,1.2 PureTech 110ch Crossway EAT6 +Toit panoramique,2016,76598,Essence,null,null,Automatique,4,6,5,null,13980
+Peugeot,1.2 PureTech 130ch Allure EAT8 7 places +attelage,2019,23334,Essence,null,null,Automatique,4,7,7,null,28780
+Renault,V Blue dCi 100 - 21N Intens,2021,3900,Diesel,null,null,Manuelle,4,5,5,null,21400
+MERCEDES,200 d Business Executive Edition 7G-DCT,2019,26500,Diesel,141,null,Automatique,5,7,5,null,24990
+CITROEN,2.0 BLUEHDI 180 CH EAT8 SHINE +TOIT OUVRANT +OPTS,2019,63200,Diesel,121,null,Automatique,5,9,5,null,26990
+MAZDA,MX-5 cabriolet 1.5L SKYACTIV-G CAM/CUIRCHAUF/CLIM/PDC/GPS/RE,2021,3260,Essence,138,null,Manuelle,2,7,2,null,25950
+MERCEDES,220 d 9G-Tronic AMG PACK CAM/CUIRELEC/TOIPANO/CLIM/PDC/GPS/R,2017,35000,Diesel,112,null,Automatique,4,9,5,null,31950
+BMW,xDrive30d 258ch M Sport A CAM/CUIRCHAUFELEC/TOIPANO/AFFICHTE,2016,96000,Diesel,159,null,Automatique,4,16,5,null,42950
+VOLKSWAGEN,1.6 TDI 120 DSG7 SIEGELECMASS/CLIM/PDC/GPS/REGVIT/BLTH/ATTAC,2016,105450,Diesel,105,null,Automatique,4,6,5,null,17850
+SKODA,1.0 MPI 75ch BVM5 SIEGCHAUF/CLIM/STARTSTOP/GAR12MOIS,2018,74615,Essence,111,null,Manuelle,4,4,5,null,11650
+Jaguar,Daimler 4.0 A,1996,238000,Essence,null,null,Automatique,4,21,5,31390,4000
+AUDI,S3 Sportback 2.0 TFSI 300 Quattro S-Tronic 6,2016,93273,Essence,159,6.9,Semi automatique,4,19,5,null,28999
+MINI,Mini Cooper S 192 ch BVA6 Edition Seven,2016,69076,Essence,128,5.5,Automatique,4,10,5,null,18490
+PEUGEOT,null,2006,73300,Essence,null,null,Manuelle,5,null,4,null,2990
+VW,Touran 1.6 TDI 115 BMT DSG7 Carat 5pl,2017,93800,Diesel,114,4.4,Automatique,4,6,5,null,22800
+Peugeot,2008 1.2 PureTech 82ch BVM5 Access,2015,100000,Essence,114,4.9,Manuelle,4,4,5,59840,9400
+JEEP,null,2017,90602,Diesel,null,null,null,4,6,5,null,15900
+LAND-ROVER,null,2020,35004,null,null,null,Automatique,4,17,5,null,85900
+RENAULT,null,2018,21996,Diesel,null,null,Manuelle,4,8,5,null,21490
+RENAULT,null,2021,6285,Essence,null,null,Manuelle,4,7,5,null,22490
+CITROEN,null,2018,49785,Essence,null,null,Manuelle,4,5,5,null,13990
+RENAULT,null,2018,76245,Essence,null,null,Manuelle,4,4,4,null,7490
+PEUGEOT,null,2021,12894,Essence,null,null,Manuelle,4,5,5,null,19499
+PEUGEOT,null,2021,6652,Essence,null,null,Manuelle,4,7,7,null,34199
+PEUGEOT,null,2020,18962,Essence,null,null,Manuelle,4,5,5,null,17399
+PEUGEOT,null,2019,19805,Essence,null,null,Automatique,4,6,5,null,26499
+TOYOTA,null,2019,60837,Hybride,null,null,Automatique,4,4,5,null,19990
+TOYOTA,null,2022,8500,Hybride,null,null,Automatique,4,5,5,null,30590
+TOYOTA,null,2019,49657,Essence,null,null,Manuelle,4,4,5,null,11890
+TOYOTA,null,2014,65842,Hybride,null,null,Automatique,4,5,5,null,14890
+PEUGEOT,null,2020,61856,Diesel,null,null,Manuelle,4,5,5,null,14499
+PEUGEOT,null,2016,63708,Essence,null,null,Automatique,4,6,5,null,13999
+MERCEDES,null,2022,7000,Essence,null,null,Automatique,4,9,5,null,42790
+MERCEDES,null,2022,7000,null,null,null,Automatique,4,11,5,null,78590
+MERCEDES,null,2021,7000,Hybride,null,null,Automatique,4,25,5,null,128990
+MERCEDES,null,2015,96438,Diesel,null,null,Automatique,4,7,5,null,19890
+MERCEDES,null,2018,24345,Diesel,null,null,Automatique,4,6,5,null,26390
+RENAULT,null,2017,86199,Diesel,null,null,Manuelle,4,7,5,null,16990
+PEUGEOT,null,2021,13046,Diesel,null,null,Manuelle,4,7,5,null,25999
+RENAULT,null,2021,11871,Diesel,null,null,Manuelle,4,6,5,null,20990
+DACIA,null,2017,85124,Diesel,null,null,Manuelle,4,6,5,null,13590
+PEUGEOT,null,2001,195000,Diesel,null,null,Automatique,4,null,5,null,2500
+FIAT,500 1.2 8V 69 ch Pop,2009,110000,Essence,119,5.1,Manuelle,2,4,4,null,4500
+CITROëN,null,2011,107000,Diesel,null,null,Manuelle,4,null,null,null,5900
+C4,null,2015,150000,Essence,null,null,Manuelle,4,null,5,null,6900
+CHEVROLET,null,2008,157000,Diesel,null,null,Manuelle,4,null,null,null,6900
+TOYOTA,Yaris 69 VVT-i Dynamic,2014,45000,Essence,111,4.8,Manuelle,4,4,5,null,8900
+RENAULT,null,2017,104222,Diesel,null,null,Manuelle,2,5,5,null,17990
+RENAULT,null,2020,28734,Essence,null,null,Automatique,4,7,5,null,20990
+RENAULT,null,2020,53307,Diesel,null,null,Manuelle,4,4,5,null,11490
+RENAULT,null,2018,50436,Diesel,null,null,Manuelle,4,10,5,null,23490
+RENAULT,null,2021,6529,Essence,null,null,Manuelle,4,4,4,null,11890
+RENAULT,null,2021,4591,Essence,null,null,Automatique,4,7,5,null,24970
+RENAULT,null,2021,12468,Diesel,null,null,Automatique,4,6,5,null,25800
+DACIA,null,2018,47231,Diesel,null,null,Manuelle,4,6,5,null,16900
+RENAULT,null,2021,5028,Essence,null,null,Automatique,4,7,7,null,27960
+RENAULT,null,2016,16812,Electrique,null,null,Automatique,4,1,5,null,9390
+VOLKSWAGEN,null,2021,10,Diesel,null,null,Automatique,4,8,7,null,48990
+RENAULT,null,2020,10973,Diesel,null,null,Manuelle,4,4,5,null,16290
+RENAULT,null,2019,55420,Diesel,null,null,Manuelle,4,4,5,null,11990
+RENAULT,null,2018,26824,Essence,null,null,Manuelle,4,4,4,null,10290
+DACIA,null,2017,47879,Essence,null,null,Manuelle,4,4,5,null,7990
+RENAULT,null,2017,66818,Diesel,null,null,Manuelle,4,7,5,null,16390
+RENAULT,null,2018,65114,Diesel,null,null,Manuelle,4,7,5,null,21990
+CITROEN,null,2015,58000,Essence,null,null,Manuelle,4,4,5,null,10990
+RENAULT,null,2020,15000,Diesel,null,null,Manuelle,4,6,7,null,21990
+RENAULT,null,2019,54638,Essence,null,null,Automatique,4,7,5,null,18990
+RENAULT,null,2018,52354,Diesel,null,null,Manuelle,4,5,5,null,11990
+DS,null,2017,72905,Diesel,null,null,Automatique,4,9,5,null,19990
+PEUGEOT,null,2016,82915,Diesel,null,null,Manuelle,4,4,5,null,9990
+RENAULT,null,2014,93778,Diesel,null,null,Manuelle,4,7,5,null,11490
+RENAULT,null,2021,2228,Essence,null,null,Automatique,4,7,5,null,25990
+RENAULT,null,2021,2001,Essence,null,null,Manuelle,4,5,5,null,18990
+DACIA,null,2018,30745,Diesel,null,null,Manuelle,4,6,5,null,17490
+RENAULT,null,2021,4286,Essence,null,null,Automatique,4,8,5,null,28990
+RENAULT,null,2018,29881,Essence,null,null,Manuelle,4,4,4,null,9490
+RENAULT,null,2018,66209,Diesel,null,null,Manuelle,4,5,5,null,12990
+RENAULT,null,2018,40484,Essence,null,null,Automatique,4,6,5,null,16990
+RENAULT,null,2018,94109,Diesel,null,null,Manuelle,4,5,5,null,13490
+RENAULT,null,2021,3894,Diesel,null,null,Manuelle,4,6,5,null,26999
+RENAULT,null,2019,26,Essence,null,null,Automatique,4,5,4,null,15990
+RENAULT,null,2018,83845,Diesel,null,null,Manuelle,2,5,2,null,13990
+RENAULT,null,2018,29876,Essence,null,null,Automatique,4,6,5,null,16990
+RENAULT,null,2017,43118,Diesel,null,null,Manuelle,4,4,5,null,12990
+DACIA,null,2017,93555,Diesel,null,null,Manuelle,4,4,5,null,11990
+VOLKSWAGEN,Golf Cabriolet 1.2 TSI 105 Série Spécial Cup,2014,110490,Essence,139,5.9,Manuelle,2,6,4,null,12990
+AUDI,null,2014,117990,Diesel,null,null,Manuelle,2,null,null,null,19490
+VOLKSWAGEN,Polo 1.2 60 Match,2012,34545,Essence,128,5.5,Manuelle,4,4,5,null,8999
+SKODA,1498 STYLE,2020,51183,Essence,null,null,Automatique,4,8,5,null,19999
+FIAT,500 1.3 Multijet 16V 95 ch S&S Lounge,2014,123014,Diesel,95,3.6,Manuelle,2,5,4,null,6490
+LAMBORGHINI,5.0,2007,48179,Essence,null,null,Automatique,null,46,2,null,91999
+RENAULT,null,2020,17500,Diesel,null,null,Manuelle,4,5,5,null,18480
+RENAULT,null,2019,17245,Essence,null,null,Manuelle,4,6,5,null,16680
+OPEL,null,2017,91832,Diesel,null,null,Automatique,4,8,3,null,23480
+DACIA,null,2021,17547,Essence,null,null,Manuelle,4,5,5,null,16990
+OPEL,null,2016,144542,Diesel,null,null,Manuelle,4,4,5,null,7790
+RENAULT,null,2018,76836,Diesel,null,null,Manuelle,4,6,5,null,17290
+PEUGEOT,null,2017,60701,Essence,null,null,Automatique,4,7,5,null,18490
+DACIA,null,2015,120168,null,null,null,null,2,5,5,null,6290
+RENAULT,TCe 90 - 21 R.S. Line,2021,10064,Essence,null,null,null,4,5,5,null,19400
+PEUGEOT,PureTech 100 S&S EAT8 Allure Business,2020,33556,Essence,132,4.3,null,4,5,5,null,19900
+RENAULT,Intens SCe 70 Stop & Start,2019,37043,Essence,108,4.7,null,4,4,4,null,7900
+PEUGEOT,Crossway PureTech 130 S&S BVM6,2019,46438,Essence,118,5.1,null,4,7,5,null,21900
+RENAULT,null,2021,4611,Essence,null,null,Manuelle,4,4,4,null,11990
+RENAULT,null,2020,16783,Diesel,null,null,Manuelle,4,5,5,null,18990
+RENAULT,null,2020,20745,Essence,null,null,Manuelle,4,5,5,null,17990
+RENAULT,null,2018,36133,Essence,null,null,Manuelle,4,5,5,null,12990
+RENAULT,null,2018,60644,Diesel,null,null,Manuelle,4,7,5,null,16990
+OPEL,1.0 ECOTEC TURBO 105 EDITION BUSINESS,2019,18093,Essence,null,null,Manuelle,5,5,5,null,13990
+Peugeot,ALLURE 1.2 PureTech S&S 130ch automatique,2019,42662,Essence,109.0,null,Automatique,5,null,null,null,27470
+Renault,INTENS 1.5 dCi FAP Energy 110ch manuelle,2016,88767,Diesel,103.0,null,Manuelle,5,null,null,null,15470
+Peugeot,ALLURE 1.2 PureTech S&S 130ch automatique,2019,42662,Essence,109.0,null,Automatique,5,null,null,null,27470
+Renault,INTENS 1.5 dCi FAP Energy 110ch manuelle,2016,88767,Diesel,103.0,null,Manuelle,5,null,null,null,15470
+CITROëN,BUSINESS 7 PLACES BMP6 1.6 E-HDI 112 CV,2012,140000,null,null,null,null,5,6,null,null,9500
+RENAULT,null,2020,24688,Diesel,null,null,Manuelle,4,6,5,null,20990
+RENAULT,null,2019,26576,Diesel,null,null,Manuelle,4,4,5,null,13490
+RENAULT,null,2016,91739,Diesel,null,null,Automatique,4,8,5,null,19990
+RENAULT,null,2015,83260,Diesel,null,null,Automatique,4,8,5,null,18490
+RENAULT,null,2020,9426,Diesel,null,null,Automatique,4,6,5,null,20490
+Peugeot,ALLURE 1.2 PureTech S&S 130ch automatique,2019,42662,Essence,109.0,null,Automatique,5,null,null,null,27470
+Renault,INTENS 1.5 dCi FAP Energy 110ch manuelle,2016,88767,Diesel,103.0,null,Manuelle,5,null,null,null,15470
+RENAULT,null,2019,19945,Electrique,null,null,Automatique,4,1,5,null,14790
+RENAULT,null,2018,46236,Diesel,null,null,Manuelle,4,5,5,null,15690
+RENAULT,null,2018,67930,null,null,null,null,2,9,5,null,18990
+RENAULT,null,2017,18221,Essence,null,null,Manuelle,4,4,4,null,9790
+RENAULT,null,2018,43242,Diesel,null,null,Manuelle,4,4,5,null,13490
+PEUGEOT,null,2021,10995,Diesel,null,null,Manuelle,4,6,5,null,24980
+FORD,null,2017,60101,Essence,null,null,Manuelle,4,6,5,null,11490
+PEUGEOT,null,2019,66179,Essence,null,null,Manuelle,4,5,5,null,15990
+PEUGEOT,null,2022,450,Essence,null,null,Automatique,4,5,5,null,26790
+PEUGEOT,null,2021,23025,Diesel,null,null,Automatique,4,7,5,null,29590
+PEUGEOT,null,2019,9533,Essence,null,null,Manuelle,2,4,4,null,10698
+CITROëN,BUSINESS 7 PLACES BMP6 1.6 E-HDI 112 CV,2012,140000,null,null,null,null,5,6,null,null,9500
+PEUGEOT,null,2020,21694,Essence,null,null,Manuelle,4,5,5,null,18990
+Peugeot,ALLURE 1.2 PureTech S&S 130ch automatique,2019,42662,Essence,109.0,null,Automatique,5,null,null,null,27470
+Renault,INTENS 1.5 dCi FAP Energy 110ch manuelle,2016,88767,Diesel,103.0,null,Manuelle,5,null,null,null,15470
+OPEL,null,2020,66182,Diesel,null,null,Manuelle,2,5,2,null,17900
+PEUGEOT,null,2018,19442,Essence,null,null,Manuelle,4,4,4,null,10492
+PEUGEOT,null,2018,83283,Diesel,null,null,Manuelle,4,6,5,null,14279
+FORD,null,2017,82868,Diesel,null,null,Manuelle,4,8,5,null,17990
+PEUGEOT,null,2018,44675,Essence,null,null,Manuelle,4,4,5,null,13780
+DS,null,2020,11486,Essence,null,null,Automatique,4,7,5,null,28890
+OPEL,null,2020,11940,Diesel,null,null,Manuelle,4,5,5,null,15999
+CITROEN,null,2021,17260,Essence,null,null,Manuelle,4,4,5,null,15399
+PEUGEOT,BlueHDi 160ch S&S Active Business EAT8 9cv,2020,109292,Diesel,144,null,Automatique,4,9,5,null,19900
+MERCEDES,200 7-G DCT Starlight Edition,2018,55500,Essence,142,null,Automatique,4,9,5,null,21495
+RENAULT,null,2020,15965,Diesel,null,null,Manuelle,4,6,5,null,22499
+PEUGEOT,null,2019,117345,Diesel,null,null,Manuelle,4,5,5,null,13499
+VOLKSWAGEN,null,2018,100148,Diesel,null,null,Automatique,4,8,7,null,28999
+RENAULT,null,2016,89511,Diesel,null,null,Manuelle,4,5,5,null,15999
+DS,null,2016,85403,Diesel,null,null,Manuelle,2,5,5,null,11899
+SKODA,null,2020,100,Essence,null,null,Automatique,4,8,5,null,27999
+Ford,Fiesta 1.6 120 Ti-VCT Ghia,2009,211000,Essence,139,5.9,Manuelle,4,7,5,03160,3400
+NISSAN,1.6 dCi 1598cm3 130cv,2013,116000,Diesel,null,null,Manuelle,5,null,5,null,9490
+FIAT,1.2 1242cm3 69cv,2010,107600,Diesel,null,null,Manuelle,null,null,5,null,3390
+RENAULT,1.2 16V 1149cm3 73cv,2017,26300,Diesel,null,null,Manuelle,5,null,5,null,10490
+RENAULT,1.5 dCi 1461cm3 90cv,2011,187000,Diesel,null,null,Manuelle,5,null,2,null,3290
+OPEL,1.6 CDTI 136 CH Camera De Recul GARANTIE,2016,74850,Diesel,109,null,Manuelle,5,7,5,null,12490
+Dacia,Sandero TCe 100 15 ans,2020,8600,Essence,null,null,Manuelle,4,5,5,59263,13990
+Citroën,C4 Picasso BlueHDi 120 S&S Feel,2017,82000,Diesel,100,3.8,Manuelle,4,6,5,44210,14900
+Citroën,C5 1.6 HDi 110 FAP,2007,141000,Diesel,139,5.4,Manuelle,4,6,5,69290,5300
+MERCEDES,null,2018,19944,Diesel,null,null,Automatique,2,10,4,null,40900
+VOLKSWAGEN,1ST MAX 150 KW  1.SC MAX GTE 10/2023,2020,8500,Electrique,null,null,Automatique,5,5,5,null,37990
+PEUGEOT,Hybrid4 300,2020,14500,null,31,null,Automatique,5,9,5,null,36990
+MERCEDES,null,2021,1608,null,null,null,Automatique,4,10,5,null,61790
+MERCEDES,null,2015,119990,Diesel,null,null,Automatique,4,9,5,null,22390
+PEUGEOT,Phase 2 7 PL 1.6 eHDI ALLURE,2016,91000,Diesel,112,null,Automatique,5,6,7,null,12990
+MERCEDES,null,2021,25446,null,null,null,Automatique,4,8,5,null,46490
+TOYOTA,null,2018,17174,Hybride,null,null,Automatique,4,4,5,null,15990
+Peugeot,ALLURE 1.2 PureTech S&S 130ch automatique,2019,42662,Essence,109.0,null,Automatique,5,null,null,null,27470
+Renault,INTENS 1.5 dCi FAP Energy 110ch manuelle,2016,88767,Diesel,103.0,null,Manuelle,5,null,null,null,15470
+VOLKSWAGEN,null,2016,87305,null,null,null,Automatique,4,6,5,null,20490
+NISSAN,null,2017,102046,Diesel,null,null,Automatique,4,7,5,null,17890
+RENAULT,Mégane IV Berline TCe 130 Energy Intens,2016,77800,null,null,null,Manuelle,5,7,5,null,12270
+CITROEN,C4 THP 155 Exclusive BMP6,2013,115300,null,null,null,Automatique,5,9,5,null,7663
+VOLKSWAGEN,null,2021,9406,Essence,null,null,Manuelle,4,8,5,null,27690
+VOLKSWAGEN,null,2020,19240,null,null,null,Automatique,4,8,5,null,28990
+RENAULT,null,2021,17560,Hybride,null,null,Automatique,4,5,5,null,18990
+NISSAN,null,2021,6924,Essence,null,null,Manuelle,4,5,5,null,14290
+NISSAN,null,2019,36854,Essence,null,null,Manuelle,4,6,5,null,13490
+NISSAN,null,2020,25246,Essence,null,null,Automatique,4,5,5,null,15490
+NISSAN,null,2019,7074,Essence,null,null,Manuelle,4,5,5,null,13980
+NISSAN,null,2019,16250,Essence,null,null,Manuelle,4,5,5,null,14900
+MINI,null,2018,59766,Essence,null,null,Manuelle,2,7,4,null,21480
+VOLKSWAGEN,null,2018,36970,Diesel,null,null,Manuelle,4,8,5,null,29990
+NISSAN,null,2018,61578,Essence,null,null,Manuelle,4,6,5,null,13490
+MEGANE,1.6 16V 95CV,2000,145580,Essence,null,null,Manuelle,4,7,null,null,2290
+NISSAN,null,2018,98210,Diesel,null,null,Manuelle,4,5,5,null,16980
+VOLKSWAGEN,null,2018,105865,Essence,null,null,Automatique,4,6,5,null,16990
+VOLKSWAGEN,null,2020,26371,Diesel,null,null,Manuelle,4,8,5,null,29490
+VOLKSWAGEN,null,2017,134835,Diesel,null,null,Manuelle,4,4,5,null,8490
+VOLKSWAGEN,Tiguan 2.0 TDI 150 BMT DSG7 4Motion Sound,2017,112819,Diesel,147,5.6,Automatique,4,8,5,null,24900
+NISSAN,null,2017,79230,Diesel,null,null,Manuelle,4,5,5,null,17490
+MERCEDES,Classe GLC 220 d 9G-Tronic 4Matic,2018,65900,Diesel,null,null,Automatique,5,9,5,null,31455
+NISSAN,null,2016,71428,Diesel,null,null,Manuelle,4,5,5,null,14990
+MERCEDES,null,2016,95964,Diesel,null,null,Automatique,4,9,5,null,31490
+NISSAN,null,2016,145107,Diesel,null,null,Manuelle,4,5,5,null,8990
+RENAULT,null,2016,112698,Diesel,null,null,Manuelle,4,5,5,null,10990
+RENAULT,null,2015,58500,Essence,null,null,Manuelle,4,7,5,null,10990
+FORD,null,2019,17174,Diesel,null,null,Manuelle,4,6,5,null,20990
+PEUGEOT,null,2020,7158,null,null,null,Automatique,4,8,5,null,34990
+NISSAN,null,2019,71568,Essence,null,null,Manuelle,4,7,5,null,17680
+PEUGEOT,null,2021,5747,Diesel,null,null,Automatique,4,7,5,null,31480
+CITROEN,null,2021,10,Diesel,null,null,Automatique,4,7,5,null,29280
+PEUGEOT,null,2021,10,Diesel,null,null,Automatique,4,7,5,null,31280
+LEXUS,IS 300h Business,2014,95500,null,null,null,Automatique,4,9,5,null,15557
+RENAULT,Clio IV dCi 75 Energy SL Limited,2016,155200,Diesel,null,null,Manuelle,5,4,5,null,6390
+PEUGEOT,108 1.2 PureTech 82ch BVM5 Collection,2017,8400,null,null,null,Manuelle,5,4,4,null,10190
+PEUGEOT,3008 1.6 HDi 115ch FAP Style,2015,152100,Diesel,null,null,Manuelle,5,6,5,null,7090
+BMW,X3 sDrive18d 150ch xLine Start Edition A,2017,101200,Diesel,null,null,Automatique,5,8,5,null,23009
+Renault,INTENS 1.5 dCi FAP Energy 110ch manuelle,2016,88767,Diesel,103.0,null,Manuelle,5,null,null,null,15470
+Peugeot,ALLURE 1.2 PureTech S&S 130ch automatique,2019,42662,Essence,109.0,null,Automatique,5,null,null,null,27470
+OPEL,null,2021,10,Diesel,null,null,Manuelle,4,6,5,null,26480
+NISSAN,null,2020,9068,Essence,null,null,Manuelle,4,5,5,null,13900
+NISSAN,null,2018,19636,Diesel,null,null,Manuelle,4,5,5,null,20490
+PEUGEOT,null,2021,10,Diesel,null,null,Automatique,4,7,5,null,31280
+RENAULT,null,2020,7310,Essence,null,null,null,2,4,5,null,13990
+PEUGEOT,null,2018,49346,Essence,null,null,Automatique,4,6,5,null,18490
+NISSAN,null,2020,30052,Electrique,null,null,Automatique,4,6,5,null,22480
+NISSAN,null,2019,38829,Diesel,null,null,Manuelle,4,6,5,null,21990
+NISSAN,null,2018,54357,Essence,null,null,Manuelle,4,4,5,null,10490
+HYUNDAI,null,2019,44078,Essence,null,null,Manuelle,4,5,5,null,11490
+Citroën,1.6 Exclusive 110 Phase 2,2003,181000,Essence,null,null,Manuelle,5,6,null,null,2490
+LEXUS,null,2022,6000,Hybride,null,null,Automatique,4,8,5,null,47990
+Mazda,Mazda6 2.0 MZR - CD 120 Harmonie,2004,420000,Diesel,179,6.5,Manuelle,4,7,5,11400,800
+MERCEDES,null,2020,80328,null,null,null,Automatique,4,10,5,null,58990
+CITROEN,null,2018,76121,Diesel,null,null,Manuelle,4,5,5,null,10999
+PEUGEOT,null,2021,20697,Essence,null,null,Automatique,2,null,5,null,22990
+PEUGEOT,null,2018,36072,Essence,null,null,Manuelle,4,4,5,null,13790
+CITROEN,C1 1.0i Airdream Confort,2009,24031,Essence,106,4.5,Manuelle,2,4,4,null,5990
+PEUGEOT,null,2021,17185,Diesel,null,null,Manuelle,4,7,5,null,22490
+PEUGEOT,null,2021,5826,Hybride,null,null,Automatique,4,10,5,null,42490
+PEUGEOT,null,2021,33344,Essence,null,null,Automatique,4,7,5,null,25390
+RENAULT,null,2019,15963,Essence,null,null,Manuelle,4,5,4,null,12880
+CITROEN,null,2017,44616,Essence,null,null,Manuelle,4,7,5,null,16780
+PEUGEOT,null,2016,39577,Essence,null,null,Manuelle,4,16,5,null,25999
+PEUGEOT,null,2021,10737,Diesel,null,null,Automatique,4,7,5,null,31999
+PEUGEOT,null,2022,100,Diesel,null,null,Automatique,4,7,5,null,32490
+PEUGEOT,null,2022,9000,Diesel,null,null,Manuelle,4,5,2,null,21990
+PEUGEOT,null,2021,5000,Essence,null,null,Manuelle,4,5,5,null,22670
+PEUGEOT,null,2021,6000,Essence,null,null,Manuelle,4,5,5,null,26510
+PEUGEOT,null,2019,11921,Essence,null,null,Automatique,4,6,5,null,17490
+PEUGEOT,null,2017,34614,Essence,null,null,Manuelle,4,4,4,null,9990
+RENAULT,null,2021,15145,Hybride,null,null,Automatique,4,5,5,null,27480
+RENAULT,null,2021,17767,Hybride,null,null,Automatique,4,5,5,null,28280
+RENAULT,null,2019,48353,Diesel,null,null,Automatique,4,5,5,null,18980
+SUZUKI,null,2018,49650,Diesel,null,null,Manuelle,4,6,5,null,15680
+RENAULT,null,2018,71700,Essence,null,null,Manuelle,4,5,5,null,11380
+CITROEN,null,2018,53838,Essence,null,null,Manuelle,4,7,5,null,15980
+PEUGEOT,null,2015,77895,Essence,null,null,Automatique,4,6,5,null,12780
+BMW,null,2020,4909,null,null,null,Automatique,4,7,5,null,48980
+BMW,null,2016,56944,Diesel,null,null,Manuelle,4,8,5,null,21900
+FORD,null,2021,11500,Essence,null,null,Manuelle,4,6,5,null,23290
+FORD,Mondeo SW 2.0 Hybrid 187 BVA6 Titanium,2019,58690,Hybride,96,4.4,Automatique,4,9,5,null,22480
+PEUGEOT,null,2018,56519,Essence,null,null,Manuelle,4,4,5,null,14790
+PEUGEOT,null,2018,80964,Diesel,null,null,Manuelle,4,6,5,null,21990
+DS,null,2021,3533,Essence,null,null,Automatique,4,7,5,null,32990
+DS,null,2020,26068,Diesel,null,null,Manuelle,4,5,5,null,26990
+AUDI,null,2017,32000,Diesel,null,null,Automatique,2,10,4,null,31990
+DS,null,2020,6455,Diesel,null,null,Automatique,4,9,5,null,42980
+DS,null,2020,1247,Electrique,null,null,Automatique,4,4,5,null,29990
+DS,null,2018,97000,Diesel,null,null,Automatique,4,10,5,null,29990
+DS,null,2021,7800,Essence,null,null,Automatique,4,7,5,null,29847
+DS,null,2020,1300,Diesel,null,null,Automatique,4,7,5,null,41874
+DS,null,2021,7590,Electrique,null,null,Automatique,4,4,5,null,37880
+VOLKSWAGEN,T4 transporteur 1900cc  9 places,1991,308400,Diesel,221,8.2,Manuelle,4,null,9,51270,1100
+Peugeot,206 2.0 HDi Quiksilver,2001,274915,Diesel,144,5.3,Manuelle,2,5,5,30100,1800
+Citroën,C3 1.4i 16v Exclusive,2008,98000,Essence,148,6.2,Manuelle,4,5,5,77000,3600
+Hyundai,i10 1.0 66 Pack Sensation,2014,120000,Essence,108,4.7,Manuelle,4,4,5,44000,5400
+BMW,Coupé 320d 177ch Luxe,2007,164000,Diesel,128,4.8,Manuelle,2,9,5,59200,8490
+Dacia,Duster TCe 125 4x2 Ambiance,2015,92000,Essence,143,6.2,Manuelle,4,7,5,47700,9800
+Kia,Rio 1.2L 85 ISG Origins Premium,2017,35000,Essence,109,4.7,Manuelle,4,4,5,74520,10500
+Honda,HR-V 1.5  i-VTEC Executive,2015,103000,Essence,130,5.6,Manuelle,4,7,5,54710,13800
+Renault,Kadjar TCe 140 FAP Intens,2019,35000,Essence,null,null,Manuelle,4,7,5,72000,18000
+Audi,A1 Sportback 30 TFSI 116 ch BVM6 Design,2019,45800,Essence,null,null,Manuelle,4,6,5,66600,20000
+Land-Rover,Range Rover Sport Mark VII SDV6 3.0L Autobiography A,2012,134000,Diesel,230,8.8,Automatique,4,17,5,06240,23800
+Porsche,Boxster 3.2i S,2005,117000,Essence,248,10.4,Manuelle,2,19,2,75014,26900
+Lexus,NX 300h 2WD,2019,13982,Hybride,127,5.5,Automatique,4,8,5,33112,37800
+Volkswagen,Golf 1.9 TDI - 100,2002,330000,Diesel,138,5.1,Manuelle,2,6,5,69400,2000
+Peugeot,208 1.6 VTi 120ch BVM5 Allure,2014,89500,Essence,129,5.6,Manuelle,2,6,5,38110,8600
+Peugeot,5008 1.6 HDi 115ch FAP BVM6 Access 5pl,2014,144000,Diesel,124,4.7,Manuelle,4,6,5,40180,8700
+Ford,Tourneo Custom 300 L1H1 2.2 TDCi 155 Titanium,2015,253500,Diesel,172,6.5,Manuelle,4,9,8,80560,11500
+Toyota,Yaris Hybride 100h Chic,2018,39000,Hybride,82,3.6,Automatique,4,3,5,42000,11500
+Peugeot,3008 1.2 Puretech 130ch S&S EAT6 Active,2018,98000,Essence,120,5.5,Automatique,4,7,5,33200,19500
+Lexus,UX 250h 2WD Luxe,2020,14000,Hybride,94,4.1,Automatique,4,7,5,65300,30200
+Dacia,Sandero TCe 90 Stepway Confort,2021,3000,Essence,null,null,Manuelle,4,5,5,92100,15000
+TWINGO,1.2 16V 75CV ECO2,2009,60470,Essence,null,null,Manuelle,2,4,null,null,5990
+PEUGEOT,null,2021,12491,Hybride,null,null,Automatique,4,11,5,null,49990
+PEUGEOT,null,2021,10100,Hybride,null,null,Automatique,4,11,5,null,49990
+PEUGEOT,null,2021,6181,Diesel,null,null,Manuelle,4,7,7,null,36990
+PEUGEOT,null,2021,13828,Essence,null,null,Manuelle,4,5,5,null,20990
+PEUGEOT,null,2021,6478,Diesel,null,null,Automatique,4,7,5,null,27990
+PEUGEOT,null,2021,4622,Electrique,null,null,Automatique,4,4,5,null,31990
+MINI,null,2016,88838,Diesel,null,null,Manuelle,4,5,5,null,15990
+DACIA,null,2017,43860,Diesel,null,null,Manuelle,4,6,5,null,14290
+CITROEN,null,2019,73267,Diesel,null,null,Manuelle,4,6,5,null,16990
+CITROEN,null,2019,72839,Diesel,null,null,Automatique,4,6,5,null,23390
+CITROEN,null,2019,27465,Essence,null,null,Manuelle,4,5,5,null,14598
+CITROEN,null,2020,45658,Diesel,null,null,Manuelle,4,5,5,null,13491
+CITROEN,null,2021,4500,Diesel,null,null,Manuelle,4,6,5,null,21991
+CITROEN,null,2020,14100,Essence,null,null,Manuelle,4,4,4,null,10492
+CITROEN,null,2018,45615,Diesel,null,null,Manuelle,4,5,5,null,13491
+CITROEN,null,2018,43000,Essence,null,null,Manuelle,4,4,5,null,11991
+CITROEN,null,2018,33700,Diesel,null,null,Manuelle,4,5,5,null,13491
+CITROEN,null,2021,1400,Essence,null,null,Manuelle,4,6,5,null,18200
+CITROEN,null,2021,1500,Electrique,null,null,Automatique,4,4,6,null,51874
+RENAULT,null,2020,14600,Diesel,null,null,Manuelle,4,5,5,null,16824
+CITROEN,null,2019,56500,Essence,null,null,Manuelle,4,5,5,null,12874
+CITROEN,null,2019,39500,Diesel,null,null,Automatique,4,6,5,null,26864
+CITROEN,null,2021,9000,Essence,null,null,Automatique,null,7,5,null,24710
+CITROEN,null,2018,79206,Essence,null,null,Manuelle,2,5,5,null,12980
+CITROEN,null,2019,75986,Diesel,null,null,Automatique,4,6,7,null,20980
+DS,null,2018,29775,Essence,null,null,Manuelle,4,7,5,null,18980
+BMW,null,2022,12000,null,null,null,null,null,11,5,null,87900
+MINI,null,2021,20000,Essence,null,null,Automatique,2,7,4,null,25890
+ALFA,null,2019,23743,Essence,null,null,Automatique,4,12,5,null,35990
+MINI,null,2018,41480,Essence,null,null,Automatique,4,11,5,null,31390
+BMW,null,2018,62400,Diesel,null,null,Automatique,4,8,5,null,27990
+BMW,null,2018,44781,Diesel,null,null,Manuelle,4,8,5,null,28990
+BMW,null,2017,140395,Diesel,null,null,Manuelle,4,7,5,null,17990
+BMW,null,2016,28900,Essence,null,null,Automatique,4,11,5,null,29990
+Renault,1.5l dci 110cv authentique,2010,243572,Diesel,null,null,Autres,4,6,7,null,3780
+Citroën,1.0l68cv attraction,2010,115882,Essence,null,null,Manuelle,2,4,4,null,4480
+Renault,1.5l dci 75cv air,2012,104123,Diesel,null,null,Manuelle,2,6,4,null,4520
+Dacia,1.4 l 75cv ambiante,2010,125702,Hybride,null,null,Manuelle,4,5,5,null,4980
+Toyota,1.0l vvti 69cv cool,2011,92020,Essence,null,null,Manuelle,4,4,5,null,5880
+Peugeot,1.4l 75cv Urban,2011,105265,Essence,null,null,Manuelle,4,5,5,null,5890
+Citroën,Picasso 1.6l hdi 92cv pack,2011,62887,Diesel,null,null,Manuelle,4,5,5,null,6680
+Peugeot,1.0l 68cv urban boite automatique,2007,5689,Essence,109,4.6,Automatique,4,4,4,null,6760
+Nissan,1.5lcrdi 90cv acenta,2013,104090,Diesel,null,null,Autres,4,5,5,null,6780
+Dacia,1.2l 75cv base,2015,21060,Essence,null,null,Manuelle,4,5,5,null,6880
+Opel,1.7l cdti 110cv edition pak,2011,108443,Diesel,null,null,Manuelle,4,6,7,null,7480
+Renault,1.5 l dci 110cv dynamique,2012,122650,Diesel,null,null,Manuelle,4,5,5,null,7680
+Renault,1.2l tce 115cv energy,2015,100489,Essence,140,6.1,Manuelle,4,6,5,null,8780
+Hyundai,1.7l crdi pak inventive blue drive 115cv,2014,89956,Diesel,null,null,Manuelle,4,6,5,null,11680
+Dacia,1.5l dci 110cv sylver-line,2018,49952,Diesel,null,null,Manuelle,4,6,5,null,13860
+PEUGEOT,null,2018,86155,Diesel,null,null,Manuelle,4,6,5,null,16900
+CITROEN,null,2021,3798,Diesel,null,null,Automatique,4,7,5,null,26450
+CITROEN,null,2020,15281,Essence,null,null,Manuelle,4,4,5,null,16990
+DACIA,null,2021,5868,Diesel,null,null,Manuelle,4,6,7,null,19480
+DACIA,null,2021,3110,Diesel,null,null,Manuelle,4,6,7,null,19480
+RENAULT,null,2020,27129,Diesel,null,null,Manuelle,4,6,5,null,19480
+RENAULT,null,2020,16824,Diesel,null,null,Manuelle,4,6,5,null,20480
+CITROEN,null,2020,19663,Essence,null,null,Manuelle,4,4,4,null,11490
+RENAULT,null,2019,11427,Diesel,null,null,Automatique,4,5,5,null,19380
+RENAULT,null,2019,26481,Essence,null,null,Manuelle,4,8,5,null,18680
+PEUGEOT,null,2021,2894,Electrique,null,null,Automatique,4,4,5,null,25980
+PEUGEOT,null,2021,8735,Hybride,null,null,Automatique,4,10,5,null,43980
+VOLKSWAGEN,null,2020,39307,Diesel,null,null,Automatique,4,8,4,null,70990
+PEUGEOT,null,2017,61500,Essence,null,null,Manuelle,4,7,5,null,22990
+PEUGEOT,null,2020,13902,Essence,null,null,Automatique,4,7,5,null,29990
+CITROEN,null,2020,31068,Essence,null,null,Manuelle,4,6,5,null,15990
+PEUGEOT,null,2018,59510,Essence,null,null,Automatique,4,6,5,null,17990
+PEUGEOT,null,2018,36406,Essence,null,null,Manuelle,4,6,5,null,19990
+HYUNDAI,null,2018,74786,Essence,null,null,Manuelle,4,5,5,null,10990
+PEUGEOT,null,2021,5243,Hybride,null,null,Automatique,4,10,5,null,40490
+RENAULT,null,2021,10,Essence,null,null,Manuelle,4,5,5,null,25890
+TOYOTA,null,2021,8,Essence,null,null,null,2,5,null,null,27990
+DACIA,null,2021,42555,Diesel,null,null,Manuelle,4,5,5,null,13980
+RENAULT,null,2018,34053,Diesel,null,null,Manuelle,4,4,5,null,11980
+RENAULT,null,2017,31035,Essence,null,null,Manuelle,4,5,5,null,11980
+RENAULT,null,2014,56063,Electrique,null,null,Automatique,4,1,5,null,7480
+DACIA,null,2021,6778,Diesel,null,null,Manuelle,4,6,5,null,20500
+RENAULT,null,2021,5074,null,null,null,Manuelle,4,7,5,null,25080
+RENAULT,null,2020,21415,Diesel,null,null,Manuelle,4,4,5,null,14400
+RENAULT,null,2020,8765,Diesel,null,null,Manuelle,4,5,5,null,18890
+RENAULT,null,2019,33940,Diesel,null,null,Manuelle,4,6,7,null,20500
+RENAULT,null,2018,42552,Essence,null,null,Manuelle,4,4,4,null,9200
+DACIA,null,2018,83502,Diesel,null,null,Manuelle,4,6,5,null,13900
+RENAULT,null,2017,87505,Diesel,null,null,Automatique,4,10,5,null,20680
+RENAULT,null,2016,49373,Diesel,null,null,Manuelle,4,7,5,null,16990
+CITROEN,C2 1.1i Pack,2005,61398,Essence,141,5.9,Manuelle,2,4,4,null,4490
+CITROEN,null,2019,30141,Essence,null,null,Manuelle,4,6,5,null,18290
+DACIA,null,2019,13267,Diesel,null,null,Manuelle,4,6,5,null,18590
+DS,null,2016,34800,Essence,null,null,null,2,12,5,null,16990
+BMW,null,2019,125483,Diesel,null,null,Automatique,4,16,5,null,41999
+BMW,null,2017,37267,Diesel,null,null,Manuelle,4,6,5,null,22499
+ALFA,null,2018,30002,Essence,null,null,Manuelle,2,5,4,null,10490
+OPEL,null,2021,7413,Diesel,null,null,Automatique,4,6,5,null,24999
+RENAULT,null,2019,11427,Diesel,null,null,Automatique,4,5,5,null,19380
+RENAULT,null,2019,26481,Essence,null,null,Manuelle,4,8,5,null,18680
+PEUGEOT,null,2021,2894,Electrique,null,null,Automatique,4,4,5,null,25980
+PEUGEOT,null,2021,8735,Hybride,null,null,Automatique,4,10,5,null,43980
+VOLKSWAGEN,null,2020,39307,Diesel,null,null,Automatique,4,8,4,null,70990
+PEUGEOT,null,2017,61500,Essence,null,null,Manuelle,4,7,5,null,22990
+PEUGEOT,null,2020,13902,Essence,null,null,Automatique,4,7,5,null,29990
+CITROEN,null,2020,31068,Essence,null,null,Manuelle,4,6,5,null,15990
+PEUGEOT,null,2018,59510,Essence,null,null,Automatique,4,6,5,null,17990
+PEUGEOT,null,2018,36406,Essence,null,null,Manuelle,4,6,5,null,19990
+HYUNDAI,null,2018,74786,Essence,null,null,Manuelle,4,5,5,null,10990
+PEUGEOT,null,2021,5243,Hybride,null,null,Automatique,4,10,5,null,40490
+RENAULT,null,2021,10,Essence,null,null,Manuelle,4,5,5,null,25890
+TOYOTA,null,2021,8,Essence,null,null,null,2,5,null,null,27990
+DACIA,null,2021,42555,Diesel,null,null,Manuelle,4,5,5,null,13980
+RENAULT,null,2018,34053,Diesel,null,null,Manuelle,4,4,5,null,11980
+RENAULT,null,2017,31035,Essence,null,null,Manuelle,4,5,5,null,11980
+RENAULT,null,2014,56063,Electrique,null,null,Automatique,4,1,5,null,7480
+DACIA,null,2021,6778,Diesel,null,null,Manuelle,4,6,5,null,20500
+RENAULT,null,2021,5074,null,null,null,Manuelle,4,7,5,null,25080
+RENAULT,null,2020,21415,Diesel,null,null,Manuelle,4,4,5,null,14400
+RENAULT,null,2020,8765,Diesel,null,null,Manuelle,4,5,5,null,18890
+RENAULT,null,2019,33940,Diesel,null,null,Manuelle,4,6,7,null,20500
+RENAULT,null,2018,42552,Essence,null,null,Manuelle,4,4,4,null,9200
+DACIA,null,2018,83502,Diesel,null,null,Manuelle,4,6,5,null,13900
+RENAULT,null,2017,87505,Diesel,null,null,Automatique,4,10,5,null,20680
+RENAULT,null,2016,49373,Diesel,null,null,Manuelle,4,7,5,null,16990
+CITROEN,C2 1.1i Pack,2005,61398,Essence,141,5.9,Manuelle,2,4,4,null,4490
+CITROEN,null,2019,30141,Essence,null,null,Manuelle,4,6,5,null,18290
+DACIA,null,2019,13267,Diesel,null,null,Manuelle,4,6,5,null,18590
+DS,null,2016,34800,Essence,null,null,null,2,12,5,null,16990
+BMW,null,2019,125483,Diesel,null,null,Automatique,4,16,5,null,41999
+BMW,null,2017,37267,Diesel,null,null,Manuelle,4,6,5,null,22499
+ALFA,null,2018,30002,Essence,null,null,Manuelle,2,5,4,null,10490
+OPEL,null,2021,7413,Diesel,null,null,Automatique,4,6,5,null,24999
+KIA,null,2021,5564,null,null,null,Automatique,4,7,5,null,31499
+DACIA,null,2019,29075,Essence,null,null,Manuelle,4,5,5,null,12390
+RENAULT,null,2018,94187,Diesel,null,null,Manuelle,4,4,5,null,10280
+VOLKSWAGEN,null,2021,10,Essence,null,null,Manuelle,4,8,5,null,29960
+VOLKSWAGEN,null,2021,10,Essence,null,null,Manuelle,4,8,5,null,29960
+VOLKSWAGEN,null,2019,40309,Essence,null,null,Automatique,4,14,5,null,32690
+VOLKSWAGEN,null,2019,32820,Essence,null,null,Automatique,4,14,5,null,32690
+VOLKSWAGEN,null,2021,15285,Diesel,null,null,Automatique,4,8,5,null,39690
+Peugeot,208 PureTech 110ch S&S EAT6 Tech Edition,2019,25200,Essence,112,4.9,Automatique,4,6,5,null,16490
+VOLKSWAGEN,null,2020,18732,Essence,null,null,Automatique,4,8,5,null,30690
+VOLKSWAGEN,null,2020,52073,Diesel,null,null,Automatique,4,8,7,null,37690
+PEUGEOT,null,2018,35913,Essence,null,null,Automatique,4,9,5,null,27690
+BMW,null,2017,60615,Diesel,null,null,Automatique,4,10,5,null,28490
+CITROEN,null,2020,9731,Diesel,null,null,Manuelle,4,5,5,null,18990
+PEUGEOT,null,2018,35274,Diesel,null,null,Automatique,4,9,5,null,29990
+BMW,null,2018,85204,Essence,null,null,Manuelle,4,6,5,null,18490
+PEUGEOT,null,2018,37570,Essence,null,null,Manuelle,4,4,5,null,10490
+PEUGEOT,null,2018,28287,Essence,null,null,Automatique,4,7,7,null,28900
+PEUGEOT,null,2019,83888,Diesel,null,null,Automatique,4,6,5,null,21490
+VOLKSWAGEN,null,2020,27152,Diesel,null,null,Automatique,4,8,5,null,27290
+PEUGEOT,null,2020,25484,Essence,null,null,Manuelle,4,7,5,null,27790
+PEUGEOT,null,2019,52500,Diesel,null,null,Automatique,4,8,5,null,28990
+Citroën,C1 VTi 72 S&S Feel,null,35500,Essence,null,null,Manuelle,2,4,4,null,9300
+Ford,S-MAX 2.0 TDCi 140 DPF Titanium,2006,230000,Diesel,159,6.0,Manuelle,4,8,7,33240,4700
+Citroën,C3 PureTech 110 S&S EAT6 Shine,2020,20100,Essence,105,4.8,Automatique,4,5,5,91070,12400
+Mini,Mini Cooper 136 ch,2017,58000,Essence,105,4.5,Manuelle,2,7,4,70220,17800
+Kia,Sportage 1.7 CRDi 141 ISG 4x2 DCT7 GT Line Pack Premium,2018,35000,Diesel,129,4.9,Automatique,4,7,5,30000,23000
+BMW,X3 xDrive20d 190ch Business A,2016,101000,Diesel,129,4.9,Automatique,4,10,5,39400,21800
+Seat,Ibiza SC 1.2 TSI 90 ch Connect,2016,115000,Essence,116,4.9,Manuelle,2,5,5,77590,8000
+Citroën,C5 HDi 160 FAP Confort,2010,102679,Diesel,147,5.6,Manuelle,4,9,5,24510,8900
+Fiat,500X 1.6 110 ch Popstar,2015,70000,Essence,139,6.0,Manuelle,4,7,5,13510,10000
+Volkswagen,Golf 1.6 TDI 115 BlueMotion Technology FAP DSG7 Confortline,2018,77637,Diesel,102,3.9,Semi automatique,4,6,5,67100,16900
+Peugeot,3008 1.2 Puretech 130ch S&S BVM6 Crossway,2018,69000,Essence,124,5.5,Manuelle,4,7,5,14610,21800
+Jaguar,XJS-C V12 A,1986,119000,Essence,null,null,Automatique,2,31,2,19360,25900
+Land-Rover,DEFENDER 110 CREW CAB MARK VI E,2015,55000,Diesel,295,11.1,Manuelle,4,7,7,74370,65900
+MG,MG F 1.8i,1997,215000,Essence,null,7.6,Manuelle,2,9,2,37800,5450
+BMW,116d 116 ch Sport,2015,132000,Diesel,104,4.0,Manuelle,4,6,5,74100,14400
+LAND-ROVER,Equipé RAID Cambre de toit,2010,84000,Diesel,295,10,Manuelle,4,null,2,01310,42000
+Mercedes,Classe A 200 7G-DCT AMG Line,2018,32500,Essence,118,5.2,Automatique,4,8,5,86440,32000
+Porsche,Macan 3.0 V6 340 ch S PDK,2015,106000,Essence,212,9.0,Semi automatique,4,23,5,01500,47600
+BMW,640d Gran Coupé 313ch 146g Excellis A,2013,155200,Diesel,146,5.5,Automatique,4,20,5,44117,26000
+Toyota,HILUX X-TRA CAB 4WD 2.4L 150 D-4D LECAP,2020,25000,Diesel,185,null,Manuelle,2,8,4,83700,36000
+Opel,Corsa 1.2 Turbo 100 ch BVA8 Edition,2021,1760,Essence,null,null,Automatique,4,5,5,70000,19900
+Mercedes,Classe S 500 L 4-Matic A,2007,230000,Essence,291,12.2,Automatique,4,30,5,vendeur,16500
+Peugeot,Garantie 3 mois / diesel,2012,196000,Diesel,null,null,Manuelle,5,6,5,null,5370
+Citroen,SPORT  156 CV,2011,82300,Essence,null,null,Manuelle,2,8,null,null,8990
+Renault,gt line pack dci 110 grise GARANTIE,2014,115000,Diesel,null,null,Manuelle,5,5,null,null,8990
+Audi,avant 2.0 tdi dpf - 143,2012,130000,Diesel,null,null,Manuelle,5,7,5,null,11500
+SUZUKI,Swift 1.6 Sport,2008,103700,Essence,171,7.1,Manuelle,2,8,4,null,5990
+Renault,BUSINESS dCi 90 Energy eco²,2016,176700,Diesel,null,null,Manuelle,4,4,5,null,7900
+Hyundai,2.0 CRDi 4WD 149 Pack Executive,2009,143000,Diesel,null,null,Manuelle,4,9,5,null,7990
+Peugeot,108 1.0 VTi 68ch BVM5 Active,2018,30000,Essence,null,null,Manuelle,4,4,4,null,8990
+Fiat,1.2 69 ch S/S Ligue 1 Conforama,2019,24500,Essence,null,null,Manuelle,4,4,5,null,8990
+Renault,III dCi 110 Energy FAP eco2 GT LINE,2013,98500,Diesel,null,null,Manuelle,2,5,5,null,9500
+Renault,III TCe 130 Energy Bose Edition,2016,98000,Essence,null,null,Manuelle,4,7,5,null,10990
+Renault,IV BERLINE BUSINESS dCi 110 Energy,2017,100800,Diesel,null,null,Manuelle,4,5,5,null,11490
+FORD,null,2017,41800,Essence,null,null,Manuelle,4,null,null,null,11490
+AUDI,null,2012,154500,Diesel,null,null,Manuelle,4,null,null,null,12490
+PEUGEOT,null,2017,136500,Diesel,null,null,Automatique,4,null,null,null,12490
+VOLKSWAGEN,Coccinelle 1.4 TSI 160 Série Spéciale Fender Edition,2012,110800,Essence,153,6.6,Manuelle,2,9,4,null,12490
+RENAULT,null,2016,58800,Diesel,null,null,Manuelle,4,null,null,null,13490
+Mercedes,ML 280 CDI A,2007,139000,Diesel,249,9.4,Automatique,4,13,5,null,13900
+AUDI,A1 Sportback 1.4 TDI 90 Ambition Luxe,2016,110800,Diesel,98,3.7,Manuelle,4,4,4,null,13990
+RENAULT,Mégane IV Berline dCi 130 Energy Intens,2017,65900,Diesel,103,4.0,Manuelle,4,6,5,null,14890
+NISSAN,null,2018,57300,Essence,null,null,Automatique,4,null,null,null,14990
+CITROEN,null,2018,33200,Essence,null,null,Manuelle,4,null,null,null,14990
+Peugeot,2008 PureTech 130ch S&S BVM6 Crossway,2019,67500,Essence,null,null,Manuelle,4,7,5,null,15490
+BMW,F20 LCI 116d 116 ch Business A,2017,108000,Diesel,null,null,Automatique,4,5,5,null,15990
+PEUGEOT,null,2018,56500,Diesel,null,null,Manuelle,4,null,null,null,15990
+Volkswagen,Golf 2.0 TSI 270 R 4Motion DSG6,2010,128500,Essence,195,8.4,Semi automatique,4,17,5,null,18490
+BMW,COUPE F32 Coupé 420d 184 ch Luxury,2013,80000,Diesel,null,null,Manuelle,2,10,4,null,18990
+Ford,2.0 TDCi 150 S&S 4x2 BVM6 ST-Line,2017,96500,Diesel,null,null,Manuelle,4,8,5,null,19490
+Volkswagen,2.0 TSI 265 R,2012,86000,Essence,189,8.1,Manuelle,2,17,4,null,19990
+AUDI,A3 Sportback 2.0 TDI 150 S tronic 6 S Line,2016,90000,Diesel,120,4.6,Semi automatique,4,8,5,null,23490
+Mercedes,BERLINE 180 BM6 Style Line,2019,25500,Essence,null,null,Manuelle,4,7,5,null,24990
+AUDI,Q5 2.0 TDI Clean Diesel 190 Quattro S Line S tronic 7,2014,108000,Diesel,154,5.9,Semi automatique,4,11,5,null,25990
+Volvo,BUSINESS D3 AdBlue 150 ch Geartronic 8,2019,87000,Diesel,131,4.8,Automatique,4,8,5,null,28500
+Mercedes,220 d 7-G DCT 4-Matic Fascination,2017,53500,Diesel,null,null,Automatique,4,9,5,null,29990
+MERCEDES,Classe C Coupé 220 d 9G-Tronic Sportline,2016,65000,Diesel,124,4.7,Automatique,2,9,4,null,30990
+Audi,2.0 TDI 190 S tronic 7 Quattro Design,2018,116500,Diesel,null,null,Automatique,4,10,5,null,32490
+BMW,F20 LCI M140i xDrive 340 ch A,2016,76500,Essence,169,7.4,Automatique,4,23,5,null,35990
+BMW,GRAN COUPE F36 LCI2 Coupé 430d xDrive 258 ch BVA8 M Sport,2019,69500,Diesel,null,null,Automatique,4,15,5,null,38900
+LAND,null,2018,43500,Hybride,null,null,Automatique,4,null,null,null,74990
+BMW,630Ci,2005,219997,Essence,216,9,null,2,17,4,null,13900
+CITROEN,2.0 PALLAS,1978,24000,Essence,null,null,null,4,11,5,null,13900
+BMW,2.0i,2000,135000,Essence,null,9.1,null,2,10,2,null,14900
+MERCEDES,S500 A,2001,82000,Essence,285,11.9,null,4,22,5,null,17900
+BUGGY,1600,1997,23434,Essence,null,null,null,2,6,2,null,23900
+PORSCHE,TURBO,1987,168640,Essence,null,null,null,2,12,4,null,24900
+BMW,528I,1979,112600,Essence,null,null,null,4,16,5,null,24900
+FIAT,110F GAMINE,1968,18726,Essence,null,null,null,2,3,2,null,32900
+PORSCHE,3.4i S 295 ch CABRIOLET,2008,89820,Essence,254,10.6,null,2,21,2,null,32900
+BMW,635CSi,1985,68964,Essence,null,null,null,2,20,4,null,33900
+LAND,Station Wagon E,2007,107700,Diesel,291,11.1,null,4,10,7,null,34900
+MASERATI,GT,2002,82200,Essence,435,18.6,null,2,33,4,null,37900
+PORSCHE,3.0i - CS,1994,128461,Essence,null,null,null,2,17,4,null,37900
+TRIUMPH,HARDTOP,1962,98000,Essence,null,null,null,null,11,null,null,39900
+TRIUMPH,OVERDRIVE,1958,9000,Essence,null,null,null,2,11,2,null,39900
+PORSCHE,2.5 TURBO,1992,194830,Essence,null,null,null,2,11,4,null,39900
+JAGUAR,3.8 OVERDRIVE,1961,5191,Essence,null,null,null,4,22,5,null,46900
+BMW,M 343,2007,66000,Essence,292,12.1,null,2,25,2,null,53900
+PORSCHE,(964) Cabriolet Carrera 2  tiptronic,1990,95000,Essence,null,null,null,2,22,4,null,56900
+BMW,2.5,1990,37011,Essence,null,null,null,2,13,2,null,62900
+ALFA,SPIDER 1600,1965,28000,Essence,null,null,null,2,9,2,null,69900
+FERRARI,M GT 5.5 V12 440,2001,73672,Essence,null,21.6,null,2,40,4,null,74900
+ALFA,TOURING,1960,22615,Essence,null,null,null,2,11,3,null,99900
+MERCEDES,500 4 MATIC BERLINE LONG,2020,500,Essence,null,null,null,4,22,5,null,156900
+PORSCHE,SPEEDSTER 3.2 TURBO LOOK,1989,72000,Essence,null,null,null,2,17,2,null,259000
+FORD,Fiesta 1.25 Duratec Senso,2007,125000,Essence,null,5.80,Manuelle,4,5,5,null,2999
+VOLVO,C30 1.6D 110 Summum,2008,199800,Diesel,null,4.90,Manuelle,2,6,4,null,3499
+RENAULT,Clio 1.2 60 eco2 Dynamique,2010,72000,Essence,143,5.9,Manuelle,4,4,5,null,4499
+RENAULT,Clio III Tce 100 eco2 Exception Euro 5,2010,105000,Essence,137,5.8,Manuelle,4,6,5,null,5499
+VOLKSWAGEN,New Beetle Cab 1.6i 102 ch United,2008,145000,Essence,185,7.7,Manuelle,2,7,4,null,6499
+DACIA,Lodgy 1.2 TCe 115 7 places Prestige,2013,115000,Essence,140,6.2,Manuelle,4,6,7,null,6999
+CITROEN,C8 HDi 160 FAP Exclusive,2011,145000,Diesel,155,5.9,Manuelle,4,9,8,null,6999
+KIA,1.0L 66 ch Active,2016,25942,Essence,null,null,Manuelle,2,4,5,null,8980
+RENAULT,Clio TCe 90 E6C Limited,2019,29000,Essence,113,5.0,Manuelle,4,5,5,null,11999
+RENAULT,Clio dCi 90 E6C Zen,2019,34999,Diesel,null,null,Manuelle,5,5,5,null,12980
+RENAULT,Clio dCi 90 E6C Business,2019,21096,Diesel,null,null,Manuelle,5,5,5,null,12980
+RENAULT,R90 City,2019,12020,null,null,null,Automatique,5,1,5,null,13300
+RENAULT,dCi 90 Energy ecoé Intens,2016,68820,Diesel,null,null,Manuelle,5,null,5,null,13780
+DACIA,Blue dCi 95 SL Techroad,2019,17636,Diesel,103,3.9,Manuelle,5,5,5,null,14480
+RENAULT,TCe 90 - 19 Zen,2019,21134,Essence,null,null,Manuelle,5,5,5,null,14780
+RENAULT,Clio dCi 90 E6C EDC Business,2019,20159,Diesel,null,null,Automatique,5,4,5,null,14980
+RENAULT,Mégane IV Berline Blue dCi 95 Life,2019,12659,Diesel,null,null,Manuelle,5,5,5,null,14980
+RENAULT,TCe 90 - 19 Zen,2019,15873,Essence,null,null,Manuelle,5,5,5,null,14980
+RENAULT,TCe 90 Zen,2019,18928,Essence,null,null,Manuelle,5,5,5,null,14980
+DACIA,TCe 90 Stepway Confort,2021,21270,Essence,null,null,Manuelle,5,null,5,null,15380
+RENAULT,TCe 90 - 19 Zen,2019,14803,Essence,null,null,Manuelle,5,null,5,null,15380
+RENAULT,Clio Blue dCi 85 Business,2020,17179,Diesel,null,null,Manuelle,5,4,5,null,15380
+RENAULT,TCe 90 - 19 Zen,2019,10801,Essence,null,null,Manuelle,5,null,5,null,15480
+DACIA,TCe 90 Stepway Confort,2021,8182,Essence,null,null,Manuelle,5,null,5,null,16380
+DACIA,dCi 110 4x2 Prestige,2018,43796,Diesel,null,null,Manuelle,5,6,5,null,16380
+PEUGEOT,1.2 PureTech 110ch S-amp;S EAT6 GT Line,2018,68843,Essence,null,null,Automatique,5,6,5,null,16480
+DACIA,Blue dCi 115 4x2 Prestige,2018,34432,Diesel,null,null,Manuelle,5,6,5,null,16980
+RENAULT,Kadjar dCi 110 Energy ecoé EDC Business,2016,20490,Diesel,null,null,Automatique,5,5,5,null,17780
+RENAULT,Mégane IV Berline Blue dCi 115 EDC Intens,2019,32564,Diesel,null,null,Automatique,5,6,5,null,18980
+RENAULT,TCe 140 FAP Intens,2019,29461,Essence,null,null,Manuelle,5,null,5,null,20480
+RENAULT,Blue dCi 115 Intens,2019,20478,Diesel,null,null,Manuelle,5,6,5,null,20780
+RENAULT,Blue dCi 115 Intens,2019,25000,Diesel,null,null,Manuelle,5,6,5,null,20980
+PEUGEOT,1.2 PureTech 130 ch E6.c GT Line,2018,45000,Essence,null,null,Manuelle,5,7,null,null,22990
+RENAULT,Scenic Blue dCi 120 Intens,2021,9000,Diesel,null,null,Manuelle,5,6,5,null,25980
+LAND,Range Rover Mark I SDV8 4.4L Vogue A,2013,199800,Diesel,229,8.7,Automatique,4,24,5,null,33999
+JAGUAR,X-Type 2.2 D Executive,2007,214000,Diesel,159,6.0,Manuelle,4,9,5,null,5490
+RENAULT,Mégane III Coupé TCE 180 Dynamique,2009,118000,Essence,178,7.6,Manuelle,2,11,5,null,7390
+PEUGEOT,1.6 HDI 115cH ALLURE 7Pl,2015,178000,Diesel,128,4.9,Manuelle,4,6,7,null,7490
+SKODA,Fabia 1.0 MPI 60 ch BVM5 Edition,2019,28320,Essence,105,4.7,Manuelle,4,3,5,null,11390
+PEUGEOT,208 1.6 THP 200ch BVM6 GTi,2013,120000,Essence,139,5.9,Manuelle,2,11,5,null,11490
+MERCEDES,Classe E Coupé 220 CDI BlueEfficiency A,2010,159900,Diesel,163,6.2,Automatique,2,10,4,null,12990
+MERCEDES,Classe B 200 CDI BlueEFFICIENCY Fascination,2012,145000,Diesel,121,4.6,Manuelle,4,7,5,null,12999
+RENAULT,Grand Scénic dCi 130 Energy FAP eco2 Bose Edition 7 pl,2015,39900,Diesel,114,4.4,Manuelle,4,7,7,null,14499
+KIA,Optima 2.0 Hybrid A,2014,92400,Hybride,119,5.1,Automatique,4,8,5,null,14999
+AUDI,A7 Sportback V6 3.0 TDI 204 Ambition Luxe Multitronic 8 A,2011,180000,Diesel,135,5.1,Automatique,4,11,4,null,15990
+HYUNDAI,Tucson 1.7 CRDi 141 2WD DCT-7 Executive,2017,98000,Diesel,129,4.9,Semi automatique,4,7,5,null,22290
+VOLKSWAGEN,1.5 TSI EVO 150ch Carat DSG7 LED,2018,32000,Essence,null,null,Automatique,5,8,null,null,24990
+MERCEDES,Classe A 45 Mercedes-AMG A Speedshift DCT 4-Matic,2016,56000,Essence,162,6.9,Automatique,4,26,5,null,37990
+Ford,V8 gt,2008,155890,Essence,null,null,Automatique,2,null,null,null,null
+TOYOTA,null,2004,150000,Essence,null,null,Manuelle,2,null,null,null,2990
+PEUGEOT,null,2004,185000,Essence,null,null,Manuelle,2,null,null,null,2990
+PEUGEOT,null,2005,125000,Essence,null,null,Manuelle,4,null,null,null,3390
+RENAULT,null,2008,145000,Diesel,null,null,Manuelle,2,null,null,null,3690
+TOYOTA,null,2006,170000,Diesel,null,null,Semi automatique,4,null,null,null,3990
+RENAULT,Laguna III 2.0 dCi 150 FAP Dynamique A,2007,200000,Diesel,185,7.0,Automatique,4,9,5,null,4490
+CITROËN,C4 1.6i 16V 110 Pack Ambiance A,2005,91000,Essence,180,7.6,Automatique,4,7,5,null,4490
+PEUGEOT,null,2006,76000,Essence,null,null,Manuelle,4,null,null,null,4990
+DACIA,Sandero 1.5 dCi 90 FAP Stepway 2,2013,150000,Diesel,130,5.0,Manuelle,4,5,5,null,5500
+RENAULT,null,2010,150000,Diesel,null,null,Automatique,4,null,null,null,5990
+CITROËN,C4 Picasso e-HDi 110 Airdream Exclusive BMP6,2012,168000,Diesel,120,null,Manuelle,4,6,5,null,5990
+RENAULT,null,2011,200000,Diesel,null,null,Manuelle,4,null,null,null,5990
+Citroën,PACK CLIM AIR DREAM,2008,77510,Diesel,115,null,Manuelle,5,4,5,null,5990
+PEUGEOT,null,2012,185000,Diesel,null,null,Manuelle,4,null,null,null,6490
+PEUGEOT,null,2015,224000,Diesel,null,null,Manuelle,4,null,null,null,6750
+HYUNDAI,null,2012,97000,Essence,null,null,Manuelle,4,null,null,null,6990
+Kia,1.0L ACTIVE,2015,98080,Essence,99,null,Manuelle,2,4,5,null,6990
+RENAULT,null,2015,78000,Essence,null,null,Manuelle,4,null,null,null,6990
+Peugeot,Premium 207 1.4 VTi 16V 95ch,2008,93090,Essence,145,null,Manuelle,5,6,5,null,6990
+Peugeot,PREMIUM PACK,2007,87580,Diesel,120,null,Manuelle,5,5,5,null,6990
+OPEL,null,2013,188000,Diesel,null,null,Manuelle,4,null,null,null,6990
+VOLKSWAGEN,null,2009,184000,Diesel,null,null,Manuelle,4,null,null,null,6990
+PEUGEOT,null,2012,144000,Diesel,null,null,Manuelle,4,null,null,null,7490
+PEUGEOT,null,2013,181000,Diesel,null,null,Manuelle,4,null,null,null,7490
+SEAT,null,2014,74000,Essence,null,null,Manuelle,4,null,null,null,7990
+Peugeot,Premium 207 SW 1.6 VTi 16V 120ch,2009,87974,Essence,150,null,Manuelle,5,7,5,null,7990
+Dacia,1.2 TCe 115 Lauréate 5 places,2013,97940,Essence,135,null,Manuelle,5,6,5,null,7990
+Dacia,Silver Line Lodgy 1.2 TCe 116 5 places,2013,116610,Essence,135,null,Manuelle,5,6,5,null,7990
+CITROËN,C4 VTi 120 Exclusive,2012,81000,Essence,143,6.2,Manuelle,4,7,5,null,8250
+Nissan,2.0 DCI 150 FAP 8CV TEKNA,2011,138105,Diesel,155,null,Manuelle,5,8,5,null,8980
+MINI,Mini 1.6i - 175 Cooper S A,2008,142000,Essence,165,6.9,Automatique,2,10,4,null,8990
+BMW,null,2007,141000,Diesel,null,null,Automatique,4,null,null,null,8990
+Renault,INITIAL 140,2021,3959,null,136,null,Automatique,5,7,5,null,24990
+Volvo,II D5 AWD 235ch Inscription Geartronic,2018,149725,Diesel,142,null,Automatique,5,14,5,null,27990
+Jeep,3.6 V6 284 Sahara BVA,2015,130000,Essence,256,null,Automatique,2,21,2,null,34990
+Audi,2.0 TFSI 310 cv QUATTRO SPORTBACK Bvm6,2016,68000,Essence,162,7.0,Manuelle,4,20,5,null,37990
+MINI,D 112 ch Cooper A,2013,138940,Diesel,138,5.2,null,2,6,4,null,10900
+OPEL,1.2 Turbo 110 ch ECOTEC Innovation,2018,58791,Essence,111,4.9,null,4,6,5,null,12900
+FIAT,1.0 70 ch Hybride BSG S/S Star,2020,4501,Essence,119,3.9,null,2,4,4,null,13500
+RENAULT,TCe 100 Energy Business,2018,37726,Essence,120,5.4,null,4,5,5,null,13900
+RENAULT,Business Blue dCi 115,2019,78567,Diesel,102,4.3,null,4,6,5,null,14500
+DACIA,Blue dCi 115 4x2 Confort,2018,13193,Diesel,115,4.4,null,4,6,5,null,15500
+RENAULT,Blue dCi 115 Business,2020,24854,Diesel,102,4.3,null,4,6,5,null,15900
+BMW,Gran Coupe 418d 150 ch Sport,2016,142175,Diesel,118,4.5,null,4,7,5,null,15900
+PEUGEOT,ALLURE BLUE HDI 100CV,2020,48900,Diesel,null,null,Manuelle,5,5,null,null,16990
+CITROEN,PureTech 110 S&S BVM6 Origins,2020,14198,Essence,null,null,null,4,5,5,null,16990
+RENAULT,TCe 140 FAP Business,2020,44481,Essence,122,5.7,null,4,7,5,null,17900
+RENAULT,Zen Blue dCi 120,2019,63053,Diesel,127,4.8,null,4,6,7,null,17900
+PEUGEOT,1.2 PURETECH 130CH E6.3 S&S ACTIVE,2019,19563,Essence,103,4.6,null,4,6,5,null,18900
+FORD,1.5 L EcoBoost Trend 120 cv bvm6 4x2,2019,69501,Essence,156,6.9,null,4,7,5,null,18900
+RENAULT,Business Intens Blue dCi 120 EDC 7 Places,2019,83321,Diesel,126,4.8,null,4,6,7,null,19500
+PEUGEOT,Allure PureTech 130 S&S BVM6,2019,52439,Essence,118,5.1,null,4,7,5,null,20400
+PEUGEOT,PureTech 130ch S&S EAT8 GT Line,2018,28662,Essence,124,5.4,null,4,7,5,null,20490
+PEUGEOT,ALLURE PACK PURETECH 130CV EAT8,2021,23659,Essence,137,null,null,4,7,5,null,21900
+RENAULT,TCe 140 FAP EDC Black Edition,2019,23582,Essence,133,5.8,null,4,7,5,null,21990
+OPEL,1.2 Turbo 130 ch BVM6 Ultimate,2021,1267,Essence,133,null,null,4,7,5,null,22900
+PEUGEOT,1.5 GT LINE BLUEHDI 130 EAT8 S&S,2020,63750,Diesel,102,4,null,4,6,5,null,24900
+BMW,Touring 530d xDrive 258 ch Executive A,2016,96274,Diesel,149,5.7,null,4,15,5,null,26900
+MERCEDES,180 7G-DCT Style Line,2019,10182,Essence,122,5.3,null,4,7,5,null,27900
+PEUGEOT,130CV HDI EAT8 ALLURE PACK,2021,7791,Diesel,128,null,null,4,7,5,null,33900
+VOLKSWAGEN,2.0 TDI 150 ch Carat Exclusive,2019,59500,Diesel,null,null,Automatique,5,8,null,null,31490
+RENAULT,EXPRESS DCI 90 GRAND CONFORT 2019,2019,111217,Diesel,null,null,Manuelle,null,5,null,null,10800
+Nissan,I (F15) 1.5 dCi 110ch N-Connecta,2018,99900,Diesel,107,null,Manuelle,5,5,5,null,11990
+Mercedes-Benz,III  160 CDI Intuition,2015,138000,Diesel,98,null,Manuelle,5,4,5,null,13490
+Nissan,I (F15) 1.2 DIG-T 115ch N-Connecta,2018,52000,Essence,128,null,Manuelle,5,6,5,null,13990
+BMW,VI (F30) 320dA 184ch Sport,2012,115000,Diesel,118,null,Automatique,4,10,5,null,14990
+Mini,II (F56) Cooper Chili BVA,2016,75000,Diesel,99,null,Automatique,5,6,5,null,15590
+Audi,Sportback TSI 125cv Ambition luxe,2015,82000,Essence,117,null,Manuelle,5,6,5,null,16290
+Nissan,1.6 dCi 130ch Tekna 7 places,2016,113000,Diesel,139,null,Automatique,5,7,7,null,16490
+Citroën,Intensive EAT6 7pl,2015,63000,Diesel,null,null,Automatique,5,8,7,null,16690
+Nissan,1.6 dCi 130ch 4X4 Toit ouvrant,2016,51000,Diesel,139,null,Manuelle,5,7,5,null,16690
+Abarth,1.4 Turbo T-Jet 165ch 595 Turismo,2017,44500,Essence,139,null,Manuelle,2,9,4,null,17390
+Audi,III 1.4 TFSI 140ch COD S Line,2014,102000,Essence,112,null,Manuelle,5,7,5,null,17390
+Suzuki,Boosterjet Hybrid 129ch Style,2020,26000,null,128,null,Manuelle,5,7,5,null,18590
+Seat,1.0 115cv FR 1er main 14000km,2020,14000,Essence,136,null,Automatique,5,6,5,null,19990
+Peugeot,1.2 100CV STYLE EAT8 369/MOIS,2021,13000,Essence,122,null,Automatique,5,5,5,null,19990
+Lexus,III 300h Executive,2014,115000,null,109,null,Automatique,4,9,5,null,20990
+Renault,TCE 160cv GT LINE EDC Toit ouvrant,2020,22500,Essence,127,null,Automatique,5,8,5,null,21790
+BMW,II (F25) xDrive35dA 313ch Luxe,2013,135000,Diesel,162,null,Automatique,5,20,5,null,22990
+Volkswagen,VI 2.0 TSI 270 R 4Motion DSG6 5p,2011,138264,Essence,195,8.4,Automatique,5,17,5,null,23490
+Volkswagen,VI 2.0 TSI 270 R 4Motion DSG6 5p,2010,108500,Essence,195,8.4,Automatique,5,17,5,null,23490
+Mercedes-Benz,220 CDI Executive Edition,2018,80500,Diesel,138,null,Automatique,5,9,5,null,25990
+Volkswagen,II 1.4 TSI 150ch ACT Carat DSG6,2017,62000,Essence,140,null,Automatique,5,8,5,null,30490
+Seat,CUPRA 290 Toit Ouvrant,2019,41000,Essence,146,null,Automatique,5,18,5,null,31990
+Audi,2.5 TFSI 360ch Plus quattro S tronic 7,2014,112000,Essence,197,8.5,Automatique,2,25,4,null,35990
+Porsche,II (970) S E-Hybrid,2014,110000,null,71,null,Automatique,5,20,4,null,45990
+Mercedes-Benz,320 CDI Cabriolet 7GTro,2007,99000,Diesel,291,null,Automatique,2,16,4,null,125990
+Citroen,VTi 120 Airdream So Chic,2010,131200,Essence,136,5.9,Manuelle,2,7,5,null,6300
+KIA,1.7CRDi 115CV ACTIVE TOIT PANORAMIQUE,2013,159500,Diesel,null,null,Manuelle,5,6,null,null,9490
+Ds,1.6 bluehdi s&s - 120ch 110439Km,2015,110400,Diesel,null,null,Manuelle,5,6,5,null,9900
+Peugeot,1.7 Xad 06/1997 209 730km Distri ok,1997,209722,Diesel,null,null,Manuelle,2,5,5,null,1490
+Bmw,530d bva e60 pack luxe 279 825km,2003,279821,Diesel,null,null,Automatique,5,14,5,null,4990
+Dacia,1.5 dci 90Ch Mcv 1ére main 159 682km,2015,159665,Diesel,null,null,Manuelle,5,4,5,null,5990
+Mercedes,coupé cdi 220 pack amg 210 051km,2012,210048,Diesel,null,null,Automatique,2,9,4,null,11990
+Mini,CLUBMAN JCW 306 ALL4 / TVA / 1ERE MAIN,2020,6573,Essence,null,null,Automatique,5,19,5,null,45970
+FORD,1.6 TDCi 115 S&S FAP Trend,2012,141025,Diesel,139,5.2,null,4,6,5,null,8900
+CITROEN,PURETECH 82 SHINE,2019,39932,Essence,113,4.9,null,4,4,5,null,9500
+PEUGEOT,1.6 BlueHDi 100ch Allure Business S&S 5p,2017,100123,Diesel,79,3,null,4,4,5,null,11400
+CITROEN,PureTech 82ch Feel Business S&S E6.d-TEMP,2019,40894,Essence,108,5,null,4,4,5,null,12900
+RENAULT,Intens dCi 90 EDC,2019,47154,Diesel,105,3.9,null,4,5,5,null,13200
+FORD,ST LINE 1.0 EBOOST 95CH M6,2020,44314,Essence,115,4.1,null,4,5,5,null,13500
+PEUGEOT,1.5 BlueHDi 130ch S&S Active Business,2018,110732,Diesel,92,3.5,null,4,6,5,null,13800
+PEUGEOT,1.6 BlueHDi 120ch S&S Active,2018,85606,Diesel,85,3.2,null,4,5,5,null,13900
+FORD,1.5 EcoBlue 95ch Trend Business,2019,90975,Diesel,89,3.5,null,4,4,5,null,14200
+SEAT,1.6 TDI 115 Start/Stop BVM5 Style,2020,37031,Diesel,95,4,null,4,6,5,null,14900
+PEUGEOT,BlueHDi 130ch S&S EAT8 Active business,2018,99312,Diesel,93,3.6,null,4,6,5,null,14900
+CITROEN,BlueHDi 100 Feel Business,2018,36382,Diesel,97,4,null,4,5,5,null,16400
+RENAULT,Business Blue dCi 115,2020,59177,Diesel,122,3.9,null,4,6,5,null,17600
+RENAULT,Life Blue dCi 120,2019,56587,Diesel,127,4.8,null,4,6,7,null,17900
+FORD,2.0 TDCI 150CH TITANIUM POWERSHIT,2018,53266,Diesel,129,5.4,null,4,8,5,null,17900
+RENAULT,TCe 160 FAP Initiale Paris,2019,44810,Essence,136,6,null,4,9,5,null,18900
+RENAULT,Intens Energy dCi 160 EDC,2018,63630,Diesel,118,4.5,null,4,8,5,null,18900
+RENAULT,Blue dCi 120 ZEN 7 PLACES,2020,43269,Diesel,null,null,null,4,6,7,null,20800
+CITROEN,PureTech 130 S&S FEEL,2019,44196,Essence,118,5.3,null,4,7,5,null,21400
+PEUGEOT,PureTech 130ch S&S EAT8 ACTIVE Pack - 5P,2021,24978,Essence,137,null,null,4,7,5,null,21900
+PEUGEOT,PureTech 130 S&S BVM6 GT Line,2020,18409,Essence,102,4.5,null,4,7,5,null,22900
+PEUGEOT,1.2 PURETECH 130CH E6.C S&S GT LINE EAT8,2019,35757,Essence,117,5.1,null,4,7,5,null,23900
+BMW,sDrive18dA 150ch xLine,2017,43931,Diesel,132,5,null,4,8,5,null,32400
+PEUGEOT,1.4 HDi 68ch BVM5 Active,2014,114503,Diesel,98,3.8,null,2,4,5,null,7900
+PEUGEOT,1.6 BlueHDi 100ch BVM5 Active,2017,113249,Diesel,90,3.5,null,4,5,5,null,8900
+KIA,1.6 CRDi 128 ch L,2015,125095,Diesel,132,5,null,4,7,5,null,9500
+RENAULT,Business Energy dCi 75,2016,42298,Diesel,85,3.3,null,4,4,5,null,10500
+MERCEDES,180 CDI BlueEFFICIENCY Design,2013,123734,Diesel,114,4.4,null,4,6,5,null,10500
+VOLKSWAGEN,1.0 75 Trendline,2016,8978,Essence,116,5.1,null,2,4,5,null,10900
+PEUGEOT,BlueHDi 100ch BVM6 GT Line,2018,116173,Diesel,95,null,null,4,5,5,null,11500
+SKODA,1.0 MPI 60 ch BVM5 Edition,2020,8683,Essence,null,null,null,4,4,5,null,11900
+PEUGEOT,1.2 PureTech 110ch S&S BVM5 Style,2017,10792,Essence,105,4,null,4,5,5,null,15900
+PEUGEOT,2.0 BlueHDi 150ch S&S BVM6 Feline,2015,76161,Diesel,null,null,null,4,7,5,null,16800
+RENAULT,Business Energy dCi 110 EDC,2018,64522,Diesel,104,4,null,4,5,5,null,16950
+RENAULT,Intens Blue dCi 120 EDC,2019,102859,Diesel,126,4.8,null,4,6,5,null,17900
+RENAULT,Intens Energy dCi 130,2016,29822,Diesel,103,4,null,4,6,5,null,17900
+RENAULT,Life Blue dCi 120,2019,51235,Diesel,127,4.8,null,4,6,5,null,18400
+RENAULT,Zen Blue dCi 120,2019,45146,Diesel,127,4.8,null,4,6,7,null,19400
+PEUGEOT,1.2 Puretech 130ch S&S BVM6 Allure,2018,49823,Essence,117,5.1,null,4,7,5,null,20900
+RENAULT,Business Blue dCi 120,2020,45304,Diesel,146,4.8,null,4,6,7,null,20900
+PEUGEOT,ACTIVE PACK PURETECH 130CV EAT8,2021,24451,Essence,null,null,null,4,7,5,null,21900
+NISSAN,DIG-T 117 N-Design,2020,6646,Essence,139,5,null,4,6,5,null,21900
+PEUGEOT,1.5 BlueHDi 130ch E6.c Active Business S&S,2019,77091,Diesel,111,4.1,null,4,7,7,null,22900
+PEUGEOT,Moteur electrique 136 ch GT Line,2020,18931,null,null,null,null,4,4,5,null,28900
+RENAULT,E-Tech Plug-in 160 Initiale Paris HYBRIDE RECHARGEABLE / TOI,2021,4655,null,30,null,null,4,5,5,null,31000
+PEUGEOT,130CV HDI EAT8 ALLURE PACK,2021,6440,Diesel,128,null,null,4,7,5,null,33900
+JEEP,1.3 GSE T4 240 ch PHEV AT6 4xe eAWD S,2020,8827,null,49,null,null,4,10,5,null,34990
+AUDI,50 TDI 286 Tiptronic 8 Quattro Design Luxe,2019,29124,Diesel,160,6.1,null,4,18,5,null,50900
+RENAULT,TCe 120 Energy Intens,2017,74494,Essence,null,null,Manuelle,5,6,5,null,12480
+RENAULT,Clio TCe 90 E6C Trend,2019,26265,Essence,null,null,Manuelle,5,null,5,null,12480
+RENAULT,Twingo III SCe 65 Zen,2021,6511,Essence,null,null,Manuelle,5,4,4,null,12780
+RENAULT,Twingo III TCe 95 Intens,2020,24520,Essence,null,null,Manuelle,5,5,4,null,12980
+OPEL,1.2 75 ch BVM5 Edition,2020,28305,Essence,93,4.1,Manuelle,5,4,5,null,13780
+RENAULT,Mégane IV Berline Blue dCi 95 Business,2019,37364,Diesel,null,null,Manuelle,5,null,5,null,14480
+RENAULT,Clio Blue dCi 85 Zen,2019,58134,Diesel,null,null,Manuelle,5,5,5,null,14480
+DACIA,dCi 110 4x2 Prestige,2018,80495,Diesel,null,null,Manuelle,5,6,5,null,14480
+DACIA,dCi 110 4x2 Black Touch 2017,2018,21983,Diesel,null,null,Manuelle,5,6,5,null,14980
+RENAULT,dCi 90 EDC Zen,2018,52302,Diesel,null,null,Automatique,5,5,5,null,14980
+RENAULT,dCi 90 Energy Intens,2017,39876,Diesel,null,null,Manuelle,5,4,5,null,14980
+RENAULT,Clio Blue dCi 85 Business,2019,33367,Diesel,null,null,Manuelle,5,5,5,null,14980
+RENAULT,Clio Blue dCi 85 Business,2019,28778,Diesel,null,null,Manuelle,5,5,5,null,15280
+RENAULT,Clio Blue dCi 85 Business,2019,22671,Diesel,null,null,Manuelle,5,5,5,null,15480
+RENAULT,Captur dCi 90 E6C EDC Business,2019,40153,Diesel,null,null,Automatique,5,5,5,null,15780
+RENAULT,TCe 120 Energy EDC Intens,2018,35211,Essence,null,null,Automatique,5,6,5,null,15980
+RENAULT,dCi 110 Energy ecoé Edition One,2016,56191,Diesel,null,null,Manuelle,5,5,5,null,15980
+DACIA,Blue dCi 115 4x2 Prestige,2018,30012,Diesel,null,null,Manuelle,5,6,5,null,16980
+RENAULT,TCe 150 FAP EDC Intens,2019,57646,Essence,null,null,Automatique,5,8,5,null,16980
+RENAULT,TCe 130 Energy Graphite,2018,45797,Essence,126,5.6,Manuelle,5,7,5,null,16980
+RENAULT,Kadjar dCi 110 Energy ecoé Business,2017,51460,Diesel,null,null,Manuelle,5,5,5,null,16980
+RENAULT,Mégane IV Berline Blue dCi 115 Business,2020,18558,Diesel,null,null,Manuelle,5,6,5,null,16980
+RENAULT,Grand Scénic dCi 110 Energy EDC Business 7 pl,2018,62291,Diesel,null,null,Automatique,5,null,7,null,17480
+FORD,1.5 EcoBlue 120 S-amp;S BVA8 Vignale,2019,50486,Diesel,null,null,Automatique,5,6,5,null,17980
+RENAULT,TCe 130 Energy Intens EDC,2018,55850,Essence,null,null,Automatique,5,7,5,null,17980
+RENAULT,Grand Scenic TCe 140 FAP Business,2019,73236,Essence,null,null,Manuelle,5,8,7,null,17980
+RENAULT,Mégane IV Berline TCe 140 FAP Limited,2019,23334,Essence,null,null,Manuelle,5,7,5,null,17980
+RENAULT,TCe 100 Intens,2019,41400,Essence,null,null,Manuelle,5,5,5,null,18280
+RENAULT,TCe 150 Energy EDC Initiale Paris,2018,17817,Essence,null,null,Automatique,5,8,5,null,18980
+RENAULT,Mégane IV Estate Blue dCi 115 - 20 Business,2020,47760,Diesel,null,null,Manuelle,5,6,5,null,18980
+RENAULT,Clio TCe 130 EDC FAP Intens,2019,26609,Essence,null,null,Automatique,5,7,5,null,18980
+RENAULT,dCi 130 Energy X-Tronic Intens,2018,47360,Diesel,null,null,Automatique,5,7,5,null,19480
+RENAULT,Mégane IV Berline Blue dCi 115 EDC Intens,2019,34150,Diesel,null,null,Automatique,5,6,5,null,19480
+RENAULT,Blue dCi 115 Intens,2019,37140,Diesel,null,null,Manuelle,5,6,5,null,19780
+RENAULT,Clio TCe 90 - 21 Intens,2021,3384,Essence,null,null,Manuelle,5,5,5,null,19980
+RENAULT,Clio E-Tech 140 Limited,2020,7393,null,null,null,Automatique,5,5,5,null,19980
+RENAULT,Grand Scénic dCi 160 Energy EDC Initiale Paris,2018,96450,Diesel,null,null,Automatique,5,8,7,null,20280
+RENAULT,Grand Scenic Blue dCi 120 Business Intens,2018,38826,Diesel,null,null,Manuelle,5,6,7,null,20480
+RENAULT,Mégane IV Berline Blue dCi 115 Business,2021,6970,Diesel,null,null,Manuelle,5,null,5,null,20980
+KIA,1.7 CRDi 141 ISG 4x2 DCT7 Premium,2018,68770,Diesel,null,null,Automatique,5,7,5,null,21980
+RENAULT,Grand Scenic Blue dCi 120 EDC Intens,2019,28882,Diesel,null,null,Automatique,5,6,7,null,22980
+RENAULT,Grand Scenic Blue dCi 120 EDC Intens,2020,39301,Diesel,null,null,Automatique,5,6,7,null,23280
+RENAULT,TCe 130 EDC FAP Intens,2020,14603,Essence,null,null,Automatique,5,7,5,null,23980
+PEUGEOT,1.6 BlueHDi 120ch S-amp;S EAT6 Crossway,2017,61821,Diesel,null,null,Automatique,5,6,5,null,24480
+RENAULT,Blue dCi 115 Business,2021,5787,Diesel,null,null,Manuelle,5,6,5,null,24480
+RENAULT,TCe 140 - 21 Intens,2021,7363,Essence,null,null,Manuelle,5,7,5,null,24980
+RENAULT,Grand Scenic TCe 140 FAP - 21 Intens,2021,3259,Essence,null,null,Manuelle,5,7,7,null,26480
+RENAULT,TCe 140 FAP EDC Intens,2021,7449,Essence,null,null,Automatique,5,7,5,null,26480
+RENAULT,E-Tech Plug-in 160 Intens,2021,5401,null,null,null,Automatique,5,5,5,null,29980
+FORD,Focus 1.6 TDCi 90 Trend,2005,199700,Diesel,124,4.7,Manuelle,4,5,5,null,2990
+RENAULT,Mégane CC 2.0 16V Confort Authentique,2003,215244,Essence,196,8.2,Manuelle,2,9,4,null,2990
+RENAULT,Modus 1.5 dCi 85 Confort Clim Dynamique,2006,185990,Diesel,119,4.5,Manuelle,4,5,5,null,3490
+PEUGEOT,207 1.4e 75ch Urban,2009,175300,Essence,147,6.4,Manuelle,2,5,5,null,4990
+FORD,C-MAX 1.8 TDCi - 115 Trend,2011,217200,Diesel,null,4.60,Manuelle,4,6,5,null,5490
+CITROEN,C4 HDi 110 FAP Collection,2011,154677,Diesel,119,4.6,Manuelle,4,6,5,null,6990
+VOLKSWAGEN,Golf 1.4 16S 80 Concept,2011,143789,Essence,149,6.4,Manuelle,4,5,5,null,8490
+CITROEN,2.0 HDi 140 FAP Millenium II 42 000 KM,2011,42100,Diesel,null,null,Manuelle,5,8,null,null,9990
+MINI,1.5 i 136 CV 3P Pack Chili,2015,70000,Essence,null,null,Manuelle,null,7,null,null,13490
+Opel,1.7 Cdti 130Ch Édition ecoflex,2013,157200,Diesel,null,null,Manuelle,5,7,5,null,7990
+Bmw,SERIE 1 (F21/F20) 116D 116CH,2011,137000,Diesel,null,null,Manuelle,5,6,5,null,10990
+HYUNDAI,1.7 CRDi 115 Creative,2016,130000,Diesel,null,null,Manuelle,5,6,null,null,14990
+Renault,1.5 dci  facilité de paiement 4XCB,2002,298000,Diesel,null,null,Manuelle,5,4,5,null,1790
+CITROëN,1.4 HDi70,2008,158728,Diesel,125,null,Manuelle,null,4,4,null,1900
+RENAULT,1.2 16v 75 Expression,2007,190073,Essence,135,null,Manuelle,2,5,4,null,3200
+Citroen,1.4 hdi - facilité de paiement 4XCB,2006,159000,Diesel,null,null,Manuelle,5,4,5,null,3290
+RENAULT,1.5 dCi 75 Air e²,2013,143850,Diesel,85,null,Manuelle,2,6,2,null,4200
+RENAULT,1.5 dCi 75 Air MédiaNav e² 90g,2015,138064,Diesel,90,null,Manuelle,4,6,2,null,5290
+Peugeot,1.6 THP 16v Allure 5pl,2011,103646,Essence,169,null,Manuelle,4,9,5,null,5500
+RENAULT,1.5 dCi 95 Air e² 2015,2015,135970,Diesel,105,null,Manuelle,4,5,2,null,5890
+Volkswagen,1.4 80 Concept 5p,2011,142182,Essence,149,null,Manuelle,4,5,5,null,5890
+RENAULT,1.5 dCi 75 egy Air MédiaNav E6,2016,128235,Diesel,85,null,Manuelle,4,4,2,null,6690
+Peugeot,1.6 BlueHDi 75 Pack Clim Nav 5p,2016,143274,Diesel,90,null,Manuelle,4,4,2,null,6690
+RENAULT,1.5 dCi 95 Air e² 2015,2015,80481,Diesel,105,null,Manuelle,4,6,2,null,6990
+Citroën,1.6 BlueHDi 75 S&S Feel Nav,2017,122666,Diesel,97,null,Manuelle,4,4,2,null,7900
+RENAULT,dCi 130 egy Business E6 2015,2016,168113,Diesel,114,null,Manuelle,4,7,5,null,7900
+Citroën,1.6 BlueHDi 75 S&S Feel Nav,2017,102053,Diesel,97,null,Manuelle,4,4,2,null,8290
+Citroën,1.6 BlueHDi 75 S&S Feel Nav,2017,108291,Diesel,97,null,Manuelle,4,4,2,null,8290
+RENAULT,1.5 dCi 90 egy Air,2017,106821,Diesel,95,null,Manuelle,4,4,2,null,8490
+Peugeot,1.6 BlueHDi 100 S&S Active Bus.,2018,146757,Diesel,95,null,Manuelle,4,5,5,null,8500
+RENAULT,1.5 dCi 75 egy Extra R-Link E6,2017,139747,Diesel,112,null,Manuelle,2,5,2,null,8690
+Citroën,1.6 BlueHDi 75 S&S Feel Nav,2017,74060,Diesel,97,null,Manuelle,4,4,2,null,9290
+RENAULT,1.5 dCi 90 egy Air Nav,2017,99744,Diesel,95,null,Manuelle,4,4,2,null,9490
+RENAULT,dCi 90 Energy Maxi CA Grd Cft,2016,141080,Diesel,123,null,Manuelle,2,5,5,null,9890
+Citroën,1.6 BlueHDi 100 S&S Feel Nav,2019,76980,Diesel,86,null,Manuelle,4,5,2,null,9990
+RENAULT,1.5 dCi 75 egy Grand Confort E6,2017,66913,Diesel,112,null,Manuelle,2,5,2,null,10190
+RENAULT,1.5 dCi 75 Grand Confort,2019,95339,Diesel,112,null,Manuelle,2,5,2,null,10900
+Peugeot,1.6 BlueHDi 120 S&S Active Bus. BC,2017,103382,Diesel,85,null,Manuelle,4,5,2,null,10900
+RENAULT,1.5 dCi 75 egy Grand Confort E6,2018,85019,Diesel,112,null,Manuelle,2,5,2,null,10990
+RENAULT,Maxi 1.5 dCi 90 egy CA Gd Cft E6,2019,94734,Diesel,123,null,Manuelle,2,5,5,null,13500
+Volkswagen,1.6 TDI 115 BT FP Conf Bus 5p,2018,125910,Diesel,100,null,Manuelle,4,6,5,null,13900
