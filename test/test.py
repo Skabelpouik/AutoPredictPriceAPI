@@ -1,4 +1,3 @@
-from doctest import testfile
 import requests, json
 import pickle as p
 import pandas as pd
