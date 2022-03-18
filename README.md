@@ -10,6 +10,11 @@
     * predict_app
         * app.py: Flask API application
         * models: directory that contains the pickled model files
+    * scrapping
+        * annonces_auto.csv: ads file
+        * annonces_pagination.csv: url file
+        * konbert-export-516369765ab94.sql
+        * scrapping.ipynb: script scrapping 
     * test
         * test.py: request file for testing API
     * requirements.txt: list of packages that the app will import
